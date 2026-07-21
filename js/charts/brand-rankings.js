@@ -107,42 +107,46 @@ function renderBrandTable() {
     <tr class="expand-row" id="expand-${b.brand_slug}">
       <td colspan="8">
         <div class="expand-detail">
-          <div>
-            <div class="expand-item-label">成立年份</div>
-            <div class="expand-item-value">${b.founded_year}</div>
+          <div class="expand-section-title">📋 品牌详情</div>
+          <div class="expand-detail-grid">
+            <div>
+              <div class="expand-item-label">成立年份</div>
+              <div class="expand-item-value">${b.founded_year}</div>
+            </div>
+            <div>
+              <div class="expand-item-label">旗舰产品</div>
+              <div class="expand-item-value">${b.flagship_product}</div>
+            </div>
+            <div>
+              <div class="expand-item-label">追踪商品数</div>
+              <div class="expand-item-value">${b.product_count} SKU</div>
+            </div>
+            <div>
+              <div class="expand-item-label">最佳渠道排名</div>
+              <div class="expand-item-value">${b.best_rank ? '#' + b.best_rank + ' (' + b.best_channel + ')' : 'N/A'}</div>
+            </div>
+            <div>
+              <div class="expand-item-label">京东状态</div>
+              <div class="expand-item-value">${b.jd_available ? '✅ 已上架' : '❌ 未引入'}</div>
+            </div>
+            <div>
+              <div class="expand-item-label">天猫状态</div>
+              <div class="expand-item-value">${b.tmall_available ? '✅ 已上架' : '❌ 未引入'}</div>
+            </div>
+            <div>
+              <div class="expand-item-label">社媒渠道数</div>
+              <div class="expand-item-value">${b.social.length} 平台追踪中</div>
+            </div>
+            <div>
+              <div class="expand-item-label">竞品集合</div>
+              <div class="expand-item-value">${b.competitor_set.slice(0, 4).join(', ')}</div>
+            </div>
+            <div style="grid-column:1/-1">
+              <div class="expand-item-label">备注</div>
+              <div class="expand-item-value" style="color:var(--text-secondary)">${b.notes}</div>
+            </div>
           </div>
-          <div>
-            <div class="expand-item-label">旗舰产品</div>
-            <div class="expand-item-value">${b.flagship_product}</div>
-          </div>
-          <div>
-            <div class="expand-item-label">追踪商品数</div>
-            <div class="expand-item-value">${b.product_count} SKU</div>
-          </div>
-          <div>
-            <div class="expand-item-label">最佳渠道排名</div>
-            <div class="expand-item-value">${b.best_rank ? '#' + b.best_rank + ' (' + b.best_channel + ')' : 'N/A'}</div>
-          </div>
-          <div>
-            <div class="expand-item-label">京东状态</div>
-            <div class="expand-item-value">${b.jd_available ? '✅ 已上架' : '❌ 未引入'}</div>
-          </div>
-          <div>
-            <div class="expand-item-label">天猫状态</div>
-            <div class="expand-item-value">${b.tmall_available ? '✅ 已上架' : '❌ 未引入'}</div>
-          </div>
-          <div>
-            <div class="expand-item-label">社媒渠道数</div>
-            <div class="expand-item-value">${b.social.length} 平台追踪中</div>
-          </div>
-          <div>
-            <div class="expand-item-label">竞品集合</div>
-            <div class="expand-item-value">${b.competitor_set.slice(0, 4).join(', ')}</div>
-          </div>
-          <div style="grid-column:1/-1">
-            <div class="expand-item-label">备注</div>
-            <div class="expand-item-value" style="color:var(--text-secondary)">${b.notes}</div>
-          </div>
+          ${buildProductSubTable(b)}
         </div>
       </td>
     </tr>
@@ -162,6 +166,72 @@ function toggleBrandExpand(slug, row) {
   if (!isOpen) {
     expandRow.classList.add('show');
   }
+}
+
+const CHANNEL_NAMES = {
+  'amazon_us': 'Amazon US', 'iherb': 'iHerb', 'walmart': 'Walmart',
+  'bodybuilding_com': 'BB.com', 'gnc': 'GNC', 'costco': 'Costco'
+};
+
+function buildProductSubTable(brand) {
+  const products = brand.products || [];
+  if (!products.length) return '';
+
+  const rows = products.map(p => {
+    // Aggregate across channels
+    const channels = Object.entries(p.channel_presence || {});
+    const prices = channels.map(([_, c]) => c.current_price_usd).filter(Boolean);
+    const ratings = channels.map(([_, c]) => c.rating).filter(Boolean);
+    const reviews = channels.map(([_, c]) => c.review_count || 0);
+    const ranks = channels.map(([_, c]) => c.bestseller_rank || c.bestseller_position).filter(Boolean);
+
+    const bestPrice = prices.length ? Math.min(...prices) : null;
+    const bestRating = ratings.length ? Math.max(...ratings) : null;
+    const totalReviews = reviews.reduce((a, b) => a + b, 0);
+    const bestRank = ranks.length ? Math.min(...ranks) : null;
+
+    const channelKeys = ['amazon_us', 'iherb', 'walmart', 'bodybuilding_com', 'gnc', 'costco'];
+
+    return `
+    <tr>
+      <td>
+        <div class="prod-name">${p.product_name}</div>
+        <div class="prod-variant">${p.size} · ${p.flavor}</div>
+      </td>
+      <td><span class="tag tag-blue">${CATEGORY_NAMES[p.category] || p.category}</span></td>
+      <td>${bestPrice ? formatPrice(bestPrice) : 'N/A'}</td>
+      <td>${bestRating ? getRatingStars(bestRating) + ' <span style="color:var(--text-muted);font-size:11px;">' + bestRating.toFixed(1) + '</span>' : 'N/A'}</td>
+      <td>${totalReviews > 0 ? formatNumber(totalReviews) : 'N/A'}</td>
+      <td>${bestRank ? '#' + bestRank : 'N/A'}</td>
+      <td>
+        <div class="channel-dots" title="${channelKeys.filter(k => p.channel_presence && p.channel_presence[k]).map(k => CHANNEL_NAMES[k]).join(', ')}">
+          ${channelKeys.map(k => {
+            const present = p.channel_presence && p.channel_presence[k];
+            return `<span class="channel-dot${present ? '' : ' inactive'}" title="${CHANNEL_NAMES[k]}${present ? ': ✓' : ': ✗'}"></span>`;
+          }).join('')}
+        </div>
+      </td>
+    </tr>`;
+  }).join('');
+
+  return `
+    <div class="expand-section-title">📦 旗下商品 <span class="count-badge">(${products.length} SKU)</span></div>
+    <div class="data-table-wrap">
+      <table class="product-sub-table">
+        <thead>
+          <tr>
+            <th>商品名称</th>
+            <th>品类</th>
+            <th>最低价</th>
+            <th>最高评分</th>
+            <th>总评价数</th>
+            <th>最佳排名</th>
+            <th>渠道</th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>`;
 }
 
 // Table header click handler
