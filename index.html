@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>运动营养全球寻源看板 | Sports Nutrition Sourcing Dashboard</title>
+<link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+
+<!-- Loading Overlay -->
+<div id="loading-overlay" style="position:fixed;top:0;left:0;width:100%;height:100%;background:var(--bg-primary);z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:16px;">
+  <div style="width:48px;height:48px;border:3px solid var(--border);border-top-color:var(--accent-green);border-radius:50%;animation:spin 0.8s linear infinite;"></div>
+  <div style="color:var(--text-muted);font-size:14px;">加载数据中...</div>
+</div>
+<style>@keyframes spin{to{transform:rotate(360deg)}}</style>
+
+<!-- ===== Header ===== -->
+<header class="header">
+  <div class="header-brand">
+    <div class="header-logo">💪</div>
+    <div>
+      <div class="header-title">运动营养全球寻源看板</div>
+      <div class="header-subtitle">Sports Nutrition Global Sourcing Intelligence</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="data-status">
+      <span class="status-dot" id="header-status-dot"></span>
+      <span id="header-last-update">最后更新: 加载中...</span>
+    </div>
+  </div>
+</header>
+
+<!-- ===== Tab Navigation ===== -->
+<nav class="tab-nav">
+  <button class="tab-btn active" data-tab="overview">📊 概览仪表盘</button>
+  <button class="tab-btn" data-tab="brands">🏷️ 品牌排行榜</button>
+  <button class="tab-btn" data-tab="opportunity">🎯 机会雷达</button>
+  <button class="tab-btn" data-tab="compare">⚔️ 竞品对标</button>
+  <button class="tab-btn" data-tab="trending">🔥 热搜趋势</button>
+  <button class="tab-btn" data-tab="category">🗺️ 品类地图</button>
+  <button class="tab-btn" data-tab="sources">📡 数据源状态</button>
+</nav>
+
+<!-- ===== Main Content ===== -->
+<main class="main-content">
+
+  <!-- ========== TAB 1: Overview ========== -->
+  <div class="tab-panel active" id="panel-overview">
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-label">追踪品牌总数</div>
+        <div class="kpi-value" id="kpi-brands">--</div>
+        <div class="kpi-change up">全球北美澳新欧洲</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">追踪商品总数</div>
+        <div class="kpi-value" id="kpi-products">--</div>
+        <div class="kpi-change up">跨 6 大渠道</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">活跃数据渠道</div>
+        <div class="kpi-value" id="kpi-channels">--</div>
+        <div class="kpi-change up">含社媒追踪</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">京东未覆盖品牌</div>
+        <div class="kpi-value" id="kpi-jd-gap">--</div>
+        <div class="kpi-change down" id="kpi-jd-gap-pct">--</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">社媒总粉丝量</div>
+        <div class="kpi-value" id="kpi-social">--</div>
+        <div class="kpi-change up">跨 YouTube/IG/TikTok</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">🏆 Top 10 品牌综合评分</div>
+          <div class="chart-card-badge badge-hot">综合指数</div>
+        </div>
+        <div class="chart-wrapper large"><canvas id="chart-top-brands"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">📡 数据源状态概览</div>
+          <div class="chart-card-badge badge-new">实时</div>
+        </div>
+        <div class="source-grid" id="source-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== TAB 2: Brand Rankings ========== -->
+  <div class="tab-panel" id="panel-brands">
+    <div class="filters-bar">
+      <select class="filter-select" id="brand-category-filter"><option value="all">全部品类</option></select>
+      <select class="filter-select" id="brand-region-filter"><option value="all">全部区域</option></select>
+      <input class="filter-search" id="brand-search" placeholder="🔍 搜索品牌名或母公司...">
+    </div>
+    <div class="chart-card">
+      <div class="data-table-wrap">
+        <table class="data-table" id="brand-table">
+          <thead>
+            <tr>
+              <th data-sort="global_rank">全球排名<span class="sort-arrow"></span></th>
+              <th data-sort="brand_name">品牌名称<span class="sort-arrow"></span></th>
+              <th data-sort="headquarters_country">国家<span class="sort-arrow"></span></th>
+              <th>主营品类</th>
+              <th data-sort="best_rank">最佳渠道排名<span class="sort-arrow"></span></th>
+              <th data-sort="total_followers">社媒粉丝<span class="sort-arrow"></span></th>
+              <th data-sort="composite_score">综合评分<span class="sort-arrow"></span></th>
+              <th>京东状态</th>
+            </tr>
+          </thead>
+          <tbody id="brand-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== TAB 3: Opportunity Radar ========== -->
+  <div class="tab-panel" id="panel-opportunity">
+    <div class="filters-bar">
+      <select class="filter-select" id="opportunity-category-filter"><option value="all">全部品类</option></select>
+      <span style="color:var(--text-muted);font-size:13px;margin-left:8px;">🔴 红色=未引入京东 · 🟢 绿色=已上架京东 · 右上角=高机会缺口</span>
+    </div>
+    <div class="chart-grid">
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">🎯 机会缺口雷达</div>
+          <div class="chart-card-badge badge-hot">京东缺口</div>
+        </div>
+        <div class="chart-wrapper large"><canvas id="chart-opportunity-radar"></canvas></div>
+      </div>
+    </div>
+    <div class="chart-card" style="margin-top:16px;">
+      <div class="chart-card-header">
+        <div class="chart-card-title">📋 Top 15 未引入京东品牌</div>
+      </div>
+      <div class="data-table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr><th>#</th><th>品牌</th><th>国家</th><th>全球排名</th><th>社媒粉丝</th><th>总评价</th><th>京东状态</th></tr>
+          </thead>
+          <tbody id="opportunity-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== TAB 4: Competitor Compare ========== -->
+  <div class="tab-panel" id="panel-compare">
+    <div class="chart-card" style="margin-bottom:20px;">
+      <div class="chart-card-header">
+        <div class="chart-card-title">选择品牌对比（点击切换，最多5个）</div>
+      </div>
+      <div class="compare-selector" id="compare-selector"></div>
+    </div>
+    <div class="chart-grid">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-card-title">⚔️ 雷达图对比</div></div>
+        <div class="chart-wrapper large"><canvas id="chart-radar-compare"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-card-title">📊 指标明细对比</div></div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr><th>品牌</th><th>均价</th><th>评分</th><th>总评价数</th><th>社媒粉丝</th><th>SKU数</th><th>社媒增速</th></tr>
+            </thead>
+            <tbody id="compare-table-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== TAB 5: Trending Topics ========== -->
+  <div class="tab-panel" id="panel-trending">
+    <div class="chart-grid">
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">🔥 热门话题/成分/品类</div>
+          <div class="chart-card-badge badge-hot">社媒聚合</div>
+        </div>
+        <div class="chart-wrapper large"><canvas id="chart-trending-bars"></canvas></div>
+        <div class="topic-tags" id="topic-tags-container"></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">📈 品类增长率 vs 市场规模</div>
+          <div class="chart-card-badge badge-trend">市场趋势</div>
+        </div>
+        <div class="chart-wrapper large"><canvas id="chart-trending-line"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== TAB 6: Category Map ========== -->
+  <div class="tab-panel" id="panel-category">
+    <div class="chart-grid">
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">🗺️ 全球运动营养品类市场占比</div>
+          <div class="chart-card-badge badge-trend">市场规模 $B</div>
+        </div>
+        <div class="chart-wrapper large"><canvas id="chart-category-treemap"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <div class="chart-card-title">📋 品类详情</div>
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr><th>品类</th><th>全球规模</th><th>YoY增速</th><th>趋势成分</th><th>覆盖情况</th><th>京东覆盖</th></tr>
+            </thead>
+            <tbody id="category-table-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== TAB 7: Sources ========== -->
+  <div class="tab-panel" id="panel-sources">
+    <div class="chart-card" id="sources-detail-card">
+      <div class="chart-card-header">
+        <div class="chart-card-title">📡 全部数据源状态</div>
+        <div class="chart-card-badge badge-new" id="sources-count-badge">9 渠道</div>
+      </div>
+      <div class="source-grid" id="sources-full-grid"></div>
+    </div>
+  </div>
+
+</main>
+
+<!-- ===== Scripts ===== -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/data-loader.js"></script>
+<script src="js/charts/overview.js"></script>
+<script src="js/charts/brand-rankings.js"></script>
+<script src="js/charts/opportunity-radar.js"></script>
+<script src="js/charts/competitor-compare.js"></script>
+<script src="js/charts/trending-topics.js"></script>
+<script src="js/charts/category-map.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

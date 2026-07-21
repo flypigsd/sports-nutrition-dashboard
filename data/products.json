@@ -1,0 +1,553 @@
+[
+  {
+    "product_id": "on-gold-standard-whey-5lb-dc",
+    "brand_slug": "optimum-nutrition",
+    "product_name": "Gold Standard 100% Whey",
+    "size": "5 lbs",
+    "flavor": "Double Rich Chocolate",
+    "category": "whey-protein",
+    "servings": 73,
+    "protein_per_serving_g": 24,
+    "channel_presence": {
+      "amazon_us": {"asin":"B000QSNYGI","current_price_usd":64.99,"list_price_usd":89.99,"rating":4.7,"review_count":124563,"bestseller_rank":1,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/optimum-nutrition-gold-standard-100-whey","current_price_usd":59.99,"rating":4.8,"review_count":8942,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"},
+      "bodybuilding_com": {"product_url":"https://www.bodybuilding.com/store/optimum-nutrition-gold-standard-whey.html","current_price_usd":62.99,"rating":4.9,"review_count":3500,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "on-gold-standard-whey-2lb-vanilla",
+    "brand_slug": "optimum-nutrition",
+    "product_name": "Gold Standard 100% Whey",
+    "size": "2 lbs",
+    "flavor": "Vanilla Ice Cream",
+    "category": "whey-protein",
+    "servings": 29,
+    "protein_per_serving_g": 24,
+    "channel_presence": {
+      "amazon_us": {"asin":"B000QSTBNS","current_price_usd":34.99,"list_price_usd":44.99,"rating":4.6,"review_count":38000,"bestseller_rank":5,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/optimum-nutrition-gold-standard-100-whey-vanilla","current_price_usd":32.99,"rating":4.7,"review_count":3200,"bestseller_position":4,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "myprotein-impact-whey-5-5lb-choc",
+    "brand_slug": "myprotein",
+    "product_name": "Impact Whey Protein",
+    "size": "5.5 lbs (2.5kg)",
+    "flavor": "Chocolate Smooth",
+    "category": "whey-protein",
+    "servings": 100,
+    "protein_per_serving_g": 21,
+    "channel_presence": {
+      "amazon_us": {"asin":"B001PFPZ5Q","current_price_usd":49.99,"list_price_usd":69.99,"rating":4.4,"review_count":42000,"bestseller_rank":8,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/myprotein-impact-whey-protein","current_price_usd":45.99,"rating":4.5,"review_count":5200,"bestseller_position":6,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "myprotein-clear-whey-20sv",
+    "brand_slug": "myprotein",
+    "product_name": "Clear Whey Isolate",
+    "size": "20 servings",
+    "flavor": "Lemonade",
+    "category": "whey-protein",
+    "servings": 20,
+    "protein_per_serving_g": 20,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09XYZ1234","current_price_usd":29.99,"list_price_usd":39.99,"rating":4.2,"review_count":8500,"bestseller_rank":22,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/myprotein-clear-whey-isolate","current_price_usd":27.99,"rating":4.3,"review_count":2100,"bestseller_position":15,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "dymatize-iso100-5lb-fb",
+    "brand_slug": "dymatize",
+    "product_name": "ISO100 Hydrolyzed",
+    "size": "5 lbs",
+    "flavor": "Fruity Pebbles",
+    "category": "whey-protein",
+    "servings": 71,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B01MTLM4QJ","current_price_usd":74.99,"list_price_usd":99.99,"rating":4.6,"review_count":35000,"bestseller_rank":4,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/dymatize-iso100","current_price_usd":69.99,"rating":4.7,"review_count":4100,"bestseller_position":3,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "ghost-whey-2lb-oreo",
+    "brand_slug": "ghost",
+    "product_name": "Ghost Whey",
+    "size": "2 lbs",
+    "flavor": "Oreo",
+    "category": "whey-protein",
+    "servings": 26,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B08XYZ5678","current_price_usd":44.99,"list_price_usd":54.99,"rating":4.7,"review_count":18000,"bestseller_rank":7,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/ghost-whey-oreo","current_price_usd":42.99,"rating":4.8,"review_count":2800,"bestseller_position":7,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "ghost-whey-2lb-chips-ahoy",
+    "brand_slug": "ghost",
+    "product_name": "Ghost Whey",
+    "size": "2 lbs",
+    "flavor": "Chips Ahoy",
+    "category": "whey-protein",
+    "servings": 26,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09ABC8765","current_price_usd":44.99,"list_price_usd":54.99,"rating":4.8,"review_count":12500,"bestseller_rank":10,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "isopure-zero-carb-3lb",
+    "brand_slug": "isopure",
+    "product_name": "Zero Carb Whey Isolate",
+    "size": "3 lbs",
+    "flavor": "Creamy Vanilla",
+    "category": "whey-protein",
+    "servings": 44,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00CIZ7B5C","current_price_usd":42.99,"list_price_usd":54.99,"rating":4.5,"review_count":28000,"bestseller_rank":12,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "c4-original-pre-30sv",
+    "brand_slug": "c4-cellucor",
+    "product_name": "C4 Original Pre-Workout",
+    "size": "30 servings",
+    "flavor": "Fruit Punch",
+    "category": "pre-workout",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00KSY1B1Q","current_price_usd":24.99,"list_price_usd":34.99,"rating":4.3,"review_count":95000,"bestseller_rank":1,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/cellucor-c4-original","current_price_usd":22.99,"rating":4.3,"review_count":6200,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"},
+      "bodybuilding_com": {"product_url":"https://www.bodybuilding.com/store/cellucor-c4-original.html","current_price_usd":24.99,"rating":4.4,"review_count":8900,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "gorilla-mode-pre-40sv",
+    "brand_slug": "gorilla-mode",
+    "product_name": "Gorilla Mode Pre-Workout",
+    "size": "40 servings",
+    "flavor": "Tiger's Blood",
+    "category": "pre-workout",
+    "servings": 40,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09DEF4321","current_price_usd":49.99,"list_price_usd":59.99,"rating":4.8,"review_count":8500,"bestseller_rank":3,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "ryse-loaded-pre-30sv",
+    "brand_slug": "ryse",
+    "product_name": "RYSE Loaded Pre",
+    "size": "30 servings",
+    "flavor": "Blue Raspberry",
+    "category": "pre-workout",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B08GHI9999","current_price_usd":39.99,"list_price_usd":49.99,"rating":4.7,"review_count":12000,"bestseller_rank":4,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "alani-nu-pre-30sv",
+    "brand_slug": "alani-nu",
+    "product_name": "Alani Nu Pre-Workout",
+    "size": "30 servings",
+    "flavor": "Breezeberry",
+    "category": "pre-workout",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B08JKL5555","current_price_usd":34.99,"list_price_usd":44.99,"rating":4.6,"review_count":16000,"bestseller_rank":2,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/alani-nu-pre-workout","current_price_usd":32.99,"rating":4.6,"review_count":3800,"bestseller_position":3,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "bucked-up-pre-30sv",
+    "brand_slug": "bucked-up",
+    "product_name": "Bucked Up Pre-Workout",
+    "size": "30 servings",
+    "flavor": "Blood Raz",
+    "category": "pre-workout",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B07MNO4444","current_price_usd":44.99,"list_price_usd":54.99,"rating":4.4,"review_count":22000,"bestseller_rank":6,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "quest-bar-cookie-dough-12ct",
+    "brand_slug": "quest",
+    "product_name": "Quest Protein Bar",
+    "size": "12 bars",
+    "flavor": "Chocolate Chip Cookie Dough",
+    "category": "protein-bars",
+    "servings": 12,
+    "protein_per_serving_g": 21,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00DITE69W","current_price_usd":24.99,"list_price_usd":32.99,"rating":4.3,"review_count":75000,"bestseller_rank":1,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/quest-bar-cookie-dough","current_price_usd":22.99,"rating":4.3,"review_count":4500,"bestseller_position":2,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "barebells-bar-12ct",
+    "brand_slug": "barebells",
+    "product_name": "Barebells Protein Bar",
+    "size": "12 bars",
+    "flavor": "Cookies & Cream",
+    "category": "protein-bars",
+    "servings": 12,
+    "protein_per_serving_g": 20,
+    "channel_presence": {
+      "amazon_us": {"asin":"B08PQR7777","current_price_usd":29.99,"list_price_usd":35.99,"rating":4.8,"review_count":9500,"bestseller_rank":3,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "built-puff-bar-12ct",
+    "brand_slug": "built-bar",
+    "product_name": "Built Puff Bar",
+    "size": "12 bars",
+    "flavor": "Brownie Batter",
+    "category": "protein-bars",
+    "servings": 12,
+    "protein_per_serving_g": 17,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09UVW8888","current_price_usd":27.99,"list_price_usd":34.99,"rating":4.6,"review_count":18000,"bestseller_rank":5,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "grenade-carb-killa-12ct",
+    "brand_slug": "grenade",
+    "product_name": "Grenade Carb Killa Bar",
+    "size": "12 bars",
+    "flavor": "White Chocolate Salted Peanut",
+    "category": "protein-bars",
+    "servings": 12,
+    "protein_per_serving_g": 23,
+    "channel_presence": {
+      "amazon_us": {"asin":"B07RST1111","current_price_usd":28.99,"list_price_usd":34.99,"rating":4.5,"review_count":14000,"bestseller_rank":4,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "premier-protein-shake-12ct",
+    "brand_slug": "premier-protein",
+    "product_name": "Premier Protein Shake",
+    "size": "12 bottles (11 fl oz)",
+    "flavor": "Chocolate",
+    "category": "rtd-shakes",
+    "servings": 12,
+    "protein_per_serving_g": 30,
+    "channel_presence": {
+      "amazon_us": {"asin":"B079D3DF7R","current_price_usd":27.99,"list_price_usd":34.99,"rating":4.5,"review_count":85000,"bestseller_rank":1,"bestseller_category":"Sports Nutrition Ready-to-Drink","in_stock":true,"last_scraped":"2026-07-15"},
+      "walmart": {"product_url":"https://www.walmart.com/ip/Premier-Protein-Shake-Chocolate-12ct","current_price_usd":24.98,"rating":4.4,"review_count":12000,"in_stock":true,"last_scraped":"2026-07-16"}
+    }
+  },
+  {
+    "product_id": "fairlife-core-power-elite-12ct",
+    "brand_slug": "fairlife-core-power",
+    "product_name": "Core Power Elite 42g",
+    "size": "12 bottles (14 fl oz)",
+    "flavor": "Chocolate",
+    "category": "rtd-shakes",
+    "servings": 12,
+    "protein_per_serving_g": 42,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09STU2222","current_price_usd":34.99,"list_price_usd":42.99,"rating":4.7,"review_count":28000,"bestseller_rank":3,"bestseller_category":"Sports Nutrition Ready-to-Drink","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "liquid-iv-hydration-16ct",
+    "brand_slug": "liquid-iv",
+    "product_name": "Hydration Multiplier",
+    "size": "16 packets",
+    "flavor": "Lemon Lime",
+    "category": "electrolytes",
+    "servings": 16,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09GHI3333","current_price_usd":22.99,"list_price_usd":27.99,"rating":4.6,"review_count":65000,"bestseller_rank":1,"bestseller_category":"Electrolyte Supplements","in_stock":true,"last_scraped":"2026-07-15"},
+      "walmart": {"product_url":"https://www.walmart.com/ip/Liquid-IV-Hydration-Multiplier-16ct","current_price_usd":21.98,"rating":4.5,"review_count":8500,"in_stock":true,"last_scraped":"2026-07-16"}
+    }
+  },
+  {
+    "product_id": "lmnt-electrolytes-30ct",
+    "brand_slug": "lmnt",
+    "product_name": "LMNT Electrolyte Packets",
+    "size": "30 packets",
+    "flavor": "Citrus Salt",
+    "category": "electrolytes",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09JKL4444","current_price_usd":39.99,"list_price_usd":45.00,"rating":4.7,"review_count":18000,"bestseller_rank":3,"bestseller_category":"Electrolyte Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "vital-proteins-collagen-24oz",
+    "brand_slug": "vital-proteins",
+    "product_name": "Collagen Peptides",
+    "size": "24 oz",
+    "flavor": "Unflavored",
+    "category": "collagen",
+    "servings": 45,
+    "protein_per_serving_g": 18,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00NXR0N7U","current_price_usd":39.99,"list_price_usd":49.99,"rating":4.5,"review_count":55000,"bestseller_rank":1,"bestseller_category":"Collagen Supplements","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/vital-proteins-collagen-peptides","current_price_usd":37.99,"rating":4.5,"review_count":3200,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "thorne-creatine-16oz",
+    "brand_slug": "thorne",
+    "product_name": "Thorne Creatine",
+    "size": "16 oz",
+    "flavor": "Unflavored",
+    "category": "creatine",
+    "servings": 90,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00H5P4F7Y","current_price_usd":29.99,"list_price_usd":39.99,"rating":4.9,"review_count":22000,"bestseller_rank":3,"bestseller_category":"Creatine Supplements","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/thorne-creatine","current_price_usd":28.99,"rating":4.9,"review_count":1800,"bestseller_position":2,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "orgain-organic-protein-2lb",
+    "brand_slug": "orgain",
+    "product_name": "Organic Protein Powder",
+    "size": "2.03 lbs",
+    "flavor": "Creamy Chocolate Fudge",
+    "category": "plant-protein",
+    "servings": 20,
+    "protein_per_serving_g": 21,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00IWOFEHG","current_price_usd":29.99,"list_price_usd":37.99,"rating":4.4,"review_count":42000,"bestseller_rank":1,"bestseller_category":"Plant-Based Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/orgain-organic-protein","current_price_usd":27.99,"rating":4.4,"review_count":5500,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "vega-protein-greens-2lb",
+    "brand_slug": "vega",
+    "product_name": "Vega Protein & Greens",
+    "size": "1.9 lbs",
+    "flavor": "Vanilla",
+    "category": "plant-protein",
+    "servings": 20,
+    "protein_per_serving_g": 20,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00KQAOSUG","current_price_usd":31.99,"list_price_usd":39.99,"rating":4.3,"review_count":18000,"bestseller_rank":4,"bestseller_category":"Plant-Based Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "transparent-labs-whey-2lb",
+    "brand_slug": "transparent-labs",
+    "product_name": "Grass-Fed Whey Isolate",
+    "size": "2 lbs",
+    "flavor": "French Vanilla",
+    "category": "whey-protein",
+    "servings": 30,
+    "protein_per_serving_g": 28,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09MNO5555","current_price_usd":49.99,"list_price_usd":59.99,"rating":4.6,"review_count":8500,"bestseller_rank":18,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "naked-whey-5lb",
+    "brand_slug": "naked-nutrition",
+    "product_name": "Naked Whey",
+    "size": "5 lbs",
+    "flavor": "Unflavored",
+    "category": "whey-protein",
+    "servings": 76,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00MNOKE5U","current_price_usd":54.99,"list_price_usd":64.99,"rating":4.4,"review_count":25000,"bestseller_rank":15,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "legion-whey-plus-2lb",
+    "brand_slug": "legion",
+    "product_name": "Legion Whey+",
+    "size": "2 lbs",
+    "flavor": "Cinnamon Cereal",
+    "category": "whey-protein",
+    "servings": 30,
+    "protein_per_serving_g": 22,
+    "channel_presence": {
+      "amazon_us": {"asin":"B07PQR6666","current_price_usd":49.99,"list_price_usd":59.99,"rating":4.5,"review_count":6200,"bestseller_rank":24,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "esn-designer-whey-2-2lb",
+    "brand_slug": "esn",
+    "product_name": "ESN Designer Whey",
+    "size": "2.2 lbs (1kg)",
+    "flavor": "Chocolate",
+    "category": "whey-protein",
+    "servings": 33,
+    "protein_per_serving_g": 23,
+    "channel_presence": {
+      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+    }
+  },
+  {
+    "product_id": "bulk-pure-whey-5-5lb",
+    "brand_slug": "bulk",
+    "product_name": "Bulk Pure Whey Protein",
+    "size": "5.5 lbs (2.5kg)",
+    "flavor": "Chocolate",
+    "category": "whey-protein",
+    "servings": 100,
+    "protein_per_serving_g": 22,
+    "channel_presence": {
+      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+    }
+  },
+  {
+    "product_id": "bulk-nutrients-wpi-2-2lb",
+    "brand_slug": "bulk-nutrients",
+    "product_name": "Bulk Nutrients WPI",
+    "size": "2.2 lbs (1kg)",
+    "flavor": "Chocolate",
+    "category": "whey-protein",
+    "servings": 33,
+    "protein_per_serving_g": 27,
+    "channel_presence": {
+      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+    }
+  },
+  {
+    "product_id": "allmax-isoflex-5lb",
+    "brand_slug": "allmax",
+    "product_name": "ALLMAX ISOFLEX",
+    "size": "5 lbs",
+    "flavor": "Chocolate Peanut Butter",
+    "category": "whey-protein",
+    "servings": 71,
+    "protein_per_serving_g": 27,
+    "channel_presence": {
+      "amazon_us": {"asin":"B01N7K4RSP","current_price_usd":59.99,"list_price_usd":74.99,"rating":4.5,"review_count":11000,"bestseller_rank":19,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "muscletech-nitrotech-4lb",
+    "brand_slug": "muscletech",
+    "product_name": "Nitro-Tech Whey",
+    "size": "4 lbs",
+    "flavor": "Milk Chocolate",
+    "category": "whey-protein",
+    "servings": 55,
+    "protein_per_serving_g": 30,
+    "channel_presence": {
+      "amazon_us": {"asin":"B00GSMYC4W","current_price_usd":44.99,"list_price_usd":59.99,"rating":4.5,"review_count":32000,"bestseller_rank":9,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
+      "bodybuilding_com": {"product_url":"https://www.bodybuilding.com/store/muscletech/nitro-tech.html","current_price_usd":42.99,"rating":4.5,"review_count":5200,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "bsn-syntha6-5lb",
+    "brand_slug": "bsn",
+    "product_name": "Syntha-6",
+    "size": "5 lbs",
+    "flavor": "Chocolate Peanut Butter",
+    "category": "whey-protein",
+    "servings": 48,
+    "protein_per_serving_g": 22,
+    "channel_presence": {
+      "amazon_us": {"asin":"B0015R26U6","current_price_usd":49.99,"list_price_usd":64.99,"rating":4.5,"review_count":28000,"bestseller_rank":14,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "total-war-pre-30sv",
+    "brand_slug": "total-war-redcon1",
+    "product_name": "Total War Pre-Workout",
+    "size": "30 servings",
+    "flavor": "Sour Gummy",
+    "category": "pre-workout",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B07STU7777","current_price_usd":34.99,"list_price_usd":44.99,"rating":4.4,"review_count":19000,"bestseller_rank":5,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "xtend-bcaa-30sv",
+    "brand_slug": "xtend",
+    "product_name": "Xtend Original BCAA",
+    "size": "30 servings",
+    "flavor": "Blue Raspberry",
+    "category": "bcaa-eaa",
+    "servings": 30,
+    "protein_per_serving_g": 0,
+    "channel_presence": {
+      "amazon_us": {"asin":"B004TJC1JY","current_price_usd":21.99,"list_price_usd":28.99,"rating":4.6,"review_count":38000,"bestseller_rank":1,"bestseller_category":"BCAA Supplements","in_stock":true,"last_scraped":"2026-07-15"},
+      "iherb": {"product_url":"https://www.iherb.com/pr/xtend-bcaa","current_price_usd":19.99,"rating":4.6,"review_count":4800,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"}
+    }
+  },
+  {
+    "product_id": "one-bar-12ct",
+    "brand_slug": "one-bar",
+    "product_name": "ONE Protein Bar",
+    "size": "12 bars",
+    "flavor": "Birthday Cake",
+    "category": "protein-bars",
+    "servings": 12,
+    "protein_per_serving_g": 20,
+    "channel_presence": {
+      "amazon_us": {"asin":"B08VWX9999","current_price_usd":23.99,"list_price_usd":29.99,"rating":4.4,"review_count":32000,"bestseller_rank":2,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "genetix-lean-whey-2lb",
+    "brand_slug": "genetix",
+    "product_name": "Genetix Lean Whey",
+    "size": "2 lbs",
+    "flavor": "Chocolate",
+    "category": "whey-protein",
+    "servings": 30,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+    }
+  },
+  {
+    "product_id": "vpa-wpc80-2lb",
+    "brand_slug": "vpa-australia",
+    "product_name": "VPA WPC 80",
+    "size": "2 lbs",
+    "flavor": "Chocolate",
+    "category": "whey-protein",
+    "servings": 30,
+    "protein_per_serving_g": 24,
+    "channel_presence": {
+      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+    }
+  },
+  {
+    "product_id": "nutrabio-wpi-5lb",
+    "brand_slug": "nutrabio",
+    "product_name": "100% Whey Protein Isolate",
+    "size": "5 lbs",
+    "flavor": "Chocolate",
+    "category": "whey-protein",
+    "servings": 71,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B08ABC1111","current_price_usd":59.99,"list_price_usd":74.99,"rating":4.7,"review_count":4800,"bestseller_rank":28,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  },
+  {
+    "product_id": "rule1-whey-blend-5lb",
+    "brand_slug": "rule-1",
+    "product_name": "R1 Whey Blend",
+    "size": "5 lbs",
+    "flavor": "Vanilla Ice Cream",
+    "category": "whey-protein",
+    "servings": 71,
+    "protein_per_serving_g": 25,
+    "channel_presence": {
+      "amazon_us": {"asin":"B09DEF2222","current_price_usd":49.99,"list_price_usd":64.99,"rating":4.5,"review_count":7500,"bestseller_rank":20,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+    }
+  }
+]

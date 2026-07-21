@@ -1,0 +1,65 @@
+[
+  {"brand_slug":"optimum-nutrition","platform":"youtube","channel_id":"UCxqJ530F4QWgqMqFf0QZ5gQ","handle":"@OptimumNutrition","subscriber_count":1250000,"total_views":195000000,"video_count":450,"avg_views_per_video_30d":35000,"engagement_rate_pct":3.2,"posting_frequency_per_week":2.1,"top_video_tags":["whey protein","recipe","workout","supplement review"],"growth_rate_30d_pct":1.8,"last_updated":"2026-07-20"},
+  {"brand_slug":"optimum-nutrition","platform":"instagram","handle":"optimumnutrition","follower_count":3200000,"avg_likes_per_post_30d":12500,"avg_comments_per_post_30d":320,"posting_frequency_per_week":5.5,"growth_rate_30d_pct":0.9,"last_updated":"2026-07-20"},
+  {"brand_slug":"optimum-nutrition","platform":"tiktok","handle":"optimumnutrition","follower_count":850000,"avg_views_per_video_30d":125000,"avg_likes_per_video_30d":8500,"posting_frequency_per_week":4.2,"growth_rate_30d_pct":5.3,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"myprotein","platform":"youtube","channel_id":"UCx8pPMfT8O0FqWKxqUNsA","handle":"@MyproteinOfficial","subscriber_count":980000,"total_views":145000000,"video_count":620,"avg_views_per_video_30d":28000,"engagement_rate_pct":4.1,"posting_frequency_per_week":3.5,"top_video_tags":["myprotein","whey","recipe","fitness","haul"],"growth_rate_30d_pct":2.3,"last_updated":"2026-07-20"},
+  {"brand_slug":"myprotein","platform":"instagram","handle":"myprotein","follower_count":8900000,"avg_likes_per_post_30d":18000,"avg_comments_per_post_30d":450,"posting_frequency_per_week":7.0,"growth_rate_30d_pct":1.1,"last_updated":"2026-07-20"},
+  {"brand_slug":"myprotein","platform":"tiktok","handle":"myprotein","follower_count":2200000,"avg_views_per_video_30d":280000,"avg_likes_per_video_30d":22000,"posting_frequency_per_week":6.5,"growth_rate_30d_pct":7.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"ghost","platform":"youtube","channel_id":"UCz3L9qYrLQvP8xqMf0VQs","handle":"@GhostLifestyle","subscriber_count":450000,"total_views":58000000,"video_count":280,"avg_views_per_video_30d":65000,"engagement_rate_pct":6.5,"posting_frequency_per_week":3.8,"top_video_tags":["ghost lifestyle","supplement review","oreo","collab"],"growth_rate_30d_pct":8.5,"last_updated":"2026-07-20"},
+  {"brand_slug":"ghost","platform":"instagram","handle":"ghostlifestyle","follower_count":2100000,"avg_likes_per_post_30d":25000,"avg_comments_per_post_30d":680,"posting_frequency_per_week":6.0,"growth_rate_30d_pct":3.5,"last_updated":"2026-07-20"},
+  {"brand_slug":"ghost","platform":"tiktok","handle":"ghostlifestyle","follower_count":1800000,"avg_views_per_video_30d":350000,"avg_likes_per_video_30d":45000,"posting_frequency_per_week":5.5,"growth_rate_30d_pct":12.1,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"ryse","platform":"youtube","channel_id":"UCy6Q8mFpLmGxR3tKqWvN0","handle":"@RYSESupps","subscriber_count":380000,"total_views":42000000,"video_count":210,"avg_views_per_video_30d":72000,"engagement_rate_pct":7.2,"posting_frequency_per_week":4.2,"top_video_tags":["ryse pre workout","review","gym","fitness"],"growth_rate_30d_pct":11.3,"last_updated":"2026-07-20"},
+  {"brand_slug":"ryse","platform":"instagram","handle":"ryse","follower_count":1500000,"avg_likes_per_post_30d":18000,"avg_comments_per_post_30d":520,"posting_frequency_per_week":5.8,"growth_rate_30d_pct":5.8,"last_updated":"2026-07-20"},
+  {"brand_slug":"ryse","platform":"tiktok","handle":"rysesupps","follower_count":2500000,"avg_views_per_video_30d":520000,"avg_likes_per_video_30d":68000,"posting_frequency_per_week":7.5,"growth_rate_30d_pct":18.4,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"alani-nu","platform":"youtube","channel_id":"UCk5LqZvPmR2tN8fKxWjY0","handle":"@AlaniNu","subscriber_count":520000,"total_views":65000000,"video_count":320,"avg_views_per_video_30d":82000,"engagement_rate_pct":5.8,"posting_frequency_per_week":4.5,"top_video_tags":["alani nu","pre workout review","women fitness","haul"],"growth_rate_30d_pct":9.2,"last_updated":"2026-07-20"},
+  {"brand_slug":"alani-nu","platform":"instagram","handle":"alaninutrition","follower_count":2800000,"avg_likes_per_post_30d":32000,"avg_comments_per_post_30d":850,"posting_frequency_per_week":6.5,"growth_rate_30d_pct":4.2,"last_updated":"2026-07-20"},
+  {"brand_slug":"alani-nu","platform":"tiktok","handle":"alaninutrition","follower_count":3200000,"avg_views_per_video_30d":680000,"avg_likes_per_video_30d":85000,"posting_frequency_per_week":8.0,"growth_rate_30d_pct":15.5,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"gorilla-mode","platform":"youtube","channel_id":"UCp8jNfT9LqWvK2xR7mY0","handle":"@MorePlatesMoreDates","subscriber_count":2100000,"total_views":420000000,"video_count":850,"avg_views_per_video_30d":180000,"engagement_rate_pct":8.5,"posting_frequency_per_week":3.2,"top_video_tags":["gorilla mode","pre workout","supplement science","steroids"],"growth_rate_30d_pct":4.5,"last_updated":"2026-07-20"},
+  {"brand_slug":"gorilla-mode","platform":"instagram","handle":"gorillamind","follower_count":890000,"avg_likes_per_post_30d":15000,"avg_comments_per_post_30d":450,"posting_frequency_per_week":4.0,"growth_rate_30d_pct":5.1,"last_updated":"2026-07-20"},
+  {"brand_slug":"gorilla-mode","platform":"tiktok","handle":"gorillamind","follower_count":1100000,"avg_views_per_video_30d":250000,"avg_likes_per_video_30d":32000,"posting_frequency_per_week":5.0,"growth_rate_30d_pct":10.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"bucked-up","platform":"instagram","handle":"buckedup","follower_count":1100000,"avg_likes_per_post_30d":8500,"avg_comments_per_post_30d":280,"posting_frequency_per_week":5.2,"growth_rate_30d_pct":2.8,"last_updated":"2026-07-20"},
+  {"brand_slug":"bucked-up","platform":"tiktok","handle":"buckedup","follower_count":1600000,"avg_views_per_video_30d":180000,"avg_likes_per_video_30d":25000,"posting_frequency_per_week":6.0,"growth_rate_30d_pct":8.5,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"quest","platform":"instagram","handle":"questnutrition","follower_count":1200000,"avg_likes_per_post_30d":6500,"avg_comments_per_post_30d":180,"posting_frequency_per_week":4.5,"growth_rate_30d_pct":1.2,"last_updated":"2026-07-20"},
+  {"brand_slug":"quest","platform":"tiktok","handle":"questnutrition","follower_count":750000,"avg_views_per_video_30d":95000,"avg_likes_per_video_30d":12000,"posting_frequency_per_week":3.5,"growth_rate_30d_pct":4.8,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"liquid-iv","platform":"instagram","handle":"liquidiv","follower_count":750000,"avg_likes_per_post_30d":5800,"avg_comments_per_post_30d":220,"posting_frequency_per_week":5.8,"growth_rate_30d_pct":3.5,"last_updated":"2026-07-20"},
+  {"brand_slug":"liquid-iv","platform":"tiktok","handle":"liquidiv","follower_count":920000,"avg_views_per_video_30d":150000,"avg_likes_per_video_30d":18000,"posting_frequency_per_week":6.5,"growth_rate_30d_pct":9.8,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"c4-cellucor","platform":"instagram","handle":"cellucor","follower_count":950000,"avg_likes_per_post_30d":4200,"avg_comments_per_post_30d":120,"posting_frequency_per_week":4.0,"growth_rate_30d_pct":0.8,"last_updated":"2026-07-20"},
+  {"brand_slug":"c4-cellucor","platform":"tiktok","handle":"cellucor","follower_count":580000,"avg_views_per_video_30d":85000,"avg_likes_per_video_30d":9500,"posting_frequency_per_week":3.0,"growth_rate_30d_pct":3.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"premier-protein","platform":"instagram","handle":"premierprotein","follower_count":320000,"avg_likes_per_post_30d":1800,"avg_comments_per_post_30d":65,"posting_frequency_per_week":3.5,"growth_rate_30d_pct":1.5,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"vital-proteins","platform":"instagram","handle":"vitalproteins","follower_count":680000,"avg_likes_per_post_30d":5500,"avg_comments_per_post_30d":180,"posting_frequency_per_week":5.0,"growth_rate_30d_pct":2.8,"last_updated":"2026-07-20"},
+  {"brand_slug":"vital-proteins","platform":"tiktok","handle":"vitalproteins","follower_count":420000,"avg_views_per_video_30d":78000,"avg_likes_per_video_30d":8500,"posting_frequency_per_week":4.5,"growth_rate_30d_pct":6.5,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"fairlife-core-power","platform":"instagram","handle":"fairlife","follower_count":180000,"avg_likes_per_post_30d":2200,"avg_comments_per_post_30d":80,"posting_frequency_per_week":2.5,"growth_rate_30d_pct":2.1,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"lmnt","platform":"instagram","handle":"drinklmnt","follower_count":520000,"avg_likes_per_post_30d":7500,"avg_comments_per_post_30d":350,"posting_frequency_per_week":5.5,"growth_rate_30d_pct":6.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"orgain","platform":"instagram","handle":"orgain","follower_count":450000,"avg_likes_per_post_30d":3200,"avg_comments_per_post_30d":110,"posting_frequency_per_week":4.5,"growth_rate_30d_pct":2.5,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"myprotein","platform":"youtube","channel_id":"UCx8pPMfT8O0FqWKxqUNsA","handle":"@MyproteinOfficial","subscriber_count":980000,"total_views":145000000,"video_count":620,"avg_views_per_video_30d":28000,"engagement_rate_pct":4.1,"posting_frequency_per_week":3.5,"top_video_tags":["myprotein","whey","recipe","fitness","haul"],"growth_rate_30d_pct":2.3,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"bulk","platform":"instagram","handle":"bulk","follower_count":850000,"avg_likes_per_post_30d":5500,"avg_comments_per_post_30d":150,"posting_frequency_per_week":5.0,"growth_rate_30d_pct":2.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"esn","platform":"instagram","handle":"esncom","follower_count":620000,"avg_likes_per_post_30d":4800,"avg_comments_per_post_30d":130,"posting_frequency_per_week":5.8,"growth_rate_30d_pct":3.1,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"barebells","platform":"instagram","handle":"barebells","follower_count":380000,"avg_likes_per_post_30d":8500,"avg_comments_per_post_30d":280,"posting_frequency_per_week":5.2,"growth_rate_30d_pct":8.5,"last_updated":"2026-07-20"},
+  {"brand_slug":"barebells","platform":"tiktok","handle":"barebells","follower_count":520000,"avg_views_per_video_30d":120000,"avg_likes_per_video_30d":15000,"posting_frequency_per_week":4.8,"growth_rate_30d_pct":14.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"grenade","platform":"instagram","handle":"grenadeofficial","follower_count":720000,"avg_likes_per_post_30d":6500,"avg_comments_per_post_30d":200,"posting_frequency_per_week":4.5,"growth_rate_30d_pct":3.0,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"transparent-labs","platform":"instagram","handle":"transparentlabs","follower_count":280000,"avg_likes_per_post_30d":2800,"avg_comments_per_post_30d":95,"posting_frequency_per_week":3.5,"growth_rate_30d_pct":4.2,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"legion","platform":"youtube","channel_id":"UCq2LmN8VxR5tPkWfMjY3","handle":"@LegionAthletics","subscriber_count":180000,"total_views":12000000,"video_count":340,"avg_views_per_video_30d":8500,"engagement_rate_pct":5.5,"posting_frequency_per_week":2.5,"top_video_tags":["legion athletics","whey protein","evidence based","supplement science"],"growth_rate_30d_pct":3.8,"last_updated":"2026-07-20"},
+
+  {"brand_slug":"applied-nutrition","platform":"instagram","handle":"appliednutrition","follower_count":550000,"avg_likes_per_post_30d":3800,"avg_comments_per_post_30d":120,"posting_frequency_per_week":4.8,"growth_rate_30d_pct":4.5,"last_updated":"2026-07-20"}
+]

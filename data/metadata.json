@@ -1,0 +1,23 @@
+{
+  "dashboard_version": "1.0.0",
+  "total_brands": 48,
+  "total_products": 180,
+  "total_channels": 9,
+  "data_freshness": {
+    "amazon_us": "2026-07-15",
+    "iherb": "2026-07-18",
+    "walmart": "2026-07-16",
+    "costco": "2026-07-10",
+    "bodybuilding_com": "2026-07-18",
+    "gnc": "2026-07-17",
+    "youtube": "2026-07-20",
+    "tiktok": null,
+    "instagram": null
+  },
+  "last_scrape_run": "2026-07-18T14:30:00Z",
+  "last_scrape_duration_seconds": 380,
+  "last_scrape_status": "partial_success",
+  "scrape_errors": [
+    "amazon_us: 8 products failed with CAPTCHA"
+  ]
+}

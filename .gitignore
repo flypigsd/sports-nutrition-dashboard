@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+*.spec
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+scraper/playwright-browsers/
