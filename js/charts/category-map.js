@@ -15,12 +15,7 @@ function renderCategoryMap(data) {
       labels: categories.map(c => CATEGORY_NAMES[c.category_slug] || c.category_name),
       datasets: [{
         data: categories.map(c => c.estimated_global_market_size_usd_bn),
-        backgroundColor: categories.map(c => {
-          if (c.yoy_growth_pct >= 10) return '#3ecf8ecc';
-          if (c.yoy_growth_pct >= 7) return '#4d9fffcc';
-          if (c.yoy_growth_pct >= 5) return '#fbbf24cc';
-          return '#6b6f80cc';
-        }),
+        backgroundColor: categories.map(c => CATEGORY_COLORS[c.category_slug] || '#6b6f80'),
         borderColor: '#1a1d2e',
         borderWidth: 2,
         hoverBorderColor: '#e8eaed'
