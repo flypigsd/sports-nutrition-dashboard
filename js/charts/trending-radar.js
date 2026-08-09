@@ -1,7 +1,8 @@
 // ===== Trending Radar - 12-Platform Real-time Search =====
-// Calls friend's backend at localhost:18787
+// Backend must run locally on port 18787
 
-var RADAR_API = (window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost') ? '' : 'http://127.0.0.1:18787';
+var RADAR_API = '';
+var radarLocalURL = 'http://127.0.0.1:18787/';
 var radarState = {
   backendOnline: false,
   search: null,
@@ -14,8 +15,26 @@ var radarState = {
 };
 
 function renderTrendingRadar(data) {
+  // Only works on localhost — redirect GitHub Pages users to local version
+  if (window.location.hostname !== '127.0.0.1' && window.location.hostname !== 'localhost') {
+    showRadarLocalRedirect();
+    return;
+  }
+  radarLocalURL = window.location.origin + '/';
   setupRadarUI();
   checkBackend();
+}
+
+function showRadarLocalRedirect() {
+  var panel = document.getElementById('panel-radar');
+  if (!panel) return;
+  panel.innerHTML = '<div style="text-align:center;padding:60px 20px;">' +
+    '<div style="font-size:48px;margin-bottom:20px;">🔍</div>' +
+    '<h3 style="color:var(--text-primary);margin-bottom:12px;">雷达功能需要本地后端</h3>' +
+    '<p style="color:var(--text-muted);margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">实时搜索 12 个海外平台需要在您的电脑上运行 Python 爬虫后端。<br>GitHub Pages 无法执行后端代码，请点击下方按钮打开本地版本。</p>' +
+    '<a href="' + radarLocalURL + '#radar" style="display:inline-block;padding:12px 32px;background:var(--accent-green);color:#000;border-radius:8px;text-decoration:none;font-weight:700;font-size:16px;">🚀 一键打开本地雷达</a>' +
+    '<p style="color:var(--text-muted);margin-top:16px;font-size:12px;">首次使用请先双击 启动看板.bat 启动后端</p>' +
+    '</div>';
 }
 
 function setupRadarUI() {
