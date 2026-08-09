@@ -9,9 +9,34 @@
     "servings": 73,
     "protein_per_serving_g": 24,
     "channel_presence": {
-      "amazon_us": {"asin":"B000QSNYGI","current_price_usd":64.99,"list_price_usd":89.99,"rating":4.7,"review_count":124563,"bestseller_rank":1,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/optimum-nutrition-gold-standard-100-whey","current_price_usd":59.99,"rating":4.8,"review_count":8942,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"},
-      "bodybuilding_com": {"product_url":"https://www.bodybuilding.com/store/optimum-nutrition-gold-standard-whey.html","current_price_usd":62.99,"rating":4.9,"review_count":3500,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B000QSNYGI",
+        "current_price_usd": 64.99,
+        "list_price_usd": 89.99,
+        "rating": 4.7,
+        "review_count": 124563,
+        "bestseller_rank": 1,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/optimum-nutrition-gold-standard-100-whey",
+        "current_price_usd": 59.99,
+        "rating": 4.8,
+        "review_count": 8942,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      },
+      "bodybuilding_com": {
+        "product_url": "https://www.bodybuilding.com/store/optimum-nutrition-gold-standard-whey.html",
+        "current_price_usd": 62.99,
+        "rating": 4.9,
+        "review_count": 3500,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -24,8 +49,26 @@
     "servings": 29,
     "protein_per_serving_g": 24,
     "channel_presence": {
-      "amazon_us": {"asin":"B000QSTBNS","current_price_usd":34.99,"list_price_usd":44.99,"rating":4.6,"review_count":38000,"bestseller_rank":5,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/optimum-nutrition-gold-standard-100-whey-vanilla","current_price_usd":32.99,"rating":4.7,"review_count":3200,"bestseller_position":4,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B000QSTBNS",
+        "current_price_usd": 34.99,
+        "list_price_usd": 44.99,
+        "rating": 4.6,
+        "review_count": 38000,
+        "bestseller_rank": 5,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/optimum-nutrition-gold-standard-100-whey-vanilla",
+        "current_price_usd": 32.99,
+        "rating": 4.7,
+        "review_count": 3200,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -38,8 +81,26 @@
     "servings": 100,
     "protein_per_serving_g": 21,
     "channel_presence": {
-      "amazon_us": {"asin":"B001PFPZ5Q","current_price_usd":49.99,"list_price_usd":69.99,"rating":4.4,"review_count":42000,"bestseller_rank":8,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/myprotein-impact-whey-protein","current_price_usd":45.99,"rating":4.5,"review_count":5200,"bestseller_position":6,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B001PFPZ5Q",
+        "current_price_usd": 49.99,
+        "list_price_usd": 69.99,
+        "rating": 4.4,
+        "review_count": 42000,
+        "bestseller_rank": 8,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/myprotein-impact-whey-protein",
+        "current_price_usd": 45.99,
+        "rating": 4.5,
+        "review_count": 5200,
+        "bestseller_position": 6,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -52,8 +113,26 @@
     "servings": 20,
     "protein_per_serving_g": 20,
     "channel_presence": {
-      "amazon_us": {"asin":"B09XYZ1234","current_price_usd":29.99,"list_price_usd":39.99,"rating":4.2,"review_count":8500,"bestseller_rank":22,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/myprotein-clear-whey-isolate","current_price_usd":27.99,"rating":4.3,"review_count":2100,"bestseller_position":15,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B09XYZ1234",
+        "current_price_usd": 29.99,
+        "list_price_usd": 39.99,
+        "rating": 4.2,
+        "review_count": 8500,
+        "bestseller_rank": 22,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/myprotein-clear-whey-isolate",
+        "current_price_usd": 27.99,
+        "rating": 4.3,
+        "review_count": 2100,
+        "bestseller_position": 15,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -66,8 +145,26 @@
     "servings": 71,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B01MTLM4QJ","current_price_usd":74.99,"list_price_usd":99.99,"rating":4.6,"review_count":35000,"bestseller_rank":4,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/dymatize-iso100","current_price_usd":69.99,"rating":4.7,"review_count":4100,"bestseller_position":3,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B01MTLM4QJ",
+        "current_price_usd": 74.99,
+        "list_price_usd": 99.99,
+        "rating": 4.6,
+        "review_count": 35000,
+        "bestseller_rank": 4,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/dymatize-iso100",
+        "current_price_usd": 69.99,
+        "rating": 4.7,
+        "review_count": 4100,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -80,8 +177,26 @@
     "servings": 26,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B08XYZ5678","current_price_usd":44.99,"list_price_usd":54.99,"rating":4.7,"review_count":18000,"bestseller_rank":7,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/ghost-whey-oreo","current_price_usd":42.99,"rating":4.8,"review_count":2800,"bestseller_position":7,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B08XYZ5678",
+        "current_price_usd": 44.99,
+        "list_price_usd": 54.99,
+        "rating": 4.7,
+        "review_count": 18000,
+        "bestseller_rank": 7,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/ghost-whey-oreo",
+        "current_price_usd": 42.99,
+        "rating": 4.8,
+        "review_count": 2800,
+        "bestseller_position": 7,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -94,7 +209,17 @@
     "servings": 26,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B09ABC8765","current_price_usd":44.99,"list_price_usd":54.99,"rating":4.8,"review_count":12500,"bestseller_rank":10,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09ABC8765",
+        "current_price_usd": 44.99,
+        "list_price_usd": 54.99,
+        "rating": 4.8,
+        "review_count": 12500,
+        "bestseller_rank": 10,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -107,7 +232,17 @@
     "servings": 44,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B00CIZ7B5C","current_price_usd":42.99,"list_price_usd":54.99,"rating":4.5,"review_count":28000,"bestseller_rank":12,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B00CIZ7B5C",
+        "current_price_usd": 42.99,
+        "list_price_usd": 54.99,
+        "rating": 4.5,
+        "review_count": 28000,
+        "bestseller_rank": 12,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -120,9 +255,34 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B00KSY1B1Q","current_price_usd":24.99,"list_price_usd":34.99,"rating":4.3,"review_count":95000,"bestseller_rank":1,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/cellucor-c4-original","current_price_usd":22.99,"rating":4.3,"review_count":6200,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"},
-      "bodybuilding_com": {"product_url":"https://www.bodybuilding.com/store/cellucor-c4-original.html","current_price_usd":24.99,"rating":4.4,"review_count":8900,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B00KSY1B1Q",
+        "current_price_usd": 24.99,
+        "list_price_usd": 34.99,
+        "rating": 4.3,
+        "review_count": 95000,
+        "bestseller_rank": 1,
+        "bestseller_category": "Pre-Workout Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/cellucor-c4-original",
+        "current_price_usd": 22.99,
+        "rating": 4.3,
+        "review_count": 6200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      },
+      "bodybuilding_com": {
+        "product_url": "https://www.bodybuilding.com/store/cellucor-c4-original.html",
+        "current_price_usd": 24.99,
+        "rating": 4.4,
+        "review_count": 8900,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -135,7 +295,17 @@
     "servings": 40,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B09DEF4321","current_price_usd":49.99,"list_price_usd":59.99,"rating":4.8,"review_count":8500,"bestseller_rank":3,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09DEF4321",
+        "current_price_usd": 49.99,
+        "list_price_usd": 59.99,
+        "rating": 4.8,
+        "review_count": 8500,
+        "bestseller_rank": 3,
+        "bestseller_category": "Pre-Workout Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -148,7 +318,17 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B08GHI9999","current_price_usd":39.99,"list_price_usd":49.99,"rating":4.7,"review_count":12000,"bestseller_rank":4,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B08GHI9999",
+        "current_price_usd": 39.99,
+        "list_price_usd": 49.99,
+        "rating": 4.7,
+        "review_count": 12000,
+        "bestseller_rank": 4,
+        "bestseller_category": "Pre-Workout Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -161,8 +341,26 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B08JKL5555","current_price_usd":34.99,"list_price_usd":44.99,"rating":4.6,"review_count":16000,"bestseller_rank":2,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/alani-nu-pre-workout","current_price_usd":32.99,"rating":4.6,"review_count":3800,"bestseller_position":3,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B08JKL5555",
+        "current_price_usd": 34.99,
+        "list_price_usd": 44.99,
+        "rating": 4.6,
+        "review_count": 16000,
+        "bestseller_rank": 2,
+        "bestseller_category": "Pre-Workout Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/alani-nu-pre-workout",
+        "current_price_usd": 32.99,
+        "rating": 4.6,
+        "review_count": 3800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -175,7 +373,17 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B07MNO4444","current_price_usd":44.99,"list_price_usd":54.99,"rating":4.4,"review_count":22000,"bestseller_rank":6,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B07MNO4444",
+        "current_price_usd": 44.99,
+        "list_price_usd": 54.99,
+        "rating": 4.4,
+        "review_count": 22000,
+        "bestseller_rank": 6,
+        "bestseller_category": "Pre-Workout Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -188,8 +396,26 @@
     "servings": 12,
     "protein_per_serving_g": 21,
     "channel_presence": {
-      "amazon_us": {"asin":"B00DITE69W","current_price_usd":24.99,"list_price_usd":32.99,"rating":4.3,"review_count":75000,"bestseller_rank":1,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/quest-bar-cookie-dough","current_price_usd":22.99,"rating":4.3,"review_count":4500,"bestseller_position":2,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B00DITE69W",
+        "current_price_usd": 24.99,
+        "list_price_usd": 32.99,
+        "rating": 4.3,
+        "review_count": 75000,
+        "bestseller_rank": 1,
+        "bestseller_category": "Protein Bars",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/quest-bar-cookie-dough",
+        "current_price_usd": 22.99,
+        "rating": 4.3,
+        "review_count": 4500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -202,7 +428,17 @@
     "servings": 12,
     "protein_per_serving_g": 20,
     "channel_presence": {
-      "amazon_us": {"asin":"B08PQR7777","current_price_usd":29.99,"list_price_usd":35.99,"rating":4.8,"review_count":9500,"bestseller_rank":3,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B08PQR7777",
+        "current_price_usd": 29.99,
+        "list_price_usd": 35.99,
+        "rating": 4.8,
+        "review_count": 9500,
+        "bestseller_rank": 3,
+        "bestseller_category": "Protein Bars",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -215,7 +451,17 @@
     "servings": 12,
     "protein_per_serving_g": 17,
     "channel_presence": {
-      "amazon_us": {"asin":"B09UVW8888","current_price_usd":27.99,"list_price_usd":34.99,"rating":4.6,"review_count":18000,"bestseller_rank":5,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09UVW8888",
+        "current_price_usd": 27.99,
+        "list_price_usd": 34.99,
+        "rating": 4.6,
+        "review_count": 18000,
+        "bestseller_rank": 5,
+        "bestseller_category": "Protein Bars",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -228,7 +474,17 @@
     "servings": 12,
     "protein_per_serving_g": 23,
     "channel_presence": {
-      "amazon_us": {"asin":"B07RST1111","current_price_usd":28.99,"list_price_usd":34.99,"rating":4.5,"review_count":14000,"bestseller_rank":4,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B07RST1111",
+        "current_price_usd": 28.99,
+        "list_price_usd": 34.99,
+        "rating": 4.5,
+        "review_count": 14000,
+        "bestseller_rank": 4,
+        "bestseller_category": "Protein Bars",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -241,8 +497,25 @@
     "servings": 12,
     "protein_per_serving_g": 30,
     "channel_presence": {
-      "amazon_us": {"asin":"B079D3DF7R","current_price_usd":27.99,"list_price_usd":34.99,"rating":4.5,"review_count":85000,"bestseller_rank":1,"bestseller_category":"Sports Nutrition Ready-to-Drink","in_stock":true,"last_scraped":"2026-07-15"},
-      "walmart": {"product_url":"https://www.walmart.com/ip/Premier-Protein-Shake-Chocolate-12ct","current_price_usd":24.98,"rating":4.4,"review_count":12000,"in_stock":true,"last_scraped":"2026-07-16"}
+      "amazon_us": {
+        "asin": "B079D3DF7R",
+        "current_price_usd": 27.99,
+        "list_price_usd": 34.99,
+        "rating": 4.5,
+        "review_count": 85000,
+        "bestseller_rank": 1,
+        "bestseller_category": "Sports Nutrition Ready-to-Drink",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "walmart": {
+        "product_url": "https://www.walmart.com/ip/Premier-Protein-Shake-Chocolate-12ct",
+        "current_price_usd": 24.98,
+        "rating": 4.4,
+        "review_count": 12000,
+        "in_stock": true,
+        "last_scraped": "2026-07-16"
+      }
     }
   },
   {
@@ -255,7 +528,17 @@
     "servings": 12,
     "protein_per_serving_g": 42,
     "channel_presence": {
-      "amazon_us": {"asin":"B09STU2222","current_price_usd":34.99,"list_price_usd":42.99,"rating":4.7,"review_count":28000,"bestseller_rank":3,"bestseller_category":"Sports Nutrition Ready-to-Drink","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09STU2222",
+        "current_price_usd": 34.99,
+        "list_price_usd": 42.99,
+        "rating": 4.7,
+        "review_count": 28000,
+        "bestseller_rank": 3,
+        "bestseller_category": "Sports Nutrition Ready-to-Drink",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -268,8 +551,25 @@
     "servings": 16,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B09GHI3333","current_price_usd":22.99,"list_price_usd":27.99,"rating":4.6,"review_count":65000,"bestseller_rank":1,"bestseller_category":"Electrolyte Supplements","in_stock":true,"last_scraped":"2026-07-15"},
-      "walmart": {"product_url":"https://www.walmart.com/ip/Liquid-IV-Hydration-Multiplier-16ct","current_price_usd":21.98,"rating":4.5,"review_count":8500,"in_stock":true,"last_scraped":"2026-07-16"}
+      "amazon_us": {
+        "asin": "B09GHI3333",
+        "current_price_usd": 22.99,
+        "list_price_usd": 27.99,
+        "rating": 4.6,
+        "review_count": 65000,
+        "bestseller_rank": 1,
+        "bestseller_category": "Electrolyte Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "walmart": {
+        "product_url": "https://www.walmart.com/ip/Liquid-IV-Hydration-Multiplier-16ct",
+        "current_price_usd": 21.98,
+        "rating": 4.5,
+        "review_count": 8500,
+        "in_stock": true,
+        "last_scraped": "2026-07-16"
+      }
     }
   },
   {
@@ -282,7 +582,17 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B09JKL4444","current_price_usd":39.99,"list_price_usd":45.00,"rating":4.7,"review_count":18000,"bestseller_rank":3,"bestseller_category":"Electrolyte Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09JKL4444",
+        "current_price_usd": 39.99,
+        "list_price_usd": 45.0,
+        "rating": 4.7,
+        "review_count": 18000,
+        "bestseller_rank": 3,
+        "bestseller_category": "Electrolyte Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -295,8 +605,26 @@
     "servings": 45,
     "protein_per_serving_g": 18,
     "channel_presence": {
-      "amazon_us": {"asin":"B00NXR0N7U","current_price_usd":39.99,"list_price_usd":49.99,"rating":4.5,"review_count":55000,"bestseller_rank":1,"bestseller_category":"Collagen Supplements","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/vital-proteins-collagen-peptides","current_price_usd":37.99,"rating":4.5,"review_count":3200,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B00NXR0N7U",
+        "current_price_usd": 39.99,
+        "list_price_usd": 49.99,
+        "rating": 4.5,
+        "review_count": 55000,
+        "bestseller_rank": 1,
+        "bestseller_category": "Collagen Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/vital-proteins-collagen-peptides",
+        "current_price_usd": 37.99,
+        "rating": 4.5,
+        "review_count": 3200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -309,8 +637,26 @@
     "servings": 90,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B00H5P4F7Y","current_price_usd":29.99,"list_price_usd":39.99,"rating":4.9,"review_count":22000,"bestseller_rank":3,"bestseller_category":"Creatine Supplements","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/thorne-creatine","current_price_usd":28.99,"rating":4.9,"review_count":1800,"bestseller_position":2,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B00H5P4F7Y",
+        "current_price_usd": 29.99,
+        "list_price_usd": 39.99,
+        "rating": 4.9,
+        "review_count": 22000,
+        "bestseller_rank": 3,
+        "bestseller_category": "Creatine Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/thorne-creatine",
+        "current_price_usd": 28.99,
+        "rating": 4.9,
+        "review_count": 1800,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -323,8 +669,26 @@
     "servings": 20,
     "protein_per_serving_g": 21,
     "channel_presence": {
-      "amazon_us": {"asin":"B00IWOFEHG","current_price_usd":29.99,"list_price_usd":37.99,"rating":4.4,"review_count":42000,"bestseller_rank":1,"bestseller_category":"Plant-Based Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/orgain-organic-protein","current_price_usd":27.99,"rating":4.4,"review_count":5500,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B00IWOFEHG",
+        "current_price_usd": 29.99,
+        "list_price_usd": 37.99,
+        "rating": 4.4,
+        "review_count": 42000,
+        "bestseller_rank": 1,
+        "bestseller_category": "Plant-Based Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/orgain-organic-protein",
+        "current_price_usd": 27.99,
+        "rating": 4.4,
+        "review_count": 5500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -337,7 +701,17 @@
     "servings": 20,
     "protein_per_serving_g": 20,
     "channel_presence": {
-      "amazon_us": {"asin":"B00KQAOSUG","current_price_usd":31.99,"list_price_usd":39.99,"rating":4.3,"review_count":18000,"bestseller_rank":4,"bestseller_category":"Plant-Based Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B00KQAOSUG",
+        "current_price_usd": 31.99,
+        "list_price_usd": 39.99,
+        "rating": 4.3,
+        "review_count": 18000,
+        "bestseller_rank": 4,
+        "bestseller_category": "Plant-Based Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -350,7 +724,17 @@
     "servings": 30,
     "protein_per_serving_g": 28,
     "channel_presence": {
-      "amazon_us": {"asin":"B09MNO5555","current_price_usd":49.99,"list_price_usd":59.99,"rating":4.6,"review_count":8500,"bestseller_rank":18,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09MNO5555",
+        "current_price_usd": 49.99,
+        "list_price_usd": 59.99,
+        "rating": 4.6,
+        "review_count": 8500,
+        "bestseller_rank": 18,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -363,7 +747,17 @@
     "servings": 76,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B00MNOKE5U","current_price_usd":54.99,"list_price_usd":64.99,"rating":4.4,"review_count":25000,"bestseller_rank":15,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B00MNOKE5U",
+        "current_price_usd": 54.99,
+        "list_price_usd": 64.99,
+        "rating": 4.4,
+        "review_count": 25000,
+        "bestseller_rank": 15,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -376,7 +770,17 @@
     "servings": 30,
     "protein_per_serving_g": 22,
     "channel_presence": {
-      "amazon_us": {"asin":"B07PQR6666","current_price_usd":49.99,"list_price_usd":59.99,"rating":4.5,"review_count":6200,"bestseller_rank":24,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B07PQR6666",
+        "current_price_usd": 49.99,
+        "list_price_usd": 59.99,
+        "rating": 4.5,
+        "review_count": 6200,
+        "bestseller_rank": 24,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -389,7 +793,15 @@
     "servings": 33,
     "protein_per_serving_g": 23,
     "channel_presence": {
-      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+      "amazon_us": {
+        "asin": null,
+        "current_price_usd": null,
+        "rating": null,
+        "review_count": null,
+        "bestseller_rank": null,
+        "in_stock": null,
+        "last_scraped": null
+      }
     }
   },
   {
@@ -402,7 +814,15 @@
     "servings": 100,
     "protein_per_serving_g": 22,
     "channel_presence": {
-      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+      "amazon_us": {
+        "asin": null,
+        "current_price_usd": null,
+        "rating": null,
+        "review_count": null,
+        "bestseller_rank": null,
+        "in_stock": null,
+        "last_scraped": null
+      }
     }
   },
   {
@@ -415,7 +835,15 @@
     "servings": 33,
     "protein_per_serving_g": 27,
     "channel_presence": {
-      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+      "amazon_us": {
+        "asin": null,
+        "current_price_usd": null,
+        "rating": null,
+        "review_count": null,
+        "bestseller_rank": null,
+        "in_stock": null,
+        "last_scraped": null
+      }
     }
   },
   {
@@ -428,7 +856,17 @@
     "servings": 71,
     "protein_per_serving_g": 27,
     "channel_presence": {
-      "amazon_us": {"asin":"B01N7K4RSP","current_price_usd":59.99,"list_price_usd":74.99,"rating":4.5,"review_count":11000,"bestseller_rank":19,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B01N7K4RSP",
+        "current_price_usd": 59.99,
+        "list_price_usd": 74.99,
+        "rating": 4.5,
+        "review_count": 11000,
+        "bestseller_rank": 19,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -441,8 +879,25 @@
     "servings": 55,
     "protein_per_serving_g": 30,
     "channel_presence": {
-      "amazon_us": {"asin":"B00GSMYC4W","current_price_usd":44.99,"list_price_usd":59.99,"rating":4.5,"review_count":32000,"bestseller_rank":9,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"},
-      "bodybuilding_com": {"product_url":"https://www.bodybuilding.com/store/muscletech/nitro-tech.html","current_price_usd":42.99,"rating":4.5,"review_count":5200,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B00GSMYC4W",
+        "current_price_usd": 44.99,
+        "list_price_usd": 59.99,
+        "rating": 4.5,
+        "review_count": 32000,
+        "bestseller_rank": 9,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "bodybuilding_com": {
+        "product_url": "https://www.bodybuilding.com/store/muscletech/nitro-tech.html",
+        "current_price_usd": 42.99,
+        "rating": 4.5,
+        "review_count": 5200,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -455,7 +910,17 @@
     "servings": 48,
     "protein_per_serving_g": 22,
     "channel_presence": {
-      "amazon_us": {"asin":"B0015R26U6","current_price_usd":49.99,"list_price_usd":64.99,"rating":4.5,"review_count":28000,"bestseller_rank":14,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B0015R26U6",
+        "current_price_usd": 49.99,
+        "list_price_usd": 64.99,
+        "rating": 4.5,
+        "review_count": 28000,
+        "bestseller_rank": 14,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -468,7 +933,17 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B07STU7777","current_price_usd":34.99,"list_price_usd":44.99,"rating":4.4,"review_count":19000,"bestseller_rank":5,"bestseller_category":"Pre-Workout Supplements","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B07STU7777",
+        "current_price_usd": 34.99,
+        "list_price_usd": 44.99,
+        "rating": 4.4,
+        "review_count": 19000,
+        "bestseller_rank": 5,
+        "bestseller_category": "Pre-Workout Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -481,8 +956,26 @@
     "servings": 30,
     "protein_per_serving_g": 0,
     "channel_presence": {
-      "amazon_us": {"asin":"B004TJC1JY","current_price_usd":21.99,"list_price_usd":28.99,"rating":4.6,"review_count":38000,"bestseller_rank":1,"bestseller_category":"BCAA Supplements","in_stock":true,"last_scraped":"2026-07-15"},
-      "iherb": {"product_url":"https://www.iherb.com/pr/xtend-bcaa","current_price_usd":19.99,"rating":4.6,"review_count":4800,"bestseller_position":1,"in_stock":true,"last_scraped":"2026-07-18"}
+      "amazon_us": {
+        "asin": "B004TJC1JY",
+        "current_price_usd": 21.99,
+        "list_price_usd": 28.99,
+        "rating": 4.6,
+        "review_count": 38000,
+        "bestseller_rank": 1,
+        "bestseller_category": "BCAA Supplements",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      },
+      "iherb": {
+        "product_url": "https://www.iherb.com/pr/xtend-bcaa",
+        "current_price_usd": 19.99,
+        "rating": 4.6,
+        "review_count": 4800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-07-18"
+      }
     }
   },
   {
@@ -495,7 +988,17 @@
     "servings": 12,
     "protein_per_serving_g": 20,
     "channel_presence": {
-      "amazon_us": {"asin":"B08VWX9999","current_price_usd":23.99,"list_price_usd":29.99,"rating":4.4,"review_count":32000,"bestseller_rank":2,"bestseller_category":"Protein Bars","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B08VWX9999",
+        "current_price_usd": 23.99,
+        "list_price_usd": 29.99,
+        "rating": 4.4,
+        "review_count": 32000,
+        "bestseller_rank": 2,
+        "bestseller_category": "Protein Bars",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -508,7 +1011,15 @@
     "servings": 30,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+      "amazon_us": {
+        "asin": null,
+        "current_price_usd": null,
+        "rating": null,
+        "review_count": null,
+        "bestseller_rank": null,
+        "in_stock": null,
+        "last_scraped": null
+      }
     }
   },
   {
@@ -521,7 +1032,15 @@
     "servings": 30,
     "protein_per_serving_g": 24,
     "channel_presence": {
-      "amazon_us": {"asin":null,"current_price_usd":null,"rating":null,"review_count":null,"bestseller_rank":null,"in_stock":null,"last_scraped":null}
+      "amazon_us": {
+        "asin": null,
+        "current_price_usd": null,
+        "rating": null,
+        "review_count": null,
+        "bestseller_rank": null,
+        "in_stock": null,
+        "last_scraped": null
+      }
     }
   },
   {
@@ -534,7 +1053,17 @@
     "servings": 71,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B08ABC1111","current_price_usd":59.99,"list_price_usd":74.99,"rating":4.7,"review_count":4800,"bestseller_rank":28,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B08ABC1111",
+        "current_price_usd": 59.99,
+        "list_price_usd": 74.99,
+        "rating": 4.7,
+        "review_count": 4800,
+        "bestseller_rank": 28,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
     }
   },
   {
@@ -547,7 +1076,1765 @@
     "servings": 71,
     "protein_per_serving_g": 25,
     "channel_presence": {
-      "amazon_us": {"asin":"B09DEF2222","current_price_usd":49.99,"list_price_usd":64.99,"rating":4.5,"review_count":7500,"bestseller_rank":20,"bestseller_category":"Sports Nutrition Protein Powders","in_stock":true,"last_scraped":"2026-07-15"}
+      "amazon_us": {
+        "asin": "B09DEF2222",
+        "current_price_usd": 49.99,
+        "list_price_usd": 64.99,
+        "rating": 4.5,
+        "review_count": 7500,
+        "bestseller_rank": 20,
+        "bestseller_category": "Sports Nutrition Protein Powders",
+        "in_stock": true,
+        "last_scraped": "2026-07-15"
+      }
+    }
+  },
+  {
+    "product_id": "centrum-centrum-silver-multivitamin-200-tablets",
+    "brand_slug": "centrum",
+    "product_name": "Centrum Silver Multivitamin",
+    "size": "200 tablets",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.7,
+        "review_count": 45000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7QFW8",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 18.99,
+        "rating": 4.8,
+        "review_count": 6200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "centrum-centrum-women-multivitamin-200-tablets",
+    "brand_slug": "centrum",
+    "product_name": "Centrum Women Multivitamin",
+    "size": "200 tablets",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 18.99,
+        "rating": 4.6,
+        "review_count": 38000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7QFQ0",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 17.99,
+        "rating": 4.7,
+        "review_count": 4500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nature-made-nature-made-multivitamin-for-him-300-tablets",
+    "brand_slug": "nature-made",
+    "product_name": "Nature Made Multivitamin For Him",
+    "size": "300 tablets",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 16.99,
+        "rating": 4.7,
+        "review_count": 32000,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7QQS2",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 15.99,
+        "rating": 4.7,
+        "review_count": 3800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      },
+      "walmart": {
+        "current_price_usd": 14.99,
+        "rating": 4.6,
+        "review_count": 2100,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "natures-bounty-nature's-bounty-women's-multivitamin-120-caplets",
+    "brand_slug": "natures-bounty",
+    "product_name": "Nature's Bounty Women's Multivitamin",
+    "size": "120 caplets",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 12.99,
+        "rating": 4.5,
+        "review_count": 28000,
+        "bestseller_position": 6,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7QFW8",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 11.99,
+        "rating": 4.6,
+        "review_count": 2900,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "life-extension-life-extension-two-per-day-multivitamin-120-capsules",
+    "brand_slug": "life-extension",
+    "product_name": "Life Extension Two-Per-Day Multivitamin",
+    "size": "120 capsules",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 22.99,
+        "rating": 4.6,
+        "review_count": 15000,
+        "bestseller_position": 8,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B01M0XRZ1K",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 21.99,
+        "rating": 4.7,
+        "review_count": 2100,
+        "bestseller_position": 7,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "swisse-swisse-ultivite-multivitamin-120-tablets",
+    "brand_slug": "swisse",
+    "product_name": "Swisse Ultivite Multivitamin",
+    "size": "120 tablets",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 24.99,
+        "rating": 4.5,
+        "review_count": 8500,
+        "bestseller_position": 12,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ",
+        "bestseller_category": ""
+      },
+      "iherb": {
+        "current_price_usd": 22.99,
+        "rating": 4.6,
+        "review_count": 5600,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "thorne-research-thorne-basic-nutrients-90-capsules",
+    "brand_slug": "thorne-research",
+    "product_name": "Thorne Basic Nutrients",
+    "size": "90 capsules",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 48.0,
+        "rating": 4.5,
+        "review_count": 5500,
+        "bestseller_position": 18,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B0797M83XG",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 46.0,
+        "rating": 4.6,
+        "review_count": 890,
+        "bestseller_position": 10,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-adam-men's-multivitamin-180-softgels",
+    "brand_slug": "now-foods",
+    "product_name": "NOW ADAM Men's Multivitamin",
+    "size": "180 softgels",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 18.99,
+        "rating": 4.5,
+        "review_count": 12000,
+        "bestseller_position": 10,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7QQS2",
+        "bestseller_category": "Multivitamins"
+      },
+      "iherb": {
+        "current_price_usd": 17.99,
+        "rating": 4.6,
+        "review_count": 3400,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-d3-2000iu-250-softgels",
+    "brand_slug": "nature-made",
+    "product_name": "Nature Made Vitamin D3 2000IU",
+    "size": "250 softgels",
+    "category": "vitamin-d",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 11.99,
+        "rating": 4.8,
+        "review_count": 52000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00GB85MJI",
+        "bestseller_category": "Vitamin D"
+      },
+      "iherb": {
+        "current_price_usd": 10.99,
+        "rating": 4.8,
+        "review_count": 7800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      },
+      "walmart": {
+        "current_price_usd": 9.99,
+        "rating": 4.7,
+        "review_count": 3200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-vitamin-d3-5000iu-240-softgels",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Vitamin D3 5000IU",
+    "size": "240 softgels",
+    "category": "vitamin-d",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 13.99,
+        "rating": 4.7,
+        "review_count": 44000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00A8016R8",
+        "bestseller_category": "Vitamin D"
+      },
+      "iherb": {
+        "current_price_usd": 12.99,
+        "rating": 4.7,
+        "review_count": 6500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "sports-research-sports-research-vitamin-d3+k2-60-softgels",
+    "brand_slug": "sports-research",
+    "product_name": "Sports Research Vitamin D3+K2",
+    "size": "60 softgels",
+    "category": "vitamin-d",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.7,
+        "review_count": 25000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ2",
+        "bestseller_category": "Vitamin D"
+      },
+      "iherb": {
+        "current_price_usd": 18.99,
+        "rating": 4.7,
+        "review_count": 4200,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-c-1000mg-300-tablets",
+    "brand_slug": "nature-made",
+    "product_name": "Nature Made Vitamin C 1000mg",
+    "size": "300 tablets",
+    "category": "vitamin-c",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 14.99,
+        "rating": 4.7,
+        "review_count": 38000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4M0",
+        "bestseller_category": "Vitamin C"
+      },
+      "iherb": {
+        "current_price_usd": 13.99,
+        "rating": 4.7,
+        "review_count": 5200,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      },
+      "walmart": {
+        "current_price_usd": 12.99,
+        "rating": 4.6,
+        "review_count": 1800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-vitamin-c-1000-250-tablets",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Vitamin C-1000",
+    "size": "250 tablets",
+    "category": "vitamin-c",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 11.99,
+        "rating": 4.6,
+        "review_count": 28000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4NM",
+        "bestseller_category": "Vitamin C"
+      },
+      "iherb": {
+        "current_price_usd": 10.99,
+        "rating": 4.7,
+        "review_count": 4800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nature-made-nature-made-super-b-complex-360-tablets",
+    "brand_slug": "nature-made",
+    "product_name": "Nature Made Super B-Complex",
+    "size": "360 tablets",
+    "category": "vitamin-b",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 16.99,
+        "rating": 4.7,
+        "review_count": 35000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4ME",
+        "bestseller_category": "Vitamin B"
+      },
+      "iherb": {
+        "current_price_usd": 15.99,
+        "rating": 4.7,
+        "review_count": 4200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-b-100-complex-250-capsules",
+    "brand_slug": "now-foods",
+    "product_name": "NOW B-100 Complex",
+    "size": "250 capsules",
+    "category": "vitamin-b",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.6,
+        "review_count": 15000,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4XY",
+        "bestseller_category": "Vitamin B"
+      },
+      "iherb": {
+        "current_price_usd": 18.99,
+        "rating": 4.7,
+        "review_count": 2800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nature-made-nature-made-calcium-600mg-+-d3-220-tablets",
+    "brand_slug": "nature-made",
+    "product_name": "Nature Made Calcium 600mg + D3",
+    "size": "220 tablets",
+    "category": "calcium",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 12.99,
+        "rating": 4.7,
+        "review_count": 28000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4LK",
+        "bestseller_category": "Calcium"
+      },
+      "iherb": {
+        "current_price_usd": 11.99,
+        "rating": 4.7,
+        "review_count": 3500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "new-chapter-new-chapter-bone-strength-calcium-120-tablets",
+    "brand_slug": "new-chapter",
+    "product_name": "New Chapter Bone Strength Calcium",
+    "size": "120 tablets",
+    "category": "calcium",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 29.99,
+        "rating": 4.6,
+        "review_count": 8500,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4ZZ",
+        "bestseller_category": "Calcium"
+      },
+      "iherb": {
+        "current_price_usd": 28.99,
+        "rating": 4.7,
+        "review_count": 1200,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "natural-vitality-natural-vitality-calm-magnesium-powder-16-oz",
+    "brand_slug": "natural-vitality",
+    "product_name": "Natural Vitality CALM Magnesium Powder",
+    "size": "16 oz",
+    "category": "magnesium",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 24.99,
+        "rating": 4.5,
+        "review_count": 38000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00BPUY2Y0",
+        "bestseller_category": "Magnesium"
+      },
+      "iherb": {
+        "current_price_usd": 23.99,
+        "rating": 4.6,
+        "review_count": 6500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    },
+    "flavor": "Raspberry Lemon"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-high-absorption-magnesium-240-tablets",
+    "brand_slug": "doctors-best",
+    "product_name": "Doctor's Best High Absorption Magnesium",
+    "size": "240 tablets",
+    "category": "magnesium",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 16.99,
+        "rating": 4.6,
+        "review_count": 32000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B000BD0RT0",
+        "bestseller_category": "Magnesium"
+      },
+      "iherb": {
+        "current_price_usd": 15.99,
+        "rating": 4.6,
+        "review_count": 5200,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "thorne-research-thorne-magnesium-bisglycinate-60-capsules",
+    "brand_slug": "thorne-research",
+    "product_name": "Thorne Magnesium Bisglycinate",
+    "size": "60 capsules",
+    "category": "magnesium",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 44.0,
+        "rating": 4.6,
+        "review_count": 6500,
+        "bestseller_position": 8,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B0797M83XH",
+        "bestseller_category": "Magnesium"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-zinc-picolinate-50mg-120-capsules",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Zinc Picolinate 50mg",
+    "size": "120 capsules",
+    "category": "zinc",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 8.99,
+        "rating": 4.6,
+        "review_count": 18000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R510",
+        "bestseller_category": "Zinc"
+      },
+      "iherb": {
+        "current_price_usd": 7.99,
+        "rating": 4.7,
+        "review_count": 2800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "solgar-solgar-zinc-picolinate-22mg-100-tablets",
+    "brand_slug": "solgar",
+    "product_name": "Solgar Zinc Picolinate 22mg",
+    "size": "100 tablets",
+    "category": "zinc",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 12.99,
+        "rating": 4.5,
+        "review_count": 6500,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R5ZZ",
+        "bestseller_category": "Zinc"
+      }
+    }
+  },
+  {
+    "product_id": "megafood-megafood-blood-builder-iron-90-tablets",
+    "brand_slug": "megafood",
+    "product_name": "MegaFood Blood Builder Iron",
+    "size": "90 tablets",
+    "category": "iron",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.5,
+        "review_count": 22000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00B58G4CM",
+        "bestseller_category": "Iron"
+      },
+      "iherb": {
+        "current_price_usd": 18.99,
+        "rating": 4.6,
+        "review_count": 3800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "solgar-solgar-gentle-iron-25mg-180-capsules",
+    "brand_slug": "solgar",
+    "product_name": "Solgar Gentle Iron 25mg",
+    "size": "180 capsules",
+    "category": "iron",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 16.99,
+        "rating": 4.5,
+        "review_count": 12000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00014DFG0",
+        "bestseller_category": "Iron"
+      }
+    }
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-ultimate-omega-180-softgels",
+    "brand_slug": "nordic-naturals",
+    "product_name": "Nordic Naturals Ultimate Omega",
+    "size": "180 softgels",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 35.99,
+        "rating": 4.7,
+        "review_count": 52000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B002CQU5UQ",
+        "bestseller_category": "Fish Oil"
+      },
+      "iherb": {
+        "current_price_usd": 33.99,
+        "rating": 4.8,
+        "review_count": 12000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    },
+    "flavor": "Lemon"
+  },
+  {
+    "product_id": "sports-research-sports-research-omega-3-triple-strength-180-softgels",
+    "brand_slug": "sports-research",
+    "product_name": "Sports Research Omega-3 Triple Strength",
+    "size": "180 softgels",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 32.99,
+        "rating": 4.6,
+        "review_count": 42000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ3",
+        "bestseller_category": "Fish Oil"
+      },
+      "iherb": {
+        "current_price_usd": 30.99,
+        "rating": 4.7,
+        "review_count": 8500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nature-made-nature-made-fish-oil-1000mg-250-softgels",
+    "brand_slug": "nature-made",
+    "product_name": "Nature Made Fish Oil 1000mg",
+    "size": "250 softgels",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 15.99,
+        "rating": 4.6,
+        "review_count": 35000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4KG",
+        "bestseller_category": "Fish Oil"
+      },
+      "iherb": {
+        "current_price_usd": 14.99,
+        "rating": 4.6,
+        "review_count": 4800,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      },
+      "walmart": {
+        "current_price_usd": 13.99,
+        "rating": 4.5,
+        "review_count": 2200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "blackmores-blackmores-omega-triple-fish-oil-150-capsules",
+    "brand_slug": "blackmores",
+    "product_name": "Blackmores Omega Triple Fish Oil",
+    "size": "150 capsules",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 27.99,
+        "rating": 4.6,
+        "review_count": 12000,
+        "bestseller_position": 8,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ4",
+        "bestseller_category": ""
+      },
+      "iherb": {
+        "current_price_usd": 25.99,
+        "rating": 4.7,
+        "review_count": 4500,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "viva-naturals-viva-naturals-triple-strength-omega-3-180-softgels",
+    "brand_slug": "viva-naturals",
+    "product_name": "Viva Naturals Triple Strength Omega-3",
+    "size": "180 softgels",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 34.99,
+        "rating": 4.6,
+        "review_count": 22000,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00V87Z5HC",
+        "bestseller_category": "Fish Oil"
+      }
+    }
+  },
+  {
+    "product_id": "align-probiotic-align-probiotic-24-7-digestive-support-63-capsules",
+    "brand_slug": "align-probiotic",
+    "product_name": "Align Probiotic 24/7 Digestive Support",
+    "size": "63 capsules",
+    "category": "probiotics",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 29.99,
+        "rating": 4.5,
+        "review_count": 18000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4OA",
+        "bestseller_category": "Probiotics"
+      },
+      "iherb": {
+        "current_price_usd": 27.99,
+        "rating": 4.6,
+        "review_count": 3200,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "culturelle-culturelle-digestive-health-probiotic-80-capsules",
+    "brand_slug": "culturelle",
+    "product_name": "Culturelle Digestive Health Probiotic",
+    "size": "80 capsules",
+    "category": "probiotics",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 24.99,
+        "rating": 4.5,
+        "review_count": 15000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4XY",
+        "bestseller_category": "Probiotics"
+      },
+      "iherb": {
+        "current_price_usd": 22.99,
+        "rating": 4.5,
+        "review_count": 2800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "renew-life-renew-life-ultimate-flora-50-billion-60-capsules",
+    "brand_slug": "renew-life",
+    "product_name": "Renew Life Ultimate Flora 50 Billion",
+    "size": "60 capsules",
+    "category": "probiotics",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 39.99,
+        "rating": 4.4,
+        "review_count": 12000,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ5",
+        "bestseller_category": "Probiotics"
+      },
+      "iherb": {
+        "current_price_usd": 37.99,
+        "rating": 4.5,
+        "review_count": 2100,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "garden-of-life-garden-of-life-dr.-formulated-probiotics-60-capsules",
+    "brand_slug": "garden-of-life",
+    "product_name": "Garden of Life Dr. Formulated Probiotics",
+    "size": "60 capsules",
+    "category": "probiotics",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 34.99,
+        "rating": 4.5,
+        "review_count": 28000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00Y3J0EN6",
+        "bestseller_category": "Probiotics"
+      },
+      "iherb": {
+        "current_price_usd": 32.99,
+        "rating": 4.6,
+        "review_count": 5500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "olly-nutrition-olly-sleep-gummies-60-gummies",
+    "brand_slug": "olly-nutrition",
+    "product_name": "OLLY Sleep Gummies",
+    "size": "60 gummies",
+    "category": "melatonin-sleep",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 13.99,
+        "rating": 4.4,
+        "review_count": 55000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ6",
+        "bestseller_category": "Melatonin"
+      },
+      "iherb": {
+        "current_price_usd": 12.99,
+        "rating": 4.4,
+        "review_count": 5800,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    },
+    "flavor": "Blackberry Zen"
+  },
+  {
+    "product_id": "natrol-natrol-melatonin-5mg-250-tablets",
+    "brand_slug": "natrol",
+    "product_name": "Natrol Melatonin 5mg",
+    "size": "250 tablets",
+    "category": "melatonin-sleep",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 11.99,
+        "rating": 4.5,
+        "review_count": 42000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ7",
+        "bestseller_category": "Melatonin"
+      },
+      "iherb": {
+        "current_price_usd": 10.99,
+        "rating": 4.6,
+        "review_count": 4500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "natural-vitality-natural-vitality-calm-sleep-gummies-120-gummies",
+    "brand_slug": "natural-vitality",
+    "product_name": "Natural Vitality CALM Sleep Gummies",
+    "size": "120 gummies",
+    "category": "melatonin-sleep",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.3,
+        "review_count": 18000,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ8",
+        "bestseller_category": "Melatonin"
+      }
+    },
+    "flavor": "Mixed Berry"
+  },
+  {
+    "product_id": "qunol-qunol-ultra-coq10-200mg-120-softgels",
+    "brand_slug": "qunol",
+    "product_name": "Qunol Ultra CoQ10 200mg",
+    "size": "120 softgels",
+    "category": "coq10",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 24.99,
+        "rating": 4.5,
+        "review_count": 32000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B00H8P6JEY",
+        "bestseller_category": "CoQ10"
+      },
+      "iherb": {
+        "current_price_usd": 22.99,
+        "rating": 4.6,
+        "review_count": 3500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-high-absorption-coq10-120-capsules",
+    "brand_slug": "doctors-best",
+    "product_name": "Doctor's Best High Absorption CoQ10",
+    "size": "120 capsules",
+    "category": "coq10",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 22.99,
+        "rating": 4.5,
+        "review_count": 28000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4NM",
+        "bestseller_category": "CoQ10"
+      },
+      "iherb": {
+        "current_price_usd": 21.99,
+        "rating": 4.5,
+        "review_count": 4200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "move-free-move-free-ultra-triple-action-75-tablets",
+    "brand_slug": "move-free",
+    "product_name": "Move Free Ultra Triple Action",
+    "size": "75 tablets",
+    "category": "glucosamine-joint",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 24.99,
+        "rating": 4.5,
+        "review_count": 35000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZ9",
+        "bestseller_category": "Joint Health"
+      },
+      "iherb": {
+        "current_price_usd": 23.99,
+        "rating": 4.6,
+        "review_count": 4800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "osteobi-flex-osteo-bi-flex-triple-strength-80-coated-tablets",
+    "brand_slug": "osteobi-flex",
+    "product_name": "Osteo Bi-Flex Triple Strength",
+    "size": "80 coated tablets",
+    "category": "glucosamine-joint",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 22.99,
+        "rating": 4.5,
+        "review_count": 28000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZA",
+        "bestseller_category": "Joint Health"
+      },
+      "iherb": {
+        "current_price_usd": 21.99,
+        "rating": 4.5,
+        "review_count": 3200,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "blackmores-blackmores-joint-formula-glucosamine-240-tablets",
+    "brand_slug": "blackmores",
+    "product_name": "Blackmores Joint Formula Glucosamine",
+    "size": "240 tablets",
+    "category": "glucosamine-joint",
+    "channel_presence": {
+      "iherb": {
+        "current_price_usd": 32.99,
+        "rating": 4.6,
+        "review_count": 2800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "jarrow-formulas-jarrow-formulas-milk-thistle-200-capsules",
+    "brand_slug": "jarrow-formulas",
+    "product_name": "Jarrow Formulas Milk Thistle",
+    "size": "200 capsules",
+    "category": "milk-thistle-liver",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 16.99,
+        "rating": 4.5,
+        "review_count": 12000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4PQ",
+        "bestseller_category": "Milk Thistle"
+      },
+      "iherb": {
+        "current_price_usd": 15.99,
+        "rating": 4.5,
+        "review_count": 2100,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-milk-thistle-250mg-120-capsules",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Milk Thistle 250mg",
+    "size": "120 capsules",
+    "category": "milk-thistle-liver",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 10.99,
+        "rating": 4.4,
+        "review_count": 8500,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4AB",
+        "bestseller_category": "Milk Thistle"
+      },
+      "iherb": {
+        "current_price_usd": 9.99,
+        "rating": 4.5,
+        "review_count": 1800,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-omega-vision-60-softgels",
+    "brand_slug": "nordic-naturals",
+    "product_name": "Nordic Naturals Omega Vision",
+    "size": "60 softgels",
+    "category": "lutein-eye",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 29.99,
+        "rating": 4.5,
+        "review_count": 6500,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZB",
+        "bestseller_category": "Eye Health"
+      }
+    }
+  },
+  {
+    "product_id": "goli-nutrition-goli-ashwagandha-gummies-60-gummies",
+    "brand_slug": "goli-nutrition",
+    "product_name": "Goli Ashwagandha Gummies",
+    "size": "60 gummies",
+    "category": "ashwagandha",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 14.99,
+        "rating": 4.3,
+        "review_count": 28000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZC",
+        "bestseller_category": "Ashwagandha"
+      },
+      "iherb": {
+        "current_price_usd": 13.99,
+        "rating": 4.4,
+        "review_count": 3200,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    },
+    "flavor": "Mixed Berry"
+  },
+  {
+    "product_id": "now-foods-now-ashwagandha-450mg-180-capsules",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Ashwagandha 450mg",
+    "size": "180 capsules",
+    "category": "ashwagandha",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 12.99,
+        "rating": 4.4,
+        "review_count": 15000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4CD",
+        "bestseller_category": "Ashwagandha"
+      },
+      "iherb": {
+        "current_price_usd": 11.99,
+        "rating": 4.5,
+        "review_count": 2800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-brain-attention-90-capsules",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Brain Attention",
+    "size": "90 capsules",
+    "category": "brain-cognitive",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 24.99,
+        "rating": 4.2,
+        "review_count": 5500,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZD",
+        "bestseller_category": "Brain Health"
+      }
+    }
+  },
+  {
+    "product_id": "natures-way-nature's-way-sambucus-elderberry-gummies-120-gummies",
+    "brand_slug": "natures-way",
+    "product_name": "Nature's Way Sambucus Elderberry Gummies",
+    "size": "120 gummies",
+    "category": "immunity",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 16.99,
+        "rating": 4.5,
+        "review_count": 38000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZE",
+        "bestseller_category": "Elderberry"
+      },
+      "iherb": {
+        "current_price_usd": 15.99,
+        "rating": 4.6,
+        "review_count": 4500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "avogel-a.vogel-echinaforce-echinacea-120-tablets",
+    "brand_slug": "avogel",
+    "product_name": "A.Vogel Echinaforce Echinacea",
+    "size": "120 tablets",
+    "category": "immunity",
+    "channel_presence": {
+      "iherb": {
+        "current_price_usd": 18.99,
+        "rating": 4.4,
+        "review_count": 1800,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "enzymedica-enzymedica-digest-gold-180-capsules",
+    "brand_slug": "enzymedica",
+    "product_name": "Enzymedica Digest Gold",
+    "size": "180 capsules",
+    "category": "digestive-enzymes",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 34.99,
+        "rating": 4.6,
+        "review_count": 22000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZF",
+        "bestseller_category": "Digestive Enzymes"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-super-enzymes-180-tablets",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Super Enzymes",
+    "size": "180 tablets",
+    "category": "digestive-enzymes",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 14.99,
+        "rating": 4.4,
+        "review_count": 15000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4EF",
+        "bestseller_category": "Digestive Enzymes"
+      },
+      "iherb": {
+        "current_price_usd": 13.99,
+        "rating": 4.5,
+        "review_count": 3200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "natures-bounty-nature's-bounty-hair-skin-&-nails-gummies-230-gummies",
+    "brand_slug": "natures-bounty",
+    "product_name": "Nature's Bounty Hair Skin & Nails Gummies",
+    "size": "230 gummies",
+    "category": "hair-skin-nails",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 11.99,
+        "rating": 4.4,
+        "review_count": 48000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZG",
+        "bestseller_category": "Hair Skin Nails"
+      },
+      "iherb": {
+        "current_price_usd": 10.99,
+        "rating": 4.5,
+        "review_count": 5500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    },
+    "flavor": "Strawberry"
+  },
+  {
+    "product_id": "hum-nutrition-hum-nutrition-hair-sweet-hair-60-gummies",
+    "brand_slug": "hum-nutrition",
+    "product_name": "HUM Nutrition Hair Sweet Hair",
+    "size": "60 gummies",
+    "category": "hair-skin-nails",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 25.0,
+        "rating": 4.3,
+        "review_count": 12000,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZH",
+        "bestseller_category": "Hair Skin Nails"
+      }
+    }
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-curcumin-c3-complex-120-capsules",
+    "brand_slug": "doctors-best",
+    "product_name": "Doctor's Best Curcumin C3 Complex",
+    "size": "120 capsules",
+    "category": "turmeric-curcumin",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 18.99,
+        "rating": 4.5,
+        "review_count": 15000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4GH",
+        "bestseller_category": "Turmeric"
+      },
+      "iherb": {
+        "current_price_usd": 17.99,
+        "rating": 4.6,
+        "review_count": 3200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "qunol-qunol-turmeric-2250mg-120-capsules",
+    "brand_slug": "qunol",
+    "product_name": "Qunol Turmeric 2250mg",
+    "size": "120 capsules",
+    "category": "turmeric-curcumin",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.4,
+        "review_count": 12000,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZI",
+        "bestseller_category": "Turmeric"
+      }
+    }
+  },
+  {
+    "product_id": "now-foods-now-green-tea-extract-400mg-250-capsules",
+    "brand_slug": "now-foods",
+    "product_name": "NOW Green Tea Extract 400mg",
+    "size": "250 capsules",
+    "category": "green-tea-extract",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 11.99,
+        "rating": 4.4,
+        "review_count": 8500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B001G7R4IJ",
+        "bestseller_category": "Green Tea"
+      },
+      "iherb": {
+        "current_price_usd": 10.99,
+        "rating": 4.5,
+        "review_count": 1800,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "goli-nutrition-goli-apple-cider-vinegar-gummies-60-gummies",
+    "brand_slug": "goli-nutrition",
+    "product_name": "Goli Apple Cider Vinegar Gummies",
+    "size": "60 gummies",
+    "category": "apple-cider-vinegar",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 14.99,
+        "rating": 4.3,
+        "review_count": 65000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZJ",
+        "bestseller_category": "Apple Cider Vinegar"
+      },
+      "iherb": {
+        "current_price_usd": 13.99,
+        "rating": 4.4,
+        "review_count": 6200,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "sports-research-sports-research-collagen-peptides-16-oz",
+    "brand_slug": "sports-research",
+    "product_name": "Sports Research Collagen Peptides",
+    "size": "16 oz",
+    "category": "collagen",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 29.99,
+        "rating": 4.4,
+        "review_count": 45000,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZK",
+        "bestseller_category": "Collagen"
+      },
+      "iherb": {
+        "current_price_usd": 27.99,
+        "rating": 4.5,
+        "review_count": 7500,
+        "bestseller_position": 1,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "dhc-japan-dhc-collagen-beauty-7000-60-tablets",
+    "brand_slug": "dhc-japan",
+    "product_name": "DHC Collagen Beauty 7000",
+    "size": "60 tablets",
+    "category": "collagen",
+    "channel_presence": {
+      "iherb": {
+        "current_price_usd": 14.99,
+        "rating": 4.4,
+        "review_count": 3200,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "fancl-fancl-htc-collagen-powder-30-packets",
+    "brand_slug": "fancl",
+    "product_name": "FANCL HTC Collagen Powder",
+    "size": "30 packets",
+    "category": "collagen",
+    "channel_presence": {
+      "iherb": {
+        "current_price_usd": 39.99,
+        "rating": 4.5,
+        "review_count": 1800,
+        "bestseller_position": 8,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "renew-life-renew-life-daily-digestive-3-in-1-60-capsules",
+    "brand_slug": "renew-life",
+    "product_name": "Renew Life Daily Digestive 3-in-1",
+    "size": "60 capsules",
+    "category": "digestive-health",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 29.99,
+        "rating": 4.3,
+        "review_count": 8500,
+        "bestseller_position": 4,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZL",
+        "bestseller_category": "Digestive Health"
+      }
+    }
+  },
+  {
+    "product_id": "pukka-herbs-pukka-herbs-cleanse-tea-20-tea-bags",
+    "brand_slug": "pukka-herbs",
+    "product_name": "Pukka Herbs Cleanse Tea",
+    "size": "20 tea bags",
+    "category": "antioxidant",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 6.99,
+        "rating": 4.4,
+        "review_count": 5500,
+        "bestseller_position": 3,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZM",
+        "bestseller_category": "Herbal Tea"
+      }
+    },
+    "flavor": "Organic"
+  },
+  {
+    "product_id": "kirkland-signature-kirkland-signature-daily-multivitamin-500-tablets",
+    "brand_slug": "kirkland-signature",
+    "product_name": "Kirkland Signature Daily Multivitamin",
+    "size": "500 tablets",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 17.99,
+        "rating": 4.6,
+        "review_count": 22000,
+        "bestseller_position": 5,
+        "in_stock": true,
+        "last_scraped": "2026-08-01"
+      }
+    }
+  },
+  {
+    "product_id": "ritual-vitamins-ritual-essential-for-women-60-capsules",
+    "brand_slug": "ritual-vitamins",
+    "product_name": "Ritual Essential for Women",
+    "size": "60 capsules",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 33.0,
+        "rating": 4.3,
+        "review_count": 8500,
+        "bestseller_position": 12,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZN",
+        "bestseller_category": "Multivitamins"
+      }
+    }
+  },
+  {
+    "product_id": "smarty-pants-smartypants-kids-multivitamin-gummies-180-gummies",
+    "brand_slug": "smarty-pants",
+    "product_name": "SmartyPants Kids Multivitamin Gummies",
+    "size": "180 gummies",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.4,
+        "review_count": 25000,
+        "bestseller_position": 2,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYZO",
+        "bestseller_category": "Children's Vitamins"
+      }
+    }
+  },
+  {
+    "product_id": "pure-encapsulations-pure-encapsulations-magnesium-glycinate-360-capsules",
+    "brand_slug": "pure-encapsulations",
+    "product_name": "Pure Encapsulations Magnesium Glycinate",
+    "size": "360 capsules",
+    "category": "magnesium",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 49.99,
+        "rating": 4.5,
+        "review_count": 5500,
+        "bestseller_position": 10,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYPQ",
+        "bestseller_category": ""
+      }
+    }
+  },
+  {
+    "product_id": "megafood-megafood-vitamin-d3-2000iu-90-tablets",
+    "brand_slug": "megafood",
+    "product_name": "MegaFood Vitamin D3 2000IU",
+    "size": "90 tablets",
+    "category": "vitamin-d",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 14.99,
+        "rating": 4.4,
+        "review_count": 4500,
+        "bestseller_position": 15,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYPP",
+        "bestseller_category": ""
+      }
+    }
+  },
+  {
+    "product_id": "carlson-labs-carlson-wild-caught-elite-omega-3-180-softgels",
+    "brand_slug": "carlson-labs",
+    "product_name": "Carlson Wild Caught Elite Omega-3",
+    "size": "180 softgels",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 38.99,
+        "rating": 4.6,
+        "review_count": 12000,
+        "bestseller_position": 6,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYPR",
+        "bestseller_category": "Fish Oil"
+      }
+    },
+    "flavor": "Lemon"
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-vitamin-d3-5000iu-120-softgels",
+    "brand_slug": "nordic-naturals",
+    "product_name": "Nordic Naturals Vitamin D3 5000IU",
+    "size": "120 softgels",
+    "category": "vitamin-d",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 19.99,
+        "rating": 4.7,
+        "review_count": 8500,
+        "bestseller_position": 7,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYPS",
+        "bestseller_category": ""
+      }
+    }
+  },
+  {
+    "product_id": "olly-nutrition-olly-women's-multi-gummies-90-gummies",
+    "brand_slug": "olly-nutrition",
+    "product_name": "OLLY Women's Multi Gummies",
+    "size": "90 gummies",
+    "category": "vitamins-multivitamins",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 13.99,
+        "rating": 4.4,
+        "review_count": 18000,
+        "bestseller_position": 7,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYPT",
+        "bestseller_category": "Multivitamins"
+      }
+    },
+    "flavor": "Blackberry"
+  },
+  {
+    "product_id": "wileys-finest-wiley's-finest-wild-alaskan-fish-oil-peak-epa-60-softgels",
+    "brand_slug": "wileys-finest",
+    "product_name": "Wiley's Finest Wild Alaskan Fish Oil Peak EPA",
+    "size": "60 softgels",
+    "category": "fish-oil-omega3",
+    "channel_presence": {
+      "amazon_us": {
+        "current_price_usd": 44.99,
+        "rating": 4.4,
+        "review_count": 3500,
+        "bestseller_position": 15,
+        "in_stock": true,
+        "last_scraped": "2026-08-01",
+        "asin": "B07XYPU",
+        "bestseller_category": ""
+      }
     }
   }
 ]

@@ -1,19 +1,173 @@
 [
   {
+    "brand_slug": "nature-made",
+    "brand_name": "Nature Made",
+    "parent_company": "Pharmavite (Otsuka Pharmaceutical)",
+    "headquarters_country": "US",
+    "website": "https://www.naturemade.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "vitamin-d",
+      "magnesium",
+      "probiotics",
+      "melatonin",
+      "b-complex",
+      "vitamin-c",
+      "zinc",
+      "immune-support"
+    ],
+    "founded_year": 1971,
+    "flagship_product": "Nature Made Multi Complete",
+    "social_links": {
+      "youtube": "@NatureMadeVitamins",
+      "instagram": "naturemadevitamins",
+      "tiktok": "naturemade"
+    },
+    "competitor_set": [
+      "natures-bounty",
+      "centrum",
+      "kirkland-signature",
+      "now-foods"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 1,
+    "notes": "#1 US supplement brand by sales. USP-verified mass-market leader with broadest retail penetration."
+  },
+  {
     "brand_slug": "optimum-nutrition",
     "brand_name": "Optimum Nutrition",
     "parent_company": "Glanbia Nutritionals",
     "headquarters_country": "US",
     "website": "https://www.optimumnutrition.com",
-    "primary_categories": ["whey-protein", "mass-gainer", "pre-workout"],
+    "primary_categories": [
+      "whey-protein",
+      "mass-gainer",
+      "pre-workout"
+    ],
     "founded_year": 1986,
     "flagship_product": "Gold Standard 100% Whey",
-    "social_links": { "youtube": "@OptimumNutrition", "instagram": "optimumnutrition", "tiktok": "optimumnutrition" },
-    "competitor_set": ["dymatize", "muscletech", "myprotein", "bsn"],
+    "social_links": {
+      "youtube": "@OptimumNutrition",
+      "instagram": "optimumnutrition",
+      "tiktok": "optimumnutrition"
+    },
+    "competitor_set": [
+      "dymatize",
+      "muscletech",
+      "myprotein",
+      "bsn"
+    ],
     "jd_available": true,
     "tmall_available": true,
-    "global_rank": 1,
-    "notes": "全球乳清蛋白市场领导者，Gold Standard系列为行业标杆"
+    "global_rank": 2,
+    "notes": "Global leader in whey protein. Gold Standard series is the category benchmark."
+  },
+  {
+    "brand_slug": "centrum",
+    "brand_name": "Centrum",
+    "parent_company": "Haleon (formerly GSK Consumer Healthcare)",
+    "headquarters_country": "US",
+    "website": "https://www.centrum.com",
+    "primary_categories": [
+      "multivitamins",
+      "vitamin-d",
+      "fish-oil-omega3",
+      "magnesium",
+      "probiotics",
+      "immune-support"
+    ],
+    "founded_year": 1978,
+    "flagship_product": "Centrum Silver Multivitamin",
+    "social_links": {
+      "youtube": "@Centrum",
+      "instagram": "centrum",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "one-a-day",
+      "nature-made",
+      "natures-bounty",
+      "kirkland-signature"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 3,
+    "notes": "#1 multivitamin brand globally. Centrum Silver is the worldwide 50+ segment leader."
+  },
+  {
+    "brand_slug": "kirkland-signature",
+    "brand_name": "Kirkland Signature",
+    "parent_company": "Costco Wholesale",
+    "headquarters_country": "US",
+    "website": "https://www.costco.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "vitamin-d",
+      "calcium",
+      "probiotics",
+      "magnesium",
+      "collagen",
+      "coq10",
+      "joint-health",
+      "melatonin"
+    ],
+    "founded_year": 1995,
+    "flagship_product": "Kirkland Signature Daily Multivitamin",
+    "social_links": {
+      "youtube": null,
+      "instagram": null,
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nature-made",
+      "natures-bounty",
+      "centrum",
+      "trunature"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 4,
+    "notes": "Massive private-label volume through Costco. Quality parity with national brands at significant discount. A category force unto itself."
+  },
+  {
+    "brand_slug": "natures-bounty",
+    "brand_name": "Nature's Bounty",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "US",
+    "website": "https://www.naturesbounty.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "magnesium",
+      "probiotics",
+      "melatonin",
+      "vitamin-c",
+      "vitamin-d",
+      "biotin",
+      "joint-health",
+      "immune-support"
+    ],
+    "founded_year": 1971,
+    "flagship_product": "Nature's Bounty Fish Oil",
+    "social_links": {
+      "youtube": "@NaturesBounty",
+      "instagram": "naturesbounty",
+      "tiktok": "naturesbounty"
+    },
+    "competitor_set": [
+      "nature-made",
+      "centrum",
+      "kirkland-signature",
+      "now-foods",
+      "spring-valley"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 5,
+    "notes": "Mass-market supplement pillar. Nestlé acquisition brings global distribution power."
   },
   {
     "brand_slug": "myprotein",
@@ -21,223 +175,164 @@
     "parent_company": "THG plc",
     "headquarters_country": "UK",
     "website": "https://www.myprotein.com",
-    "primary_categories": ["whey-protein", "plant-protein", "protein-bars", "pre-workout"],
+    "primary_categories": [
+      "whey-protein",
+      "plant-protein",
+      "protein-bars",
+      "pre-workout"
+    ],
     "founded_year": 2004,
     "flagship_product": "Impact Whey Protein",
-    "social_links": { "youtube": "@MyproteinOfficial", "instagram": "myprotein", "tiktok": "myprotein" },
-    "competitor_set": ["optimum-nutrition", "bulk", "dymatize"],
-    "jd_available": true,
-    "tmall_available": true,
-    "global_rank": 2,
-    "notes": "欧洲最大运动营养品牌，DTC模式标杆，SKU极广"
-  },
-  {
-    "brand_slug": "dymatize",
-    "brand_name": "Dymatize",
-    "parent_company": "BellRing Brands",
-    "headquarters_country": "US",
-    "website": "https://www.dymatize.com",
-    "primary_categories": ["whey-protein", "mass-gainer", "pre-workout"],
-    "founded_year": 1994,
-    "flagship_product": "ISO100 Hydrolyzed",
-    "social_links": { "youtube": "@Dymatize", "instagram": "dymatize", "tiktok": "dymatize" },
-    "competitor_set": ["optimum-nutrition", "muscletech", "isopure"],
-    "jd_available": true,
-    "tmall_available": true,
-    "global_rank": 4,
-    "notes": "ISO100水解乳清为品类标杆，专业健身人群偏好"
-  },
-  {
-    "brand_slug": "muscletech",
-    "brand_name": "MuscleTech",
-    "parent_company": "Iovate Health Sciences",
-    "headquarters_country": "US",
-    "website": "https://www.muscletech.com",
-    "primary_categories": ["whey-protein", "mass-gainer", "lean-fat-burner", "pre-workout"],
-    "founded_year": 1995,
-    "flagship_product": "Nitro-Tech Whey",
-    "social_links": { "youtube": "@MuscleTech", "instagram": "muscletech", "tiktok": "muscletech" },
-    "competitor_set": ["optimum-nutrition", "dymatize", "bsn"],
+    "social_links": {
+      "youtube": "@MyproteinOfficial",
+      "instagram": "myprotein",
+      "tiktok": "myprotein"
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "bulk",
+      "dymatize"
+    ],
     "jd_available": true,
     "tmall_available": true,
     "global_rank": 6,
-    "notes": "科研背书强，多个专利成分，Nitro-Tech系列知名度高"
+    "notes": "Europe's largest sports nutrition brand. DTC model benchmark with an extremely wide SKU range."
   },
   {
-    "brand_slug": "ghost",
-    "brand_name": "Ghost",
-    "parent_company": "Ghost Lifestyle (Keurig Dr Pepper投资)",
-    "headquarters_country": "US",
-    "website": "https://www.ghostlifestyle.com",
-    "primary_categories": ["whey-protein", "pre-workout", "bcaa-eaa"],
-    "founded_year": 2016,
-    "flagship_product": "Ghost Whey",
-    "social_links": { "youtube": "@GhostLifestyle", "instagram": "ghostlifestyle", "tiktok": "ghostlifestyle" },
-    "competitor_set": ["ryse", "alani-nu", "bucked-up"],
-    "jd_available": false,
-    "tmall_available": false,
+    "brand_slug": "swisse",
+    "brand_name": "Swisse",
+    "parent_company": "H&H Group (Health & Happiness)",
+    "headquarters_country": "AU",
+    "website": "https://www.swisse.com",
+    "primary_categories": [
+      "multivitamins",
+      "collagen",
+      "fish-oil-omega3",
+      "probiotics",
+      "magnesium",
+      "beauty-supplements",
+      "herbal-supplements",
+      "immune-support"
+    ],
+    "founded_year": 1969,
+    "flagship_product": "Swisse Ultiboost Multivitamin",
+    "social_links": {
+      "youtube": "@Swisse",
+      "instagram": "swisse",
+      "tiktok": "swisseofficial"
+    },
+    "competitor_set": [
+      "blackmores",
+      "cenovis",
+      "go-healthy",
+      "natures-way-au"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 7,
+    "notes": "Australia's #1 supplement brand. Massive China cross-border e-commerce sales. Celebrity ambassador strategy."
+  },
+  {
+    "brand_slug": "blackmores",
+    "brand_name": "Blackmores",
+    "parent_company": "Kirin Holdings (Japan)",
+    "headquarters_country": "AU",
+    "website": "https://www.blackmores.com.au",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "magnesium",
+      "probiotics",
+      "herbal-supplements",
+      "immune-support",
+      "prenatal",
+      "joint-health"
+    ],
+    "founded_year": 1932,
+    "flagship_product": "Blackmores Executive B Stress Formula",
+    "social_links": {
+      "youtube": "@BlackmoresAustralia",
+      "instagram": "blackmores",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "swisse",
+      "cenovis",
+      "ethical-nutrients",
+      "go-healthy"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
     "global_rank": 8,
-    "notes": "联名IP驱动（奥利奥、Sour Patch等），Z世代文化符号，增长迅猛"
+    "notes": "Iconic Australian brand since 1932. Kirin acquisition brings Japan-Asia synergy. Trusted pharmacy heritage."
   },
   {
-    "brand_slug": "ryse",
-    "brand_name": "RYSE",
-    "parent_company": "RYSE Up Sports Nutrition",
+    "brand_slug": "now-foods",
+    "brand_name": "NOW Foods",
+    "parent_company": "NOW Foods (Independent)",
     "headquarters_country": "US",
-    "website": "https://www.ryse.com",
-    "primary_categories": ["pre-workout", "whey-protein", "protein-bars"],
-    "founded_year": 2017,
-    "flagship_product": "RYSE Loaded Pre",
-    "social_links": { "youtube": "@RYSESupps", "instagram": "ryse", "tiktok": "rysesupps" },
-    "competitor_set": ["ghost", "gorilla-mode", "bucked-up"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 11,
-    "notes": "TikTok原生品牌，Loaded Pre-Workout线上爆款，社交声量极高"
+    "website": "https://www.nowfoods.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "herbal-supplements",
+      "vitamin-d",
+      "magnesium",
+      "zinc",
+      "b-complex",
+      "digestive-enzymes",
+      "vitamin-c"
+    ],
+    "founded_year": 1968,
+    "flagship_product": "NOW Supplements line",
+    "social_links": {
+      "youtube": "@NOWFoods",
+      "instagram": "nowfoodsofficial",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nature-made",
+      "natures-bounty",
+      "jarrow-formulas",
+      "solgar"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 9,
+    "notes": "Independent family-owned with an enormous 1,400+ SKU catalog. Trusted value brand in natural channel."
   },
   {
-    "brand_slug": "transparent-labs",
-    "brand_name": "Transparent Labs",
-    "parent_company": "Transparent Labs",
-    "headquarters_country": "US",
-    "website": "https://www.transparentlabs.com",
-    "primary_categories": ["whey-protein", "pre-workout", "creatine"],
-    "founded_year": 2015,
-    "flagship_product": "Grass-Fed Whey Isolate",
-    "social_links": { "youtube": "@TransparentLabs", "instagram": "transparentlabs", "tiktok": null },
-    "competitor_set": ["legion", "naked-nutrition", "nutrabio"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 15,
-    "notes": "清洁标签标杆，全成分透明披露，高端定位"
-  },
-  {
-    "brand_slug": "gorilla-mode",
-    "brand_name": "Gorilla Mode",
-    "parent_company": "More Plates More Dates LLC",
-    "headquarters_country": "US",
-    "website": "https://www.gorillamind.com",
-    "primary_categories": ["pre-workout", "creatine", "bcaa-eaa"],
-    "founded_year": 2019,
-    "flagship_product": "Gorilla Mode Pre-Workout",
-    "social_links": { "youtube": "@MorePlatesMoreDates", "instagram": "gorillamind", "tiktok": "gorillamind" },
-    "competitor_set": ["ryse", "bucked-up", "c4-cellucor"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 18,
-    "notes": "YouTube/KOL驱动品牌，配方剂量透明，硬核健身圈层"
-  },
-  {
-    "brand_slug": "bucked-up",
-    "brand_name": "Bucked Up",
-    "parent_company": "DAS Labs",
-    "headquarters_country": "US",
-    "website": "https://www.buckedup.com",
-    "primary_categories": ["pre-workout", "whey-protein", "lean-fat-burner"],
-    "founded_year": 2015,
-    "flagship_product": "Bucked Up Pre-Workout",
-    "social_links": { "youtube": "@BuckedUp", "instagram": "buckedup", "tiktok": "buckedup" },
-    "competitor_set": ["gorilla-mode", "ryse", "c4-cellucor"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 13,
-    "notes": "鹿茸添加差异化定位，社交媒体营销强"
-  },
-  {
-    "brand_slug": "alani-nu",
-    "brand_name": "Alani Nu",
-    "parent_company": "Alani Nutrition (Congo Brands)",
-    "headquarters_country": "US",
-    "website": "https://www.alani.com",
-    "primary_categories": ["pre-workout", "whey-protein", "protein-bars", "electrolytes"],
-    "founded_year": 2018,
-    "flagship_product": "Alani Nu Pre-Workout",
-    "social_links": { "youtube": "@AlaniNu", "instagram": "alaninutrition", "tiktok": "alaninutrition" },
-    "competitor_set": ["ghost", "ryse", "bloom"],
-    "jd_available": false,
-    "tmall_available": false,
+    "brand_slug": "dhc",
+    "brand_name": "DHC",
+    "parent_company": "DHC Corporation",
+    "headquarters_country": "JP",
+    "website": "https://www.dhc.co.jp",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "collagen",
+      "beauty-supplements",
+      "herbal-supplements",
+      "greens-powder"
+    ],
+    "founded_year": 1972,
+    "flagship_product": "DHC Deep Cleansing Oil",
+    "social_links": {
+      "youtube": "@DHCofficial",
+      "instagram": "dhc_jp",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "fancl",
+      "suntory",
+      "orihiro",
+      "meiji"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
     "global_rank": 10,
-    "notes": "女性运动营养头部品牌，粉色美学破圈，增速领先"
-  },
-  {
-    "brand_slug": "c4-cellucor",
-    "brand_name": "C4 / Cellucor",
-    "parent_company": "Nutrabolt",
-    "headquarters_country": "US",
-    "website": "https://www.cellucor.com",
-    "primary_categories": ["pre-workout", "whey-protein", "bcaa-eaa"],
-    "founded_year": 2002,
-    "flagship_product": "C4 Original Pre-Workout",
-    "social_links": { "youtube": "@Cellucor", "instagram": "cellucor", "tiktok": "cellucor" },
-    "competitor_set": ["gorilla-mode", "bucked-up", "total-war-redcon1"],
-    "jd_available": true,
-    "tmall_available": true,
-    "global_rank": 3,
-    "notes": "全球销量最大Pre-Workout品牌，C4系列家喻户晓"
-  },
-  {
-    "brand_slug": "isopure",
-    "brand_name": "Isopure",
-    "parent_company": "Glanbia Nutritionals",
-    "headquarters_country": "US",
-    "website": "https://www.theisopurecompany.com",
-    "primary_categories": ["whey-protein", "rtd-shakes"],
-    "founded_year": 1999,
-    "flagship_product": "Zero Carb Whey Isolate",
-    "social_links": { "youtube": "@Isopure", "instagram": "isopure", "tiktok": null },
-    "competitor_set": ["optimum-nutrition", "dymatize", "transparent-labs"],
-    "jd_available": true,
-    "tmall_available": true,
-    "global_rank": 12,
-    "notes": "零碳/低碳水分离乳清标杆，透明RTD蛋白饮料领先"
-  },
-  {
-    "brand_slug": "bsn",
-    "brand_name": "BSN",
-    "parent_company": "Glanbia Nutritionals",
-    "headquarters_country": "US",
-    "website": "https://www.gobsn.com",
-    "primary_categories": ["whey-protein", "mass-gainer", "pre-workout"],
-    "founded_year": 2001,
-    "flagship_product": "Syntha-6",
-    "social_links": { "youtube": "@BSNsupplements", "instagram": "bsnsupps", "tiktok": null },
-    "competitor_set": ["optimum-nutrition", "muscletech", "dymatize"],
-    "jd_available": true,
-    "tmall_available": false,
-    "global_rank": 16,
-    "notes": "Syntha-6口感标杆，混合蛋白品类代表"
-  },
-  {
-    "brand_slug": "legion",
-    "brand_name": "Legion Athletics",
-    "parent_company": "Legion Athletics",
-    "headquarters_country": "US",
-    "website": "https://www.legionathletics.com",
-    "primary_categories": ["whey-protein", "pre-workout", "creatine"],
-    "founded_year": 2014,
-    "flagship_product": "Legion Whey+",
-    "social_links": { "youtube": "@LegionAthletics", "instagram": "legionath", "tiktok": null },
-    "competitor_set": ["transparent-labs", "naked-nutrition", "nutrabio"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 22,
-    "notes": "第三方检测认证每批次，纯Truly Grass-Fed乳清，品质溢价"
-  },
-  {
-    "brand_slug": "naked-nutrition",
-    "brand_name": "Naked Nutrition",
-    "parent_company": "Naked Nutrition",
-    "headquarters_country": "US",
-    "website": "https://www.nakednutrition.com",
-    "primary_categories": ["whey-protein", "plant-protein", "creatine"],
-    "founded_year": 2014,
-    "flagship_product": "Naked Whey",
-    "social_links": { "youtube": "@NakedNutrition", "instagram": "nakednutrition", "tiktok": null },
-    "competitor_set": ["transparent-labs", "legion", "levels"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 25,
-    "notes": "单一成分极简主义，无添加剂，清洁标签趋势代表"
+    "notes": "Japan's #1 supplement and skincare direct marketer. Massive China cross-border through JD/Tmall Global."
   },
   {
     "brand_slug": "quest",
@@ -245,31 +340,56 @@
     "parent_company": "Simply Good Foods (Atkins)",
     "headquarters_country": "US",
     "website": "https://www.questnutrition.com",
-    "primary_categories": ["protein-bars", "whey-protein", "rtd-shakes"],
+    "primary_categories": [
+      "protein-bars",
+      "whey-protein",
+      "rtd-shakes"
+    ],
     "founded_year": 2010,
     "flagship_product": "Quest Bar",
-    "social_links": { "youtube": "@QuestNutrition", "instagram": "questnutrition", "tiktok": "questnutrition" },
-    "competitor_set": ["rxbar", "one-bar", "built-bar", "pure-protein"],
+    "social_links": {
+      "youtube": "@QuestNutrition",
+      "instagram": "questnutrition",
+      "tiktok": "questnutrition"
+    },
+    "competitor_set": [
+      "rxbar",
+      "one-bar",
+      "built-bar",
+      "pure-protein"
+    ],
     "jd_available": true,
     "tmall_available": true,
-    "global_rank": 5,
-    "notes": "蛋白棒品类定义者，低糖高蛋白配方标杆"
+    "global_rank": 11,
+    "notes": "Protein bar category definer. Low-sugar, high-protein formula benchmark."
   },
   {
-    "brand_slug": "built-bar",
-    "brand_name": "Built Bar",
-    "parent_company": "Built Brands",
+    "brand_slug": "c4-cellucor",
+    "brand_name": "C4 / Cellucor",
+    "parent_company": "Nutrabolt",
     "headquarters_country": "US",
-    "website": "https://www.built.com",
-    "primary_categories": ["protein-bars"],
-    "founded_year": 2018,
-    "flagship_product": "Built Puff Bar",
-    "social_links": { "youtube": "@BuiltBrands", "instagram": "built", "tiktok": "builtbar" },
-    "competitor_set": ["quest", "one-bar", "barebells"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 19,
-    "notes": "膨化蛋白棒创新品类，口感差异化，社交媒体爆发"
+    "website": "https://www.cellucor.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein",
+      "bcaa-eaa"
+    ],
+    "founded_year": 2002,
+    "flagship_product": "C4 Original Pre-Workout",
+    "social_links": {
+      "youtube": "@Cellucor",
+      "instagram": "cellucor",
+      "tiktok": "cellucor"
+    },
+    "competitor_set": [
+      "gorilla-mode",
+      "bucked-up",
+      "total-war-redcon1"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 12,
+    "notes": "World's best-selling pre-workout brand. C4 is a household name in the category."
   },
   {
     "brand_slug": "premier-protein",
@@ -277,15 +397,115 @@
     "parent_company": "BellRing Brands",
     "headquarters_country": "US",
     "website": "https://www.premierprotein.com",
-    "primary_categories": ["rtd-shakes", "whey-protein"],
+    "primary_categories": [
+      "rtd-shakes",
+      "whey-protein"
+    ],
     "founded_year": 1998,
     "flagship_product": "Premier Protein Shake",
-    "social_links": { "youtube": "@PremierProtein", "instagram": "premierprotein", "tiktok": null },
-    "competitor_set": ["fairlife-core-power", "muscle-milk", "ensure-max-protein"],
+    "social_links": {
+      "youtube": "@PremierProtein",
+      "instagram": "premierprotein",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "fairlife-core-power",
+      "muscle-milk",
+      "ensure-max-protein"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 7,
-    "notes": "北美RTD蛋白饮料销量第一，Costco核心SKU"
+    "global_rank": 13,
+    "notes": "#1 RTD protein drink in North America by volume. Core Costco SKU."
+  },
+  {
+    "brand_slug": "dhc-japan",
+    "brand_name": "DHC",
+    "parent_company": "DHC Corporation",
+    "headquarters_country": "JP",
+    "primary_categories": [
+      "vitamins-multivitamins",
+      "collagen",
+      "hair-skin-nails",
+      "vitamin-c",
+      "probiotics",
+      "fish-oil-omega3",
+      "immunity"
+    ],
+    "founded_year": 1972,
+    "flagship_product": "DHC Collagen Beauty 7000",
+    "social_links": {
+      "youtube": "@DHCchannel",
+      "instagram": "dhc_official",
+      "tiktok": "dhc_japan"
+    },
+    "competitor_set": [
+      "FANCL",
+      "Suntory",
+      "Shiseido",
+      "Orihiro"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 14,
+    "notes": "Japan #1 supplement brand. Enormous in beauty supplements. Massive JD and Tmall presence through cross-border. Also strong in skincare and health foods."
+  },
+  {
+    "brand_slug": "dymatize",
+    "brand_name": "Dymatize",
+    "parent_company": "BellRing Brands",
+    "headquarters_country": "US",
+    "website": "https://www.dymatize.com",
+    "primary_categories": [
+      "whey-protein",
+      "mass-gainer",
+      "pre-workout"
+    ],
+    "founded_year": 1994,
+    "flagship_product": "ISO100 Hydrolyzed",
+    "social_links": {
+      "youtube": "@Dymatize",
+      "instagram": "dymatize",
+      "tiktok": "dymatize"
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "muscletech",
+      "isopure"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 15,
+    "notes": "ISO100 hydrolyzed whey is the category gold standard. Preferred by professional fitness enthusiasts."
+  },
+  {
+    "brand_slug": "muscletech",
+    "brand_name": "MuscleTech",
+    "parent_company": "Iovate Health Sciences",
+    "headquarters_country": "US",
+    "website": "https://www.muscletech.com",
+    "primary_categories": [
+      "whey-protein",
+      "mass-gainer",
+      "lean-fat-burner",
+      "pre-workout"
+    ],
+    "founded_year": 1995,
+    "flagship_product": "Nitro-Tech Whey",
+    "social_links": {
+      "youtube": "@MuscleTech",
+      "instagram": "muscletech",
+      "tiktok": "muscletech"
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "dymatize",
+      "bsn"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 16,
+    "notes": "Strong research backing with multiple patented ingredients. Nitro-Tech series widely recognized."
   },
   {
     "brand_slug": "fairlife-core-power",
@@ -293,47 +513,24 @@
     "parent_company": "Coca-Cola (Fairlife)",
     "headquarters_country": "US",
     "website": "https://www.fairlife.com",
-    "primary_categories": ["rtd-shakes"],
+    "primary_categories": [
+      "rtd-shakes"
+    ],
     "founded_year": 2012,
     "flagship_product": "Core Power Elite 42g",
-    "social_links": { "youtube": null, "instagram": "fairlife", "tiktok": null },
-    "competitor_set": ["premier-protein", "muscle-milk"],
+    "social_links": {
+      "youtube": null,
+      "instagram": "fairlife",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "premier-protein",
+      "muscle-milk"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 9,
-    "notes": "超滤牛奶技术，口感接近鲜奶，增速极快"
-  },
-  {
-    "brand_slug": "liquid-iv",
-    "brand_name": "Liquid I.V.",
-    "parent_company": "Unilever",
-    "headquarters_country": "US",
-    "website": "https://www.liquid-iv.com",
-    "primary_categories": ["electrolytes"],
-    "founded_year": 2012,
-    "flagship_product": "Hydration Multiplier",
-    "social_links": { "youtube": "@LiquidIV", "instagram": "liquidiv", "tiktok": "liquidiv" },
-    "competitor_set": ["lmnt", "nuun", "gatorade-fit"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 14,
-    "notes": "电解质品类顶流，Cellular Transport Technology技术差异化"
-  },
-  {
-    "brand_slug": "lmnt",
-    "brand_name": "LMNT",
-    "parent_company": "LMNT",
-    "headquarters_country": "US",
-    "website": "https://www.drinklmnt.com",
-    "primary_categories": ["electrolytes"],
-    "founded_year": 2019,
-    "flagship_product": "LMNT Electrolyte Packets",
-    "social_links": { "youtube": "@DrinkLMNT", "instagram": "drinklmnt", "tiktok": null },
-    "competitor_set": ["liquid-iv", "nuun"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 20,
-    "notes": "零糖电解质，生酮/低碳人群偏好，高钠差异化"
+    "global_rank": 17,
+    "notes": "Ultra-filtered milk technology. Tastes like fresh milk with extremely fast growth."
   },
   {
     "brand_slug": "vital-proteins",
@@ -341,15 +538,532 @@
     "parent_company": "Nestlé Health Science",
     "headquarters_country": "US",
     "website": "https://www.vitalproteins.com",
-    "primary_categories": ["collagen"],
+    "primary_categories": [
+      "collagen",
+      "beauty-supplements",
+      "joint-health"
+    ],
     "founded_year": 2012,
     "flagship_product": "Collagen Peptides",
-    "social_links": { "youtube": "@VitalProteins", "instagram": "vitalproteins", "tiktok": "vitalproteins" },
-    "competitor_set": ["ancient-nutrition", "sports-research"],
+    "social_links": {
+      "youtube": "@VitalProteins",
+      "instagram": "vitalproteins",
+      "tiktok": "vitalproteins"
+    },
+    "competitor_set": [
+      "ancient-nutrition",
+      "sports-research",
+      "neocell"
+    ],
     "jd_available": true,
     "tmall_available": true,
-    "global_rank": 17,
-    "notes": "胶原蛋白肽全球领导品牌，Costco核心SKU"
+    "global_rank": 18,
+    "notes": "Global leader in collagen peptides. Core Costco SKU with broad wellness appeal."
+  },
+  {
+    "brand_slug": "alani-nu",
+    "brand_name": "Alani Nu",
+    "parent_company": "Alani Nutrition (Congo Brands)",
+    "headquarters_country": "US",
+    "website": "https://www.alani.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein",
+      "protein-bars",
+      "electrolytes"
+    ],
+    "founded_year": 2018,
+    "flagship_product": "Alani Nu Pre-Workout",
+    "social_links": {
+      "youtube": "@AlaniNu",
+      "instagram": "alaninutrition",
+      "tiktok": "alaninutrition"
+    },
+    "competitor_set": [
+      "ghost",
+      "ryse",
+      "bloom"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 19,
+    "notes": "Leading women's sports nutrition brand. Pink aesthetic breakthrough with fastest growth in the category."
+  },
+  {
+    "brand_slug": "liquid-iv",
+    "brand_name": "Liquid I.V.",
+    "parent_company": "Unilever",
+    "headquarters_country": "US",
+    "website": "https://www.liquid-iv.com",
+    "primary_categories": [
+      "electrolytes",
+      "hydration"
+    ],
+    "founded_year": 2012,
+    "flagship_product": "Hydration Multiplier",
+    "social_links": {
+      "youtube": "@LiquidIV",
+      "instagram": "liquidiv",
+      "tiktok": "liquidiv"
+    },
+    "competitor_set": [
+      "lmnt",
+      "nuun",
+      "gatorade-fit"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 20,
+    "notes": "Top electrolyte brand. Cellular Transport Technology (CTT) for fast hydration."
+  },
+  {
+    "brand_slug": "goli-nutrition",
+    "brand_name": "Goli Nutrition",
+    "parent_company": "Goli Nutrition (Independent)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "apple-cider-vinegar",
+      "ashwagandha",
+      "vitamin-d",
+      "magnesium",
+      "probiotics",
+      "immunity"
+    ],
+    "founded_year": 2019,
+    "flagship_product": "Goli Apple Cider Vinegar Gummies",
+    "social_links": {
+      "youtube": "@GoliNutrition",
+      "instagram": "golinutrition",
+      "tiktok": "golinutrition"
+    },
+    "competitor_set": [
+      "OLLY",
+      "SmartyPants",
+      "HUM Nutrition",
+      "Nature Made Gummies"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 21,
+    "notes": "Viral social media brand that created the ACV gummy category. Explosive growth via Instagram and TikTok. Celebrity partnerships. Expanding into ashwagandha and other gummy formats."
+  },
+  {
+    "brand_slug": "garden-of-life",
+    "brand_name": "Garden of Life",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "US",
+    "website": "https://www.gardenoflife.com",
+    "primary_categories": [
+      "probiotics",
+      "plant-protein",
+      "multivitamins",
+      "greens-powder",
+      "digestive-enzymes",
+      "immune-support"
+    ],
+    "founded_year": 2000,
+    "flagship_product": "Dr. Formulated Probiotics",
+    "social_links": {
+      "youtube": "@GardenofLife",
+      "instagram": "gardenoflife",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "megafood",
+      "new-chapter",
+      "renew-life",
+      "culturelle"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 22,
+    "notes": "Certified organic, non-GMO, whole-food supplements. Leader in probiotics and plant-based nutrition. Strong crossover between sports and general wellness."
+  },
+  {
+    "brand_slug": "olly-nutrition",
+    "brand_name": "OLLY",
+    "parent_company": "Unilever",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "melatonin-sleep",
+      "vitamins-multivitamins",
+      "hair-skin-nails",
+      "probiotics",
+      "immunity",
+      "magnesium"
+    ],
+    "founded_year": 2014,
+    "flagship_product": "OLLY Sleep Gummies",
+    "social_links": {
+      "youtube": "@OLLYWellness",
+      "instagram": "ollywellness",
+      "tiktok": "ollywellness"
+    },
+    "competitor_set": [
+      "SmartyPants",
+      "HUM Nutrition",
+      "Vitafusion",
+      "Nature Made Gummies"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 23,
+    "notes": "Lifestyle gummy vitamin brand with millennial/Gen Z appeal. Acquired by Unilever in 2019. Sleep gummies are a viral social media product. Strong JD presence."
+  },
+  {
+    "brand_slug": "gnc-pro",
+    "brand_name": "GNC Pro Performance",
+    "parent_company": "GNC Holdings",
+    "headquarters_country": "US",
+    "website": "https://www.gnc.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "multivitamins",
+      "fish-oil-omega3"
+    ],
+    "founded_year": 1935,
+    "flagship_product": "GNC Pro Performance Whey",
+    "social_links": {
+      "youtube": "@GNCofficial",
+      "instagram": "gnc",
+      "tiktok": "gnclivewell"
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "nature-made",
+      "now-foods"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 24,
+    "notes": "Largest specialty supplement retailer globally. Private-label brand spans sports nutrition and general wellness."
+  },
+  {
+    "brand_slug": "suntory-wellness",
+    "brand_name": "Suntory Wellness",
+    "parent_company": "Suntory Holdings",
+    "headquarters_country": "JP",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "coq10",
+      "glucosamine-joint",
+      "brain-cognitive",
+      "antioxidant",
+      "immunity"
+    ],
+    "founded_year": 1993,
+    "flagship_product": "Suntory DHA & EPA Sesamin EX",
+    "social_links": {
+      "youtube": "",
+      "instagram": "suntory_wellness",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "DHC",
+      "FANCL",
+      "Orihiro",
+      "Nature Made Japan"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 25,
+    "notes": "Japanese premium wellness brand from Suntory Group. DHA/EPA fish oil with Sesamin is uniquely differentiated. Strong R&D from beverage giant parent."
+  },
+  {
+    "brand_slug": "solgar",
+    "brand_name": "Solgar",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "US",
+    "website": "https://www.solgar.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "herbal-supplements",
+      "vitamin-d",
+      "magnesium",
+      "probiotics",
+      "b-complex",
+      "zinc"
+    ],
+    "founded_year": 1947,
+    "flagship_product": "Solgar VM-2000 Multivitamin",
+    "social_links": {
+      "youtube": "@SolgarVitamins",
+      "instagram": "solgar",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "now-foods",
+      "jarrow-formulas",
+      "pure-encapsulations",
+      "thorne",
+      "life-extension"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 26,
+    "notes": "Premium supplement pioneer founded 1947. Gold standard in health food stores globally. Strong presence in both US and European markets."
+  },
+  {
+    "brand_slug": "thorne-research",
+    "brand_name": "Thorne Research",
+    "parent_company": "Thorne HealthTech (Independent)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "vitamins-multivitamins",
+      "magnesium",
+      "vitamin-d",
+      "probiotics",
+      "brain-cognitive",
+      "immunity",
+      "ashwagandha"
+    ],
+    "founded_year": 1984,
+    "flagship_product": "Thorne Basic Nutrients Multivitamin",
+    "social_links": {
+      "youtube": "@ThorneHealth",
+      "instagram": "thornehealth",
+      "tiktok": "thornehealth"
+    },
+    "competitor_set": [
+      "Pure Encapsulations",
+      "Metagenics",
+      "Designs for Health",
+      "Ortho Molecular"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 27,
+    "notes": "Medical-grade brand. Official partner of Mayo Clinic and pro sports teams. NSF Certified for Sport. Premium pricing for clinical quality."
+  },
+  {
+    "brand_slug": "jarrow-formulas",
+    "brand_name": "Jarrow Formulas",
+    "parent_company": "Jarrow Formulas (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.jarrow.com",
+    "primary_categories": [
+      "probiotics",
+      "fish-oil-omega3",
+      "multivitamins",
+      "herbal-supplements",
+      "digestive-enzymes",
+      "vitamin-d",
+      "magnesium"
+    ],
+    "founded_year": 1977,
+    "flagship_product": "Jarro-Dophilus EPS",
+    "social_links": {
+      "youtube": "@JarrowFormulas",
+      "instagram": "jarrowformulas",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "now-foods",
+      "doctors-best",
+      "life-extension",
+      "solgar"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 28,
+    "notes": "Science-backed formulations with strong R&D pedigree. Highly respected among nutrition professionals."
+  },
+  {
+    "brand_slug": "sports-research",
+    "brand_name": "Sports Research",
+    "parent_company": "Sports Research (Independent)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "collagen",
+      "vitamin-d",
+      "magnesium",
+      "turmeric-curcumin",
+      "coq10"
+    ],
+    "founded_year": 1980,
+    "flagship_product": "Sports Research Omega-3 Triple Strength",
+    "social_links": {
+      "youtube": "@SportsResearch",
+      "instagram": "sportsresearch",
+      "tiktok": "sportsresearch"
+    },
+    "competitor_set": [
+      "Nordic Naturals",
+      "Carlson Labs",
+      "Vital Proteins",
+      "NOW Foods"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 29,
+    "notes": "Amazon-favorite supplement brand with massive online following. Coconut oil, collagen peptides, and fish oil are bestsellers. Clean label, third-party tested. Strong JD cross-border sales."
+  },
+  {
+    "brand_slug": "doctors-best",
+    "brand_name": "Doctor's Best",
+    "parent_company": "Kingdomway Group (Xiamen, China HQ)",
+    "headquarters_country": "US",
+    "website": "https://www.drbvitamins.com",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "coq10",
+      "multivitamins",
+      "magnesium",
+      "probiotics",
+      "vitamin-d"
+    ],
+    "founded_year": 1990,
+    "flagship_product": "Doctor's Best High Absorption CoQ10",
+    "social_links": {
+      "youtube": "@DoctorsBest",
+      "instagram": "doctorsbest",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "jarrow-formulas",
+      "now-foods",
+      "life-extension"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 30,
+    "notes": "Science-focused value brand. Chinese ownership via Kingdomway. Strong cross-border e-commerce on JD/Tmall."
+  },
+  {
+    "brand_slug": "life-extension",
+    "brand_name": "Life Extension",
+    "parent_company": "Life Extension Foundation",
+    "headquarters_country": "US",
+    "website": "https://www.lifeextension.com",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "multivitamins",
+      "coq10",
+      "probiotics",
+      "vitamin-d",
+      "magnesium",
+      "herbal-supplements",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1980,
+    "flagship_product": "Two-Per-Day Multivitamin",
+    "social_links": {
+      "youtube": "@LifeExtension",
+      "instagram": "lifeextension",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "thorne",
+      "pure-encapsulations",
+      "jarrow-formulas",
+      "doctors-best",
+      "now-foods"
+    ],
+    "jd_available": true,
+    "tmall_available": false,
+    "global_rank": 31,
+    "notes": "Clinical-dose supplement pioneer. Consumer Reports top-rated. Strong in direct-to-consumer subscription."
+  },
+  {
+    "brand_slug": "pure-encapsulations",
+    "brand_name": "Pure Encapsulations",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "US",
+    "website": "https://www.pureencapsulations.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "magnesium",
+      "vitamin-d",
+      "vitamin-c",
+      "herbal-supplements",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1991,
+    "flagship_product": "Pure Encapsulations O.N.E. Multivitamin",
+    "social_links": {
+      "youtube": "@PureEncapsulations",
+      "instagram": "pureencapsulations",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "thorne",
+      "metagenics",
+      "designs-for-health",
+      "ortho-molecular",
+      "douglas-laboratories"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 32,
+    "notes": "Hypoallergenic premium supplements. Practitioner-dispensed leader. Free from common allergens and artificial additives."
+  },
+  {
+    "brand_slug": "megafood",
+    "brand_name": "MegaFood",
+    "parent_company": "Pharmavite (Otsuka Pharmaceutical)",
+    "headquarters_country": "US",
+    "website": "https://www.megafood.com",
+    "primary_categories": [
+      "multivitamins",
+      "probiotics",
+      "magnesium",
+      "vitamin-d",
+      "vitamin-c",
+      "zinc",
+      "immune-support",
+      "greens-powder"
+    ],
+    "founded_year": 1973,
+    "flagship_product": "MegaFood Blood Builder",
+    "social_links": {
+      "youtube": "@MegaFood",
+      "instagram": "megafood",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "garden-of-life",
+      "new-chapter",
+      "rainbow-light",
+      "country-life"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 33,
+    "notes": "Farm-to-table supplements. Made with real whole foods. Blood Builder is a category-defining iron supplement."
+  },
+  {
+    "brand_slug": "shiseido-inner",
+    "brand_name": "Shiseido The Collagen",
+    "parent_company": "Shiseido Company",
+    "headquarters_country": "JP",
+    "primary_categories": [
+      "collagen",
+      "hair-skin-nails",
+      "antioxidant",
+      "vitamin-c"
+    ],
+    "founded_year": 2000,
+    "flagship_product": "Shiseido The Collagen Drink",
+    "social_links": {
+      "youtube": "@SHISEIDO",
+      "instagram": "shiseido",
+      "tiktok": "shiseido"
+    },
+    "competitor_set": [
+      "DHC Collagen",
+      "FANCL Collagen",
+      "Meiji Amino Collagen",
+      "Axxzia"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 34,
+    "notes": "Beauty collagen from Japan #1 cosmetics company. The Collagen drink and powder are cult favorites in Asia. Shiseido prestige halo effect. Extremely popular on JD and daigou."
   },
   {
     "brand_slug": "vega",
@@ -357,223 +1071,1027 @@
     "parent_company": "Danone",
     "headquarters_country": "US",
     "website": "https://www.myvega.com",
-    "primary_categories": ["plant-protein"],
+    "primary_categories": [
+      "plant-protein",
+      "greens-powder",
+      "multivitamins"
+    ],
     "founded_year": 2001,
     "flagship_product": "Vega Protein & Greens",
-    "social_links": { "youtube": "@VegaTeam", "instagram": "vega_team", "tiktok": null },
-    "competitor_set": ["orgain", "garden-of-life", "sunwarrior"],
+    "social_links": {
+      "youtube": "@VegaTeam",
+      "instagram": "vega_team",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "orgain",
+      "garden-of-life",
+      "sunwarrior"
+    ],
     "jd_available": false,
     "tmall_available": true,
-    "global_rank": 21,
-    "notes": "植物蛋白先驱，全食基底配方，北美主流渠道全覆盖"
+    "global_rank": 35,
+    "notes": "Plant-based nutrition pioneer. Whole-food base formulas across all North American mainstream channels."
   },
   {
     "brand_slug": "orgain",
     "brand_name": "Orgain",
-    "parent_company": "Butterfly Equity (部分股权 Nestlé)",
+    "parent_company": "Butterfly Equity (minority stake: Nestlé)",
     "headquarters_country": "US",
     "website": "https://www.orgain.com",
-    "primary_categories": ["plant-protein", "rtd-shakes", "protein-bars"],
+    "primary_categories": [
+      "plant-protein",
+      "rtd-shakes",
+      "protein-bars",
+      "greens-powder"
+    ],
     "founded_year": 2009,
     "flagship_product": "Organic Protein Powder",
-    "social_links": { "youtube": "@Orgain", "instagram": "orgain", "tiktok": "orgain" },
-    "competitor_set": ["vega", "garden-of-life", "owyn"],
+    "social_links": {
+      "youtube": "@Orgain",
+      "instagram": "orgain",
+      "tiktok": "orgain"
+    },
+    "competitor_set": [
+      "vega",
+      "garden-of-life",
+      "owyn"
+    ],
     "jd_available": false,
     "tmall_available": true,
-    "global_rank": 23,
-    "notes": "有机认证差异化，Costco/Sam's Club核心SKU，增速领先"
-  },
-  {
-    "brand_slug": "thorne",
-    "brand_name": "Thorne",
-    "parent_company": "Thorne HealthTech",
-    "headquarters_country": "US",
-    "website": "https://www.thorne.com",
-    "primary_categories": ["creatine", "whey-protein"],
-    "founded_year": 1984,
-    "flagship_product": "Thorne Creatine",
-    "social_links": { "youtube": "@ThorneHealth", "instagram": "thornehealth", "tiktok": null },
-    "competitor_set": ["nutrabio", "pure-encapsulations", "sports-research"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 24,
-    "notes": "NSF Certified for Sport认证，医疗级品质，专业运动员信赖"
-  },
-  {
-    "brand_slug": "bulk",
-    "brand_name": "Bulk",
-    "parent_company": "Bulk (UK)",
-    "headquarters_country": "UK",
-    "website": "https://www.bulk.com",
-    "primary_categories": ["whey-protein", "plant-protein", "pre-workout", "creatine"],
-    "founded_year": 2005,
-    "flagship_product": "Pure Whey Protein",
-    "social_links": { "youtube": "@BulkSupplements", "instagram": "bulk", "tiktok": "bulk" },
-    "competitor_set": ["myprotein", "foodspring", "prozis"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 26,
-    "notes": "英国第二大DTC运动营养品牌，与Myprotein直面竞争"
-  },
-  {
-    "brand_slug": "foodspring",
-    "brand_name": "Foodspring",
-    "parent_company": "Mars Inc.",
-    "headquarters_country": "DE",
-    "website": "https://www.foodspring.com",
-    "primary_categories": ["whey-protein", "plant-protein", "protein-bars"],
-    "founded_year": 2013,
-    "flagship_product": "Whey Protein",
-    "social_links": { "youtube": "@Foodspring", "instagram": "foodspring", "tiktok": null },
-    "competitor_set": ["myprotein", "bulk", "esn"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 28,
-    "notes": "Mars收购背书，德国市场领先，欧洲渠道覆盖广"
-  },
-  {
-    "brand_slug": "esn",
-    "brand_name": "ESN",
-    "parent_company": "Quality Group",
-    "headquarters_country": "DE",
-    "website": "https://www.esn.com",
-    "primary_categories": ["whey-protein", "pre-workout", "creatine"],
-    "founded_year": 2006,
-    "flagship_product": "Designer Whey",
-    "social_links": { "youtube": "@ESNcom", "instagram": "esncom", "tiktok": "esncom" },
-    "competitor_set": ["myprotein", "foodspring", "prozis"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 29,
-    "notes": "德国DTC头部品牌，Designer Whey为欧洲畅销SKU"
-  },
-  {
-    "brand_slug": "prozis",
-    "brand_name": "Prozis",
-    "parent_company": "Prozis Group",
-    "headquarters_country": "PT",
-    "website": "https://www.prozis.com",
-    "primary_categories": ["whey-protein", "protein-bars", "pre-workout"],
-    "founded_year": 2007,
-    "flagship_product": "Real Whey",
-    "social_links": { "youtube": "@ProzisOfficial", "instagram": "prozis", "tiktok": "prozis" },
-    "competitor_set": ["myprotein", "bulk", "esn"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 30,
-    "notes": "葡萄牙品牌，南欧市场领先，极致性价比策略"
-  },
-  {
-    "brand_slug": "naughty-boy",
-    "brand_name": "Naughty Boy",
-    "parent_company": "Naughty Boy Lifestyle",
-    "headquarters_country": "UK",
-    "website": "https://www.naughtyboy.com",
-    "primary_categories": ["pre-workout", "whey-protein"],
-    "founded_year": 2018,
-    "flagship_product": "SickPump Pre-Workout",
-    "social_links": { "youtube": "@NaughtyBoyLifestyle", "instagram": "naughtyboy", "tiktok": "naughtyboy" },
-    "competitor_set": ["gorilla-mode", "ryse", "applied-nutrition"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 35,
-    "notes": "英国新兴品牌，潮流营销，高剂量配方"
-  },
-  {
-    "brand_slug": "applied-nutrition",
-    "brand_name": "Applied Nutrition",
-    "parent_company": "Applied Nutrition",
-    "headquarters_country": "UK",
-    "website": "https://www.appliednutrition.com",
-    "primary_categories": ["whey-protein", "pre-workout", "bcaa-eaa"],
-    "founded_year": 2014,
-    "flagship_product": "ABE Pre-Workout",
-    "social_links": { "youtube": "@AppliedNutrition", "instagram": "appliednutrition", "tiktok": "appliednutrition" },
-    "competitor_set": ["myprotein", "bulk", "naughty-boy"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 32,
-    "notes": "英超球队合作背书，ABE系列英国畅销"
-  },
-  {
-    "brand_slug": "bulk-nutrients",
-    "brand_name": "Bulk Nutrients",
-    "parent_company": "Bulk Nutrients",
-    "headquarters_country": "AU",
-    "website": "https://www.bulknutrients.com.au",
-    "primary_categories": ["whey-protein", "creatine", "pre-workout"],
-    "founded_year": 2008,
-    "flagship_product": "Whey Protein Isolate",
-    "social_links": { "youtube": "@BulkNutrients", "instagram": "bulknutrients", "tiktok": null },
-    "competitor_set": ["genetix", "inc-sports", "vpa-australia"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 31,
-    "notes": "澳大利亚头部DTC品牌，乳清蛋白原料产地优势"
-  },
-  {
-    "brand_slug": "genetix",
-    "brand_name": "Genetix",
-    "parent_company": "Genetix Nutrition",
-    "headquarters_country": "AU",
-    "website": "https://www.genetix.com.au",
-    "primary_categories": ["whey-protein", "pre-workout", "lean-fat-burner"],
-    "founded_year": 2012,
-    "flagship_product": "Lean Whey",
-    "social_links": { "youtube": "@GenetixNutrition", "instagram": "genetixnutrition", "tiktok": null },
-    "competitor_set": ["bulk-nutrients", "inc-sports", "vpa-australia"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 34,
-    "notes": "澳洲增长最快运动营养品牌之一，包装设计突出"
-  },
-  {
-    "brand_slug": "vpa-australia",
-    "brand_name": "VPA Australia",
-    "parent_company": "VPA Australia",
-    "headquarters_country": "AU",
-    "website": "https://www.vpa.com.au",
-    "primary_categories": ["whey-protein", "plant-protein"],
-    "founded_year": 2015,
-    "flagship_product": "WPC 80",
-    "social_links": { "youtube": "@VPAAustralia", "instagram": "vpaaus", "tiktok": null },
-    "competitor_set": ["bulk-nutrients", "genetix", "musashi"],
-    "jd_available": false,
-    "tmall_available": false,
-    "global_rank": 38,
-    "notes": "澳洲本土品牌，高性价比WPC，订阅模式领先"
-  },
-  {
-    "brand_slug": "musashi",
-    "brand_name": "Musashi",
-    "parent_company": "Vitaco Health",
-    "headquarters_country": "AU",
-    "website": "https://www.musashi.com",
-    "primary_categories": ["whey-protein", "protein-bars", "rtd-shakes"],
-    "founded_year": 1987,
-    "flagship_product": "High Protein Bar",
-    "social_links": { "youtube": null, "instagram": "musashiaus", "tiktok": null },
-    "competitor_set": ["optimum-nutrition", "quest", "bulk-nutrients"],
-    "jd_available": false,
-    "tmall_available": false,
     "global_rank": 36,
-    "notes": "澳新最老牌运动营养品牌之一，全渠道覆盖"
+    "notes": "Organic-certified differentiation. Core Costco/Sam's Club SKU with leading growth."
   },
   {
-    "brand_slug": "tom-oliver",
-    "brand_name": "Tom Oliver",
-    "parent_company": "Tom Oliver Nutrition",
-    "headquarters_country": "AU",
-    "website": "https://www.tomoliver.com.au",
-    "primary_categories": ["whey-protein", "plant-protein"],
-    "founded_year": 2014,
-    "flagship_product": "Grass-Fed Whey Isolate",
-    "social_links": { "youtube": null, "instagram": "tomolivernutrition", "tiktok": null },
-    "competitor_set": ["naked-nutrition", "transparent-labs", "vpa-australia"],
+    "brand_slug": "ghost",
+    "brand_name": "Ghost",
+    "parent_company": "Ghost Lifestyle (Keurig Dr Pepper invested)",
+    "headquarters_country": "US",
+    "website": "https://www.ghostlifestyle.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "bcaa-eaa"
+    ],
+    "founded_year": 2016,
+    "flagship_product": "Ghost Whey",
+    "social_links": {
+      "youtube": "@GhostLifestyle",
+      "instagram": "ghostlifestyle",
+      "tiktok": "ghostlifestyle"
+    },
+    "competitor_set": [
+      "ryse",
+      "alani-nu",
+      "bucked-up"
+    ],
     "jd_available": false,
     "tmall_available": false,
+    "global_rank": 37,
+    "notes": "Co-branded IP strategy (Oreo, Sour Patch Kids, etc.). A Gen Z cultural icon with explosive growth."
+  },
+  {
+    "brand_slug": "align-probiotic",
+    "brand_name": "Align",
+    "parent_company": "Procter & Gamble",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "probiotics",
+      "digestive-health",
+      "immunity"
+    ],
+    "founded_year": 2000,
+    "flagship_product": "Align Probiotic 24/7 Digestive Support",
+    "social_links": {
+      "youtube": "",
+      "instagram": "alignprobiotic",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "Culturelle",
+      "Florastor",
+      "Garden of Life Probiotics",
+      "Renew Life"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 38,
+    "notes": "#1 gastroenterologist-recommended probiotic brand in US. Bifidobacterium 35624 strain with clinical studies. P&G flagship supplement. Strong JD and Tmall presence."
+  },
+  {
+    "brand_slug": "nordic-naturals",
+    "brand_name": "Nordic Naturals",
+    "parent_company": "Nordic Naturals (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.nordicnaturals.com",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "vitamin-d",
+      "probiotics",
+      "prenatal"
+    ],
+    "founded_year": 1995,
+    "flagship_product": "Ultimate Omega",
+    "social_links": {
+      "youtube": "@NordicNaturals",
+      "instagram": "nordicnaturals",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "carlson-labs",
+      "sports-research",
+      "natures-bounty-fish-oil"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 39,
+    "notes": "#1 fish oil brand in the US natural channel. Freshness and purity are brand hallmarks. Strong global export."
+  },
+  {
+    "brand_slug": "isopure",
+    "brand_name": "Isopure",
+    "parent_company": "Glanbia Nutritionals",
+    "headquarters_country": "US",
+    "website": "https://www.theisopurecompany.com",
+    "primary_categories": [
+      "whey-protein",
+      "rtd-shakes"
+    ],
+    "founded_year": 1999,
+    "flagship_product": "Zero Carb Whey Isolate",
+    "social_links": {
+      "youtube": "@Isopure",
+      "instagram": "isopure",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "dymatize",
+      "transparent-labs"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 40,
+    "notes": "Zero-carb / low-carb whey isolate benchmark. Leading clear RTD protein drink."
+  },
+  {
+    "brand_slug": "smarty-pants",
+    "brand_name": "SmartyPants",
+    "parent_company": "Unilever",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "vitamins-multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "immunity",
+      "vitamin-d"
+    ],
+    "founded_year": 2010,
+    "flagship_product": "SmartyPants Kids Multivitamin Gummies",
+    "social_links": {
+      "youtube": "",
+      "instagram": "smartyplantsvitamins",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "OLLY",
+      "Garden of Life Kids",
+      "Nordic Naturals Kids",
+      "Zarbees"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 41,
+    "notes": "Premium gummy vitamin brand focused on families. Clean label with bioavailable nutrient forms. Unilever acquisition alongside OLLY."
+  },
+  {
+    "brand_slug": "carlson-labs",
+    "brand_name": "Carlson Labs",
+    "parent_company": "Carlson Labs (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.carlsonlabs.com",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "vitamin-d",
+      "vitamin-c",
+      "multivitamins",
+      "magnesium",
+      "probiotics"
+    ],
+    "founded_year": 1965,
+    "flagship_product": "Carlson Cod Liver Oil",
+    "social_links": {
+      "youtube": "@CarlsonLabs",
+      "instagram": "carlsonlabs",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nordic-naturals",
+      "sports-research",
+      "now-foods"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
     "global_rank": 42,
-    "notes": "高端清洁标签定位，新西兰草饲奶源"
+    "notes": "Family-owned fish oil and vitamin pioneer since 1965. Swedish lineage. Cod liver oil is iconic."
+  },
+  {
+    "brand_slug": "ancient-nutrition",
+    "brand_name": "Ancient Nutrition",
+    "parent_company": "Ancient Nutrition (Dr. Josh Axe)",
+    "headquarters_country": "US",
+    "website": "https://www.ancientnutrition.com",
+    "primary_categories": [
+      "collagen",
+      "bone-broth",
+      "probiotics",
+      "multivitamins",
+      "greens-powder"
+    ],
+    "founded_year": 2016,
+    "flagship_product": "Multi Collagen Protein",
+    "social_links": {
+      "youtube": "@AncientNutrition",
+      "instagram": "ancientnutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "vital-proteins",
+      "garden-of-life",
+      "paleovalley"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 43,
+    "notes": "Bone broth and multi-collagen pioneer. Whole-food ancestral nutrition philosophy."
+  },
+  {
+    "brand_slug": "source-naturals",
+    "brand_name": "Source Naturals",
+    "parent_company": "Threshold Enterprises",
+    "headquarters_country": "US",
+    "website": "https://www.sourcenaturals.com",
+    "primary_categories": [
+      "herbal-supplements",
+      "magnesium",
+      "fish-oil-omega3",
+      "multivitamins",
+      "melatonin"
+    ],
+    "founded_year": 1982,
+    "flagship_product": "Life Force Multiple",
+    "social_links": {
+      "youtube": "@SourceNaturals",
+      "instagram": "sourcenaturals",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "now-foods",
+      "solaray",
+      "jarrow-formulas"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 44,
+    "notes": "Wellness systems approach. Bio-Aligned formulas targeting specific body systems."
+  },
+  {
+    "brand_slug": "solaray",
+    "brand_name": "Solaray",
+    "parent_company": "The Bountiful Company (Nestlé)",
+    "headquarters_country": "US",
+    "website": "https://www.solaray.com",
+    "primary_categories": [
+      "herbal-supplements",
+      "multivitamins",
+      "probiotics",
+      "magnesium",
+      "digestive-enzymes"
+    ],
+    "founded_year": 1973,
+    "flagship_product": "Solaray Herbal Blends",
+    "social_links": {
+      "youtube": "@Solaray",
+      "instagram": "solaray",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "natures-way",
+      "source-naturals",
+      "now-foods",
+      "gaia-herbs"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 45,
+    "notes": "Herbal supplement specialist with deep catalog. Strong in the natural/vitamin shopper channel."
+  },
+  {
+    "brand_slug": "bluebonnet",
+    "brand_name": "Bluebonnet Nutrition",
+    "parent_company": "Bluebonnet Nutrition (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.bluebonnetnutrition.com",
+    "primary_categories": [
+      "multivitamins",
+      "magnesium",
+      "vitamin-d",
+      "fish-oil-omega3",
+      "probiotics",
+      "calcium"
+    ],
+    "founded_year": 1991,
+    "flagship_product": "Bluebonnet Magnesium",
+    "social_links": {
+      "youtube": "@BluebonnetNutrition",
+      "instagram": "bluebonnetnutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "solgar",
+      "country-life",
+      "now-foods",
+      "megafood"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 46,
+    "notes": "Clean supplement manufacturer. Kosher-certified, non-GMO, free of common allergens. Texas-based independent."
+  },
+  {
+    "brand_slug": "country-life",
+    "brand_name": "Country Life",
+    "parent_company": "Country Life (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.countrylife.com",
+    "primary_categories": [
+      "multivitamins",
+      "magnesium",
+      "fish-oil-omega3",
+      "probiotics",
+      "herbal-supplements",
+      "zinc"
+    ],
+    "founded_year": 1971,
+    "flagship_product": "Country Life Maxi-Hair",
+    "social_links": {
+      "youtube": "@CountryLifeVitamins",
+      "instagram": "countrylifevitamins",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "solgar",
+      "bluebonnet",
+      "now-foods",
+      "megafood"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 47,
+    "notes": "Certified B Corporation. Gluten-free pioneer. Longstanding natural channel presence."
+  },
+  {
+    "brand_slug": "olly",
+    "brand_name": "Olly",
+    "parent_company": "Unilever",
+    "headquarters_country": "US",
+    "website": "https://www.olly.com",
+    "primary_categories": [
+      "multivitamins",
+      "melatonin",
+      "probiotics",
+      "beauty-supplements",
+      "magnesium"
+    ],
+    "founded_year": 2015,
+    "flagship_product": "Olly Sleep Gummies",
+    "social_links": {
+      "youtube": "@OllyVitamins",
+      "instagram": "olly",
+      "tiktok": "ollywellness"
+    },
+    "competitor_set": [
+      "smartypants",
+      "hum-nutrition",
+      "ritual",
+      "natrol"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 48,
+    "notes": "Gummy vitamin lifestyle brand. Massively successful Target/Walmart distribution. Unilever acquisition at scale."
+  },
+  {
+    "brand_slug": "ryse",
+    "brand_name": "RYSE",
+    "parent_company": "RYSE Up Sports Nutrition",
+    "headquarters_country": "US",
+    "website": "https://www.ryse.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein",
+      "protein-bars"
+    ],
+    "founded_year": 2017,
+    "flagship_product": "RYSE Loaded Pre",
+    "social_links": {
+      "youtube": "@RYSESupps",
+      "instagram": "ryse",
+      "tiktok": "rysesupps"
+    },
+    "competitor_set": [
+      "ghost",
+      "gorilla-mode",
+      "bucked-up"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 49,
+    "notes": "TikTok-native brand. Loaded Pre-Workout is an online sensation with massive social buzz."
+  },
+  {
+    "brand_slug": "smartypants",
+    "brand_name": "SmartyPants",
+    "parent_company": "Unilever",
+    "headquarters_country": "US",
+    "website": "https://www.smartypantsvitamins.com",
+    "primary_categories": [
+      "multivitamins",
+      "probiotics",
+      "fish-oil-omega3",
+      "prenatal",
+      "childrens-health"
+    ],
+    "founded_year": 2010,
+    "flagship_product": "SmartyPants Kids Complete",
+    "social_links": {
+      "youtube": "@SmartyPantsVitamins",
+      "instagram": "smartypantsvitamins",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "olly",
+      "ritual",
+      "zarbees",
+      "hiya-health"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 50,
+    "notes": "Premium kids' gummy vitamins. Multi-functional formulas in one gummy. Clean ingredient deck."
+  },
+  {
+    "brand_slug": "hum-nutrition",
+    "brand_name": "HUM Nutrition",
+    "parent_company": "HUM Nutrition (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.humnutrition.com",
+    "primary_categories": [
+      "beauty-supplements",
+      "probiotics",
+      "magnesium",
+      "multivitamins"
+    ],
+    "founded_year": 2012,
+    "flagship_product": "HUM Collagen Love",
+    "social_links": {
+      "youtube": "@HUMNutrition",
+      "instagram": "humnutrition",
+      "tiktok": "humnutrition"
+    },
+    "competitor_set": [
+      "ritual",
+      "olly",
+      "care-of",
+      "love-wellness"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 51,
+    "notes": "Beauty-from-within supplement brand. DTC-first with strong influencer marketing. Sephora distribution."
+  },
+  {
+    "brand_slug": "ritual-vitamins",
+    "brand_name": "Ritual",
+    "parent_company": "Ritual (Independent)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "vitamins-multivitamins",
+      "vitamin-d",
+      "fish-oil-omega3",
+      "probiotics",
+      "brain-cognitive"
+    ],
+    "founded_year": 2016,
+    "flagship_product": "Ritual Essential for Women Multivitamin",
+    "social_links": {
+      "youtube": "@Ritual",
+      "instagram": "ritual",
+      "tiktok": "ritual"
+    },
+    "competitor_set": [
+      "HUM Nutrition",
+      "Care/of",
+      "Persona Nutrition",
+      "Thorne"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 52,
+    "notes": "Traceable supplement brand with visible supply chain. Delayed-release capsule design. DTC subscription model. Transparent ingredient sourcing with supply chain map."
+  },
+  {
+    "brand_slug": "bucked-up",
+    "brand_name": "Bucked Up",
+    "parent_company": "DAS Labs",
+    "headquarters_country": "US",
+    "website": "https://www.buckedup.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein",
+      "lean-fat-burner"
+    ],
+    "founded_year": 2015,
+    "flagship_product": "Bucked Up Pre-Workout",
+    "social_links": {
+      "youtube": "@BuckedUp",
+      "instagram": "buckedup",
+      "tiktok": "buckedup"
+    },
+    "competitor_set": [
+      "gorilla-mode",
+      "ryse",
+      "c4-cellucor"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 53,
+    "notes": "Deer antler velvet differentiation. Strong social media marketing engine."
+  },
+  {
+    "brand_slug": "meiji-collagen",
+    "brand_name": "Meiji Amino Collagen",
+    "parent_company": "Meiji Holdings",
+    "headquarters_country": "JP",
+    "primary_categories": [
+      "collagen",
+      "hair-skin-nails",
+      "fish-oil-omega3"
+    ],
+    "founded_year": 1998,
+    "flagship_product": "Meiji Amino Collagen Powder",
+    "social_links": {
+      "youtube": "",
+      "instagram": "meiji_collagen",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "DHC Collagen",
+      "Shiseido The Collagen",
+      "FANCL Collagen",
+      "Axxzia"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 54,
+    "notes": "Japan food giant Meiji supplement arm. Amino Collagen powder is top-seller in Japan and popular via cross-border. Fish-derived low molecular weight collagen peptides."
+  },
+  {
+    "brand_slug": "ritual",
+    "brand_name": "Ritual",
+    "parent_company": "Ritual (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.ritual.com",
+    "primary_categories": [
+      "multivitamins",
+      "prenatal",
+      "plant-protein",
+      "probiotics"
+    ],
+    "founded_year": 2016,
+    "flagship_product": "Ritual Essential for Women",
+    "social_links": {
+      "youtube": "@RitualVitamins",
+      "instagram": "ritual",
+      "tiktok": "ritual"
+    },
+    "competitor_set": [
+      "care-of",
+      "persona-nutrition",
+      "hum-nutrition",
+      "olly"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 55,
+    "notes": "Traceable, transparent supplement brand. Made Traceable technology shows source of every ingredient. DTC subscription model."
+  },
+  {
+    "brand_slug": "transparent-labs",
+    "brand_name": "Transparent Labs",
+    "parent_company": "Transparent Labs",
+    "headquarters_country": "US",
+    "website": "https://www.transparentlabs.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "creatine"
+    ],
+    "founded_year": 2015,
+    "flagship_product": "Grass-Fed Whey Isolate",
+    "social_links": {
+      "youtube": "@TransparentLabs",
+      "instagram": "transparentlabs",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "legion",
+      "naked-nutrition",
+      "nutrabio"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 56,
+    "notes": "Clean-label benchmark with full ingredient transparency. Premium positioning."
+  },
+  {
+    "brand_slug": "bsn",
+    "brand_name": "BSN",
+    "parent_company": "Glanbia Nutritionals",
+    "headquarters_country": "US",
+    "website": "https://www.gobsn.com",
+    "primary_categories": [
+      "whey-protein",
+      "mass-gainer",
+      "pre-workout"
+    ],
+    "founded_year": 2001,
+    "flagship_product": "Syntha-6",
+    "social_links": {
+      "youtube": "@BSNsupplements",
+      "instagram": "bsnsupps",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "muscletech",
+      "dymatize"
+    ],
+    "jd_available": true,
+    "tmall_available": false,
+    "global_rank": 57,
+    "notes": "Syntha-6 is the taste benchmark. Leading blended protein brand."
+  },
+  {
+    "brand_slug": "care-of",
+    "brand_name": "Care/of",
+    "parent_company": "Bayer",
+    "headquarters_country": "US",
+    "website": "https://www.careof.com",
+    "primary_categories": [
+      "personalized-nutrition",
+      "multivitamins",
+      "probiotics",
+      "magnesium",
+      "fish-oil-omega3"
+    ],
+    "founded_year": 2016,
+    "flagship_product": "Care/of Personalized Daily Packs",
+    "social_links": {
+      "youtube": "@CareOf",
+      "instagram": "careof",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "persona-nutrition",
+      "ritual",
+      "hum-nutrition"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 58,
+    "notes": "Personalized daily supplement packs. Quiz-based recommendation engine. Bayer acquisition for pharma credibility."
+  },
+  {
+    "brand_slug": "persona-nutrition",
+    "brand_name": "Persona Nutrition",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "US",
+    "website": "https://www.personanutrition.com",
+    "primary_categories": [
+      "personalized-nutrition",
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "magnesium"
+    ],
+    "founded_year": 2017,
+    "flagship_product": "Persona Personalized Vitamin Packs",
+    "social_links": {
+      "youtube": "@PersonaNutrition",
+      "instagram": "personanutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "care-of",
+      "ritual",
+      "hum-nutrition"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 59,
+    "notes": "Nestlé's personalized nutrition play. Pharmacist-reviewed recommendations. Subscription-based daily packs."
+  },
+  {
+    "brand_slug": "new-chapter",
+    "brand_name": "New Chapter",
+    "parent_company": "Procter & Gamble",
+    "headquarters_country": "US",
+    "website": "https://www.newchapter.com",
+    "primary_categories": [
+      "multivitamins",
+      "probiotics",
+      "fish-oil-omega3",
+      "herbal-supplements",
+      "magnesium",
+      "fermented-supplements"
+    ],
+    "founded_year": 1982,
+    "flagship_product": "New Chapter Every Woman's One Daily",
+    "social_links": {
+      "youtube": "@NewChapterVitamins",
+      "instagram": "newchapter",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "garden-of-life",
+      "megafood",
+      "rainbow-light",
+      "solgar"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 60,
+    "notes": "Fermented supplement pioneer. Probiotic-cultured nutrients for better absorption. P&G distribution power."
+  },
+  {
+    "brand_slug": "gorilla-mode",
+    "brand_name": "Gorilla Mode",
+    "parent_company": "More Plates More Dates LLC",
+    "headquarters_country": "US",
+    "website": "https://www.gorillamind.com",
+    "primary_categories": [
+      "pre-workout",
+      "creatine",
+      "bcaa-eaa"
+    ],
+    "founded_year": 2019,
+    "flagship_product": "Gorilla Mode Pre-Workout",
+    "social_links": {
+      "youtube": "@MorePlatesMoreDates",
+      "instagram": "gorillamind",
+      "tiktok": "gorillamind"
+    },
+    "competitor_set": [
+      "ryse",
+      "bucked-up",
+      "c4-cellucor"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 61,
+    "notes": "YouTube/KOL-driven brand. Transparent dosing formulas for the hardcore fitness community."
+  },
+  {
+    "brand_slug": "rainbow-light",
+    "brand_name": "Rainbow Light",
+    "parent_company": "Clorox (Nutranext)",
+    "headquarters_country": "US",
+    "website": "https://www.rainbowlight.com",
+    "primary_categories": [
+      "multivitamins",
+      "probiotics",
+      "herbal-supplements",
+      "vitamin-d",
+      "magnesium",
+      "immune-support"
+    ],
+    "founded_year": 1981,
+    "flagship_product": "Rainbow Light Women's One",
+    "social_links": {
+      "youtube": "@RainbowLight",
+      "instagram": "rainbowlight",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "garden-of-life",
+      "new-chapter",
+      "megafood",
+      "country-life"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 62,
+    "notes": "Natural, food-based supplements. Gentle on stomach formulation. Clorox ownership provides mass retail access."
+  },
+  {
+    "brand_slug": "built-bar",
+    "brand_name": "Built Bar",
+    "parent_company": "Built Brands",
+    "headquarters_country": "US",
+    "website": "https://www.built.com",
+    "primary_categories": [
+      "protein-bars"
+    ],
+    "founded_year": 2018,
+    "flagship_product": "Built Puff Bar",
+    "social_links": {
+      "youtube": "@BuiltBrands",
+      "instagram": "built",
+      "tiktok": "builtbar"
+    },
+    "competitor_set": [
+      "quest",
+      "one-bar",
+      "barebells"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 63,
+    "notes": "Puffed protein bar innovation. Unique texture differentiation with social media virality."
+  },
+  {
+    "brand_slug": "lmnt",
+    "brand_name": "LMNT",
+    "parent_company": "LMNT",
+    "headquarters_country": "US",
+    "website": "https://www.drinklmnt.com",
+    "primary_categories": [
+      "electrolytes",
+      "hydration"
+    ],
+    "founded_year": 2019,
+    "flagship_product": "LMNT Electrolyte Packets",
+    "social_links": {
+      "youtube": "@DrinkLMNT",
+      "instagram": "drinklmnt",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "liquid-iv",
+      "nuun"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 64,
+    "notes": "Zero-sugar electrolytes. Preferred by keto/low-carb communities. High-sodium differentiation."
+  },
+  {
+    "brand_slug": "nuun",
+    "brand_name": "Nuun",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "US",
+    "website": "https://www.nuunlife.com",
+    "primary_categories": [
+      "electrolytes",
+      "hydration"
+    ],
+    "founded_year": 2004,
+    "flagship_product": "Nuun Sport Electrolyte Tablets",
+    "social_links": {
+      "youtube": "@NuunHydration",
+      "instagram": "nuunhydrate",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "liquid-iv",
+      "lmnt",
+      "skratch-labs"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 65,
+    "notes": "Effervescent electrolyte tablet pioneer. Endurance athlete loyalist base. Nestlé backing."
+  },
+  {
+    "brand_slug": "thompsons-nz",
+    "brand_name": "Thompson's",
+    "parent_company": "Integria Healthcare",
+    "headquarters_country": "NZ",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "vitamin-d",
+      "glucosamine-joint",
+      "immunity",
+      "magnesium",
+      "milk-thistle-liver"
+    ],
+    "founded_year": 1951,
+    "flagship_product": "Thompson's High Potency Fish Oil",
+    "social_links": {
+      "youtube": "",
+      "instagram": "thompsonsnz",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "Blackmores",
+      "Nutra-Life",
+      "GO Healthy",
+      "Herbs of Gold"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 66,
+    "notes": "New Zealand herbal and supplement brand with 70+ year history. Known for high-quality fish oil and liver health products. Available via Tmall."
+  },
+  {
+    "brand_slug": "legion",
+    "brand_name": "Legion Athletics",
+    "parent_company": "Legion Athletics",
+    "headquarters_country": "US",
+    "website": "https://www.legionathletics.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "creatine"
+    ],
+    "founded_year": 2014,
+    "flagship_product": "Legion Whey+",
+    "social_links": {
+      "youtube": "@LegionAthletics",
+      "instagram": "legionath",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "transparent-labs",
+      "naked-nutrition",
+      "nutrabio"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 67,
+    "notes": "Third-party lab tested for every batch. Truly Grass-Fed whey with a quality premium."
+  },
+  {
+    "brand_slug": "sunwarrior",
+    "brand_name": "Sunwarrior",
+    "parent_company": "Sunwarrior",
+    "headquarters_country": "US",
+    "website": "https://www.sunwarrior.com",
+    "primary_categories": [
+      "plant-protein",
+      "greens-powder",
+      "collagen",
+      "magnesium"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "Warrior Blend Plant Protein",
+    "social_links": {
+      "youtube": "@Sunwarrior",
+      "instagram": "sunwarriornation",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "vega",
+      "orgain",
+      "garden-of-life"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 68,
+    "notes": "Raw plant-based protein pioneer. Warrior Blend is a unique multi-source formula."
+  },
+  {
+    "brand_slug": "lamberts-healthcare",
+    "brand_name": "Lamberts Healthcare",
+    "parent_company": "Lamberts Healthcare (Independent)",
+    "headquarters_country": "UK",
+    "primary_categories": [
+      "vitamins-multivitamins",
+      "fish-oil-omega3",
+      "magnesium",
+      "probiotics",
+      "glucosamine-joint",
+      "vitamin-d",
+      "antioxidant"
+    ],
+    "founded_year": 1982,
+    "flagship_product": "Lamberts Florisene Hair Supplement",
+    "social_links": {
+      "youtube": "",
+      "instagram": "lambertsuk",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "Solgar",
+      "BioCare",
+      "Higher Nature",
+      "Viridian"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 69,
+    "notes": "UK #1 practitioner-dispensed supplement brand. Extensive product range (400+ SKUs) with detailed technical literature. GMP pharmaceutical-grade manufacturing."
   },
   {
     "brand_slug": "allmax",
@@ -581,31 +2099,375 @@
     "parent_company": "ALLMAX Nutrition",
     "headquarters_country": "CA",
     "website": "https://www.allmaxnutrition.com",
-    "primary_categories": ["whey-protein", "creatine", "pre-workout"],
+    "primary_categories": [
+      "whey-protein",
+      "creatine",
+      "pre-workout"
+    ],
     "founded_year": 2002,
     "flagship_product": "ISOFLEX Whey Isolate",
-    "social_links": { "youtube": "@ALLMAXNutrition", "instagram": "allmaxnutrition", "tiktok": null },
-    "competitor_set": ["optimum-nutrition", "dymatize", "isopure"],
+    "social_links": {
+      "youtube": "@ALLMAXNutrition",
+      "instagram": "allmaxnutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "dymatize",
+      "isopure"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 27,
-    "notes": "加拿大头部运动营养品牌，ISOFLEX为分离乳清标杆之一"
+    "global_rank": 70,
+    "notes": "Canada's top sports nutrition brand. ISOFLEX is a benchmark whey isolate."
   },
   {
-    "brand_slug": "magnum",
-    "brand_name": "Magnum Nutraceuticals",
-    "parent_company": "Magnum Nutraceuticals",
-    "headquarters_country": "CA",
-    "website": "https://www.magnum.com",
-    "primary_categories": ["pre-workout", "whey-protein"],
-    "founded_year": 2005,
-    "flagship_product": "Quattro",
-    "social_links": { "youtube": "@MagnumNutra", "instagram": "magnumnutra", "tiktok": null },
-    "competitor_set": ["optimum-nutrition", "c4-cellucor", "allmax"],
+    "brand_slug": "natures-way",
+    "brand_name": "Nature's Way",
+    "parent_company": "Dr. Willmar Schwabe (Schwabe Group)",
+    "headquarters_country": "US",
+    "website": "https://www.naturesway.com",
+    "primary_categories": [
+      "herbal-supplements",
+      "probiotics",
+      "multivitamins",
+      "elderberry",
+      "immune-support",
+      "childrens-health"
+    ],
+    "founded_year": 1969,
+    "flagship_product": "Nature's Way Sambucus Elderberry",
+    "social_links": {
+      "youtube": "@NaturesWay",
+      "instagram": "naturesway",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "natures-bounty",
+      "solaray",
+      "gaia-herbs",
+      "herb-pharm"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 71,
+    "notes": "Herbal supplement tradition since 1969. Sambucus elderberry is the category leader. German phytomedicine heritage."
+  },
+  {
+    "brand_slug": "enzymedica",
+    "brand_name": "Enzymedica",
+    "parent_company": "Enzymedica (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.enzymedica.com",
+    "primary_categories": [
+      "digestive-enzymes",
+      "probiotics",
+      "magnesium"
+    ],
+    "founded_year": 1998,
+    "flagship_product": "Enzymedica Digest Basic",
+    "social_links": {
+      "youtube": "@Enzymedica",
+      "instagram": "enzymedica",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "renew-life",
+      "jarrow-formulas",
+      "garden-of-life",
+      "now-foods-digestive"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 40,
-    "notes": "加拿大品牌，Quattro系列四阶段蛋白有特色"
+    "global_rank": 72,
+    "notes": "Digestive enzyme specialist. Category-defining brand with science-backed proprietary blends."
+  },
+  {
+    "brand_slug": "naked-nutrition",
+    "brand_name": "Naked Nutrition",
+    "parent_company": "Naked Nutrition",
+    "headquarters_country": "US",
+    "website": "https://www.nakednutrition.com",
+    "primary_categories": [
+      "whey-protein",
+      "plant-protein",
+      "creatine"
+    ],
+    "founded_year": 2014,
+    "flagship_product": "Naked Whey",
+    "social_links": {
+      "youtube": "@NakedNutrition",
+      "instagram": "nakednutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "transparent-labs",
+      "legion",
+      "levels"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 73,
+    "notes": "Single-ingredient minimalism. No additives. A clean-label trend leader."
+  },
+  {
+    "brand_slug": "renew-life",
+    "brand_name": "Renew Life",
+    "parent_company": "Clorox (Nutranext)",
+    "headquarters_country": "US",
+    "website": "https://www.renewlife.com",
+    "primary_categories": [
+      "probiotics",
+      "digestive-enzymes",
+      "fiber",
+      "magnesium"
+    ],
+    "founded_year": 1997,
+    "flagship_product": "Renew Life Ultimate Flora Probiotic",
+    "social_links": {
+      "youtube": "@RenewLife",
+      "instagram": "renewlife",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "culturelle",
+      "align",
+      "garden-of-life-probiotics",
+      "florastor"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 74,
+    "notes": "Digestive health pioneer. Ultimate Flora is a top-selling multi-strain probiotic. Broad retail distribution."
+  },
+  {
+    "brand_slug": "bulk",
+    "brand_name": "Bulk",
+    "parent_company": "Bulk (UK)",
+    "headquarters_country": "UK",
+    "website": "https://www.bulk.com",
+    "primary_categories": [
+      "whey-protein",
+      "plant-protein",
+      "pre-workout",
+      "creatine"
+    ],
+    "founded_year": 2005,
+    "flagship_product": "Pure Whey Protein",
+    "social_links": {
+      "youtube": "@BulkSupplements",
+      "instagram": "bulk",
+      "tiktok": "bulk"
+    },
+    "competitor_set": [
+      "myprotein",
+      "foodspring",
+      "prozis"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 75,
+    "notes": "UK's second-largest DTC sports nutrition brand. Direct head-to-head competitor with Myprotein."
+  },
+  {
+    "brand_slug": "douglas-labs",
+    "brand_name": "Douglas Laboratories",
+    "parent_company": "Atrium Innovations (Nestlé)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "vitamins-multivitamins",
+      "antioxidant",
+      "probiotics",
+      "fish-oil-omega3",
+      "magnesium",
+      "immunity"
+    ],
+    "founded_year": 1955,
+    "flagship_product": "Douglas Laboratories Ultra Preventive X Multivitamin",
+    "social_links": {
+      "youtube": "",
+      "instagram": "douglaslabs",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "Thorne",
+      "Pure Encapsulations",
+      "Metagenics",
+      "Designs for Health"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 76,
+    "notes": "Legacy practitioner brand now under Nestlé. Ultra Preventive is long-standing clinical multivitamin. Professional grade with rigorous manufacturing. EU GMP certified."
+  },
+  {
+    "brand_slug": "culturelle",
+    "brand_name": "Culturelle",
+    "parent_company": "DSM-Firmenich (i-Health)",
+    "headquarters_country": "US",
+    "website": "https://www.culturelle.com",
+    "primary_categories": [
+      "probiotics",
+      "childrens-health",
+      "immune-support"
+    ],
+    "founded_year": 1997,
+    "flagship_product": "Culturelle Digestive Health Probiotic",
+    "social_links": {
+      "youtube": "@CulturelleProbiotics",
+      "instagram": "culturelle",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "align",
+      "renew-life",
+      "florastor",
+      "garden-of-life"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 77,
+    "notes": "Lactobacillus rhamnosus GG (LGG) specialist. Most clinically studied probiotic strain. Pediatrician-recommended."
+  },
+  {
+    "brand_slug": "foodspring",
+    "brand_name": "Foodspring",
+    "parent_company": "Mars Inc.",
+    "headquarters_country": "DE",
+    "website": "https://www.foodspring.com",
+    "primary_categories": [
+      "whey-protein",
+      "plant-protein",
+      "protein-bars"
+    ],
+    "founded_year": 2013,
+    "flagship_product": "Whey Protein",
+    "social_links": {
+      "youtube": "@Foodspring",
+      "instagram": "foodspring",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "myprotein",
+      "bulk",
+      "esn"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 78,
+    "notes": "Mars Inc. backing provides credibility. Market leader in Germany with broad European distribution."
+  },
+  {
+    "brand_slug": "esn",
+    "brand_name": "ESN",
+    "parent_company": "Quality Group",
+    "headquarters_country": "DE",
+    "website": "https://www.esn.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "creatine"
+    ],
+    "founded_year": 2006,
+    "flagship_product": "Designer Whey",
+    "social_links": {
+      "youtube": "@ESNcom",
+      "instagram": "esncom",
+      "tiktok": "esncom"
+    },
+    "competitor_set": [
+      "myprotein",
+      "foodspring",
+      "prozis"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 79,
+    "notes": "Leading German DTC brand. Designer Whey is one of Europe's best-selling SKUs."
+  },
+  {
+    "brand_slug": "prozis",
+    "brand_name": "Prozis",
+    "parent_company": "Prozis Group",
+    "headquarters_country": "PT",
+    "website": "https://www.prozis.com",
+    "primary_categories": [
+      "whey-protein",
+      "protein-bars",
+      "pre-workout"
+    ],
+    "founded_year": 2007,
+    "flagship_product": "Real Whey",
+    "social_links": {
+      "youtube": "@ProzisOfficial",
+      "instagram": "prozis",
+      "tiktok": "prozis"
+    },
+    "competitor_set": [
+      "myprotein",
+      "bulk",
+      "esn"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 80,
+    "notes": "Portuguese brand leading Southern Europe. Extreme value-for-money strategy."
+  },
+  {
+    "brand_slug": "bulk-nutrients",
+    "brand_name": "Bulk Nutrients",
+    "parent_company": "Bulk Nutrients",
+    "headquarters_country": "AU",
+    "website": "https://www.bulknutrients.com.au",
+    "primary_categories": [
+      "whey-protein",
+      "creatine",
+      "pre-workout"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "Whey Protein Isolate",
+    "social_links": {
+      "youtube": "@BulkNutrients",
+      "instagram": "bulknutrients",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "genetix",
+      "inc-sports",
+      "vpa-australia"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 81,
+    "notes": "Australia's top DTC sports nutrition brand. Raw material origin advantage in whey protein."
+  },
+  {
+    "brand_slug": "applied-nutrition",
+    "brand_name": "Applied Nutrition",
+    "parent_company": "Applied Nutrition",
+    "headquarters_country": "UK",
+    "website": "https://www.appliednutrition.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "bcaa-eaa"
+    ],
+    "founded_year": 2014,
+    "flagship_product": "ABE Pre-Workout",
+    "social_links": {
+      "youtube": "@AppliedNutrition",
+      "instagram": "appliednutrition",
+      "tiktok": "appliednutrition"
+    },
+    "competitor_set": [
+      "myprotein",
+      "bulk",
+      "naughty-boy"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 82,
+    "notes": "Premier League football team endorsements. ABE series is a UK best-seller."
   },
   {
     "brand_slug": "nzmp",
@@ -613,31 +2475,240 @@
     "parent_company": "Fonterra",
     "headquarters_country": "NZ",
     "website": "https://www.nzmp.com",
-    "primary_categories": ["whey-protein"],
+    "primary_categories": [
+      "whey-protein"
+    ],
     "founded_year": 2001,
     "flagship_product": "SureProtein Whey",
-    "social_links": { "youtube": null, "instagram": null, "tiktok": null },
+    "social_links": {
+      "youtube": null,
+      "instagram": null,
+      "tiktok": null
+    },
     "competitor_set": [],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 33,
-    "notes": "全球最大乳清蛋白原料供应商，B2B品牌，原料溯源优势"
+    "global_rank": 83,
+    "notes": "World's largest whey protein ingredient supplier. B2B brand with unmatched raw material traceability."
   },
   {
-    "brand_slug": "balance",
-    "brand_name": "Balance",
-    "parent_company": "Vitaco Health",
+    "brand_slug": "genetix",
+    "brand_name": "Genetix",
+    "parent_company": "Genetix Nutrition",
     "headquarters_country": "AU",
-    "website": "https://www.balancesupplements.com.au",
-    "primary_categories": ["whey-protein", "mass-gainer", "protein-bars"],
-    "founded_year": 1997,
-    "flagship_product": "100% Whey Protein",
-    "social_links": { "youtube": null, "instagram": "balanceaus", "tiktok": null },
-    "competitor_set": ["musashi", "optimum-nutrition", "bulk-nutrients"],
+    "website": "https://www.genetix.com.au",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "lean-fat-burner"
+    ],
+    "founded_year": 2012,
+    "flagship_product": "Lean Whey",
+    "social_links": {
+      "youtube": "@GenetixNutrition",
+      "instagram": "genetixnutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "bulk-nutrients",
+      "inc-sports",
+      "vpa-australia"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 39,
-    "notes": "澳新超市渠道主力品牌"
+    "global_rank": 84,
+    "notes": "One of Australia's fastest-growing sports nutrition brands. Standout packaging design."
+  },
+  {
+    "brand_slug": "align",
+    "brand_name": "Align",
+    "parent_company": "Procter & Gamble",
+    "headquarters_country": "US",
+    "website": "https://www.alignprobiotics.com",
+    "primary_categories": [
+      "probiotics"
+    ],
+    "founded_year": 2005,
+    "flagship_product": "Align Digestive Support Probiotic",
+    "social_links": {
+      "youtube": "@AlignProbiotics",
+      "instagram": "alignprobiotics",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "culturelle",
+      "renew-life",
+      "florastor",
+      "garden-of-life"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 85,
+    "notes": "#1 gastroenterologist-recommended probiotic in the US. Bifidobacterium 35624 strain exclusivity."
+  },
+  {
+    "brand_slug": "musashi",
+    "brand_name": "Musashi",
+    "parent_company": "Vitaco Health",
+    "headquarters_country": "AU",
+    "website": "https://www.musashi.com",
+    "primary_categories": [
+      "whey-protein",
+      "protein-bars",
+      "rtd-shakes"
+    ],
+    "founded_year": 1987,
+    "flagship_product": "High Protein Bar",
+    "social_links": {
+      "youtube": null,
+      "instagram": "musashiaus",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "quest",
+      "bulk-nutrients"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 86,
+    "notes": "One of the oldest sports nutrition brands in Australia/New Zealand. Full omnichannel coverage."
+  },
+  {
+    "brand_slug": "florastor",
+    "brand_name": "Florastor",
+    "parent_company": "Biocodex",
+    "headquarters_country": "FR",
+    "website": "https://www.florastor.com",
+    "primary_categories": [
+      "probiotics"
+    ],
+    "founded_year": 1953,
+    "flagship_product": "Florastor Daily Probiotic",
+    "social_links": {
+      "youtube": "@FlorastorProbiotics",
+      "instagram": "florastor",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "culturelle",
+      "align",
+      "renew-life"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 87,
+    "notes": "Saccharomyces boulardii probiotic yeast specialist. Unique mechanism vs. bacterial probiotics. French pharma heritage."
+  },
+  {
+    "brand_slug": "natural-vitality",
+    "brand_name": "Natural Vitality",
+    "parent_company": "Natural Vitality (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.naturalvitality.com",
+    "primary_categories": [
+      "magnesium",
+      "multivitamins"
+    ],
+    "founded_year": 1982,
+    "flagship_product": "Natural Vitality CALM Magnesium",
+    "social_links": {
+      "youtube": "@NaturalVitality",
+      "instagram": "naturalvitality",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "doctors-best",
+      "now-foods",
+      "life-extension"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 88,
+    "notes": "CALM magnesium powder is a category-defining product. #1 magnesium brand in the US natural channel."
+  },
+  {
+    "brand_slug": "naughty-boy",
+    "brand_name": "Naughty Boy",
+    "parent_company": "Naughty Boy Lifestyle",
+    "headquarters_country": "UK",
+    "website": "https://www.naughtyboy.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein"
+    ],
+    "founded_year": 2018,
+    "flagship_product": "SickPump Pre-Workout",
+    "social_links": {
+      "youtube": "@NaughtyBoyLifestyle",
+      "instagram": "naughtyboy",
+      "tiktok": "naughtyboy"
+    },
+    "competitor_set": [
+      "gorilla-mode",
+      "ryse",
+      "applied-nutrition"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 89,
+    "notes": "Emerging UK brand. Trend-driven marketing with high-dosage formulations."
+  },
+  {
+    "brand_slug": "megared",
+    "brand_name": "MegaRed",
+    "parent_company": "Reckitt",
+    "headquarters_country": "US",
+    "website": "https://www.megared.com",
+    "primary_categories": [
+      "krill-oil",
+      "fish-oil-omega3",
+      "joint-health"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "MegaRed Krill Oil",
+    "social_links": {
+      "youtube": "@MegaRed",
+      "instagram": "megared",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nordic-naturals",
+      "nature-made-fish-oil",
+      "natures-bounty-fish-oil"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 90,
+    "notes": "#1 krill oil brand in US mass market. Reckitt distribution gives dominant shelf presence. Strong China cross-border."
+  },
+  {
+    "brand_slug": "wileys-finest",
+    "brand_name": "Wiley's Finest",
+    "parent_company": "Wiley Companies (Independent)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "vitamin-d",
+      "brain-cognitive"
+    ],
+    "founded_year": 2012,
+    "flagship_product": "Wiley's Finest Wild Alaskan Fish Oil",
+    "social_links": {
+      "youtube": "",
+      "instagram": "wileysfinest",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "Nordic Naturals",
+      "Carlson Labs",
+      "Sports Research",
+      "Rosita"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 91,
+    "notes": "Premium Alaskan fish oil brand with family-owned fishing heritage. Sustainable Alaskan pollock sourcing. Peak EPA and Beginner DHA lines. Available via Tmall cross-border."
   },
   {
     "brand_slug": "rule-1",
@@ -645,15 +2716,109 @@
     "parent_company": "Rule One Proteins",
     "headquarters_country": "US",
     "website": "https://www.ruleoneproteins.com",
-    "primary_categories": ["whey-protein", "creatine", "bcaa-eaa"],
+    "primary_categories": [
+      "whey-protein",
+      "creatine",
+      "bcaa-eaa"
+    ],
     "founded_year": 2014,
     "flagship_product": "R1 Whey Blend",
-    "social_links": { "youtube": "@RuleOneProteins", "instagram": "ruleoneproteins", "tiktok": null },
-    "competitor_set": ["optimum-nutrition", "dymatize", "allmax"],
+    "social_links": {
+      "youtube": "@RuleOneProteins",
+      "instagram": "ruleoneproteins",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "dymatize",
+      "allmax"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 37,
-    "notes": "Optimum Nutrition前高管创立，品质对标ON但性价比更高"
+    "global_rank": 92,
+    "notes": "Founded by former Optimum Nutrition executives. ON-comparable quality at better value."
+  },
+  {
+    "brand_slug": "vpa-australia",
+    "brand_name": "VPA Australia",
+    "parent_company": "VPA Australia",
+    "headquarters_country": "AU",
+    "website": "https://www.vpa.com.au",
+    "primary_categories": [
+      "whey-protein",
+      "plant-protein"
+    ],
+    "founded_year": 2015,
+    "flagship_product": "WPC 80",
+    "social_links": {
+      "youtube": "@VPAAustralia",
+      "instagram": "vpaaus",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "bulk-nutrients",
+      "genetix",
+      "musashi"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 93,
+    "notes": "Australian local brand with high value-for-money WPC. Leading subscription model."
+  },
+  {
+    "brand_slug": "balance",
+    "brand_name": "Balance",
+    "parent_company": "Vitaco Health",
+    "headquarters_country": "AU",
+    "website": "https://www.balancesupplements.com.au",
+    "primary_categories": [
+      "whey-protein",
+      "mass-gainer",
+      "protein-bars"
+    ],
+    "founded_year": 1997,
+    "flagship_product": "100% Whey Protein",
+    "social_links": {
+      "youtube": null,
+      "instagram": "balanceaus",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "musashi",
+      "optimum-nutrition",
+      "bulk-nutrients"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 94,
+    "notes": "Mainstream supermarket channel staple in Australia and New Zealand."
+  },
+  {
+    "brand_slug": "magnum",
+    "brand_name": "Magnum Nutraceuticals",
+    "parent_company": "Magnum Nutraceuticals",
+    "headquarters_country": "CA",
+    "website": "https://www.magnum.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein"
+    ],
+    "founded_year": 2005,
+    "flagship_product": "Quattro",
+    "social_links": {
+      "youtube": "@MagnumNutra",
+      "instagram": "magnumnutra",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "c4-cellucor",
+      "allmax"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 95,
+    "notes": "Canadian brand. Quattro four-phase protein series is a unique differentiator."
   },
   {
     "brand_slug": "total-war-redcon1",
@@ -661,15 +2826,85 @@
     "parent_company": "Redcon1",
     "headquarters_country": "US",
     "website": "https://www.redcon1.com",
-    "primary_categories": ["pre-workout", "whey-protein", "bcaa-eaa"],
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein",
+      "bcaa-eaa"
+    ],
     "founded_year": 2016,
     "flagship_product": "Total War Pre-Workout",
-    "social_links": { "youtube": "@Redcon1", "instagram": "redcon1", "tiktok": "redcon1" },
-    "competitor_set": ["c4-cellucor", "gorilla-mode", "bucked-up"],
+    "social_links": {
+      "youtube": "@Redcon1",
+      "instagram": "redcon1",
+      "tiktok": "redcon1"
+    },
+    "competitor_set": [
+      "c4-cellucor",
+      "gorilla-mode",
+      "bucked-up"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 41,
-    "notes": "军事化品牌风格，Total War为美国畅销Pre-Workout之一"
+    "global_rank": 96,
+    "notes": "Military-inspired brand aesthetic. Total War is one of the top-selling US pre-workouts."
+  },
+  {
+    "brand_slug": "move-free",
+    "brand_name": "Move Free",
+    "parent_company": "Reckitt",
+    "headquarters_country": "US",
+    "website": "https://www.movefree.com",
+    "primary_categories": [
+      "joint-health",
+      "collagen"
+    ],
+    "founded_year": 1996,
+    "flagship_product": "Move Free Advanced with UC-II",
+    "social_links": {
+      "youtube": "@MoveFree",
+      "instagram": "movefree",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "osteo-bi-flex",
+      "schiff",
+      "nature-made-joint"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 97,
+    "notes": "#1 joint health supplement brand in the US. UC-II collagen innovation. Massive China cross-border sales."
+  },
+  {
+    "brand_slug": "moon-juice",
+    "brand_name": "Moon Juice",
+    "parent_company": "Moon Juice (Independent)",
+    "headquarters_country": "US",
+    "primary_categories": [
+      "magnesium",
+      "ashwagandha",
+      "brain-cognitive",
+      "collagen",
+      "immunity",
+      "antioxidant"
+    ],
+    "founded_year": 2014,
+    "flagship_product": "Moon Juice Magnesi-Om",
+    "social_links": {
+      "youtube": "",
+      "instagram": "moonjuice",
+      "tiktok": "moonjuice"
+    },
+    "competitor_set": [
+      "HUM Nutrition",
+      "Ritual",
+      "Sun Potion",
+      "Anima Mundi"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 98,
+    "notes": "LA-based wellness and adaptogen brand. Instagram-famous with cult celebrity following. Magnesi-Om and Sex Dust are hero products. Very high social media engagement."
   },
   {
     "brand_slug": "nutrabio",
@@ -677,15 +2912,28 @@
     "parent_company": "NutraBio Labs",
     "headquarters_country": "US",
     "website": "https://www.nutrabio.com",
-    "primary_categories": ["whey-protein", "pre-workout", "creatine", "bcaa-eaa"],
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "creatine",
+      "bcaa-eaa"
+    ],
     "founded_year": 1996,
     "flagship_product": "100% Whey Protein Isolate",
-    "social_links": { "youtube": "@NutraBio", "instagram": "nutrabio", "tiktok": null },
-    "competitor_set": ["transparent-labs", "thorne", "legion"],
+    "social_links": {
+      "youtube": "@NutraBio",
+      "instagram": "nutrabio",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "transparent-labs",
+      "thorne",
+      "legion"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 43,
-    "notes": "全标签透明先驱，无隐藏混合配方，专业级品质"
+    "global_rank": 99,
+    "notes": "Full-label transparency pioneer. No hidden proprietary blends. Professional-grade quality."
   },
   {
     "brand_slug": "xtend",
@@ -693,15 +2941,108 @@
     "parent_company": "Nutrabolt",
     "headquarters_country": "US",
     "website": "https://www.xtend.com",
-    "primary_categories": ["bcaa-eaa"],
+    "primary_categories": [
+      "bcaa-eaa"
+    ],
     "founded_year": 2005,
     "flagship_product": "Xtend Original BCAA",
-    "social_links": { "youtube": "@Xtend", "instagram": "xtend", "tiktok": null },
-    "competitor_set": ["bpi-sports", "amino-energy", "transparent-labs"],
+    "social_links": {
+      "youtube": "@Xtend",
+      "instagram": "xtend",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "bpi-sports",
+      "amino-energy",
+      "transparent-labs"
+    ],
     "jd_available": false,
     "tmall_available": true,
-    "global_rank": 44,
-    "notes": "BCAA品类全球销量第一，口味丰富"
+    "global_rank": 100,
+    "notes": "#1 BCAA brand globally by sales volume. Wide flavor variety."
+  },
+  {
+    "brand_slug": "tom-oliver",
+    "brand_name": "Tom Oliver",
+    "parent_company": "Tom Oliver Nutrition",
+    "headquarters_country": "AU",
+    "website": "https://www.tomoliver.com.au",
+    "primary_categories": [
+      "whey-protein",
+      "plant-protein"
+    ],
+    "founded_year": 2014,
+    "flagship_product": "Grass-Fed Whey Isolate",
+    "social_links": {
+      "youtube": null,
+      "instagram": "tomolivernutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "naked-nutrition",
+      "transparent-labs",
+      "vpa-australia"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 101,
+    "notes": "Premium clean-label positioning. New Zealand grass-fed dairy sourcing."
+  },
+  {
+    "brand_slug": "osteo-bi-flex",
+    "brand_name": "Osteo Bi-Flex",
+    "parent_company": "Nature's Bounty (Nestlé)",
+    "headquarters_country": "US",
+    "website": "https://www.osteobiflex.com",
+    "primary_categories": [
+      "joint-health"
+    ],
+    "founded_year": 1999,
+    "flagship_product": "Osteo Bi-Flex Triple Strength",
+    "social_links": {
+      "youtube": "@OsteoBiFlex",
+      "instagram": "osteobiflex",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "move-free",
+      "schiff",
+      "kirkland-signature-joint"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 102,
+    "notes": "Glucosamine/chondroitin joint health powerhouse. Joint Comfort ingredient technology. Strong Walgreens/CVS shelf presence."
+  },
+  {
+    "brand_slug": "avogel",
+    "brand_name": "A.Vogel",
+    "parent_company": "Vogel Group (Independent)",
+    "headquarters_country": "CH",
+    "primary_categories": [
+      "immunity",
+      "digestive-health",
+      "brain-cognitive",
+      "antioxidant",
+      "magnesium"
+    ],
+    "founded_year": 1923,
+    "flagship_product": "A.Vogel Echinaforce Echinacea",
+    "social_links": {
+      "youtube": "",
+      "instagram": "avogel_uk",
+      "tiktok": ""
+    },
+    "competitor_set": [
+      "Aboca",
+      "Boiron",
+      "Pukka Herbs",
+      "Gaia Herbs"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 103,
+    "notes": "Swiss herbal medicine pioneer with 100+ year history. Echinaforce is one of most clinically studied echinacea products globally. Fresh herb extraction process."
   },
   {
     "brand_slug": "barebells",
@@ -709,15 +3050,26 @@
     "parent_company": "Barebells (Scandinavia)",
     "headquarters_country": "SE",
     "website": "https://www.barebells.com",
-    "primary_categories": ["protein-bars", "rtd-shakes"],
+    "primary_categories": [
+      "protein-bars",
+      "rtd-shakes"
+    ],
     "founded_year": 2016,
     "flagship_product": "Barebells Protein Bar",
-    "social_links": { "youtube": null, "instagram": "barebells", "tiktok": "barebells" },
-    "competitor_set": ["quest", "built-bar", "grenade"],
+    "social_links": {
+      "youtube": null,
+      "instagram": "barebells",
+      "tiktok": "barebells"
+    },
+    "competitor_set": [
+      "quest",
+      "built-bar",
+      "grenade"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 45,
-    "notes": "北欧品牌，口感被广泛评价为蛋白棒品类最佳，欧洲增长迅猛"
+    "global_rank": 104,
+    "notes": "Nordic brand. Widely regarded as the best-tasting protein bar category. Rapid European growth."
   },
   {
     "brand_slug": "grenade",
@@ -725,15 +3077,53 @@
     "parent_company": "Mondelez International",
     "headquarters_country": "UK",
     "website": "https://www.grenade.com",
-    "primary_categories": ["protein-bars", "pre-workout"],
+    "primary_categories": [
+      "protein-bars",
+      "pre-workout"
+    ],
     "founded_year": 2009,
     "flagship_product": "Carb Killa Bar",
-    "social_links": { "youtube": "@Grenade", "instagram": "grenadeofficial", "tiktok": "grenadeofficial" },
-    "competitor_set": ["quest", "barebells", "fulfil"],
+    "social_links": {
+      "youtube": "@Grenade",
+      "instagram": "grenadeofficial",
+      "tiktok": "grenadeofficial"
+    },
+    "competitor_set": [
+      "quest",
+      "barebells",
+      "fulfil"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 46,
-    "notes": "亿滋收购背书，Carb Killa欧洲蛋白棒销量第一"
+    "global_rank": 105,
+    "notes": "Mondelez acquisition backing. Carb Killa is Europe's #1 selling protein bar."
+  },
+  {
+    "brand_slug": "qunol",
+    "brand_name": "Qunol",
+    "parent_company": "Quten Research Institute",
+    "headquarters_country": "US",
+    "website": "https://www.qunol.com",
+    "primary_categories": [
+      "coq10",
+      "magnesium"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "Qunol Ultra CoQ10",
+    "social_links": {
+      "youtube": "@Qunol",
+      "instagram": "qunol",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "doctors-best",
+      "nature-made",
+      "life-extension"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 106,
+    "notes": "CoQ10 specialist with superior absorption technology. #1 cardiologist-recommended CoQ10 form."
   },
   {
     "brand_slug": "levels",
@@ -741,15 +3131,54 @@
     "parent_company": "Levels Nutrition",
     "headquarters_country": "US",
     "website": "https://www.levelswhey.com",
-    "primary_categories": ["whey-protein"],
+    "primary_categories": [
+      "whey-protein"
+    ],
     "founded_year": 2018,
     "flagship_product": "Grass-Fed Whey",
-    "social_links": { "youtube": null, "instagram": "levelswhey", "tiktok": null },
-    "competitor_set": ["naked-nutrition", "transparent-labs", "ascent"],
+    "social_links": {
+      "youtube": null,
+      "instagram": "levelswhey",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "naked-nutrition",
+      "transparent-labs",
+      "ascent"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 47,
-    "notes": "清洁标签定位，草饲奶源，独立品牌高速增长"
+    "global_rank": 107,
+    "notes": "Clean-label positioning with grass-fed dairy sourcing. Fast-growing independent."
+  },
+  {
+    "brand_slug": "bodybuilding-signature",
+    "brand_name": "Bodybuilding Signature",
+    "parent_company": "Bodybuilding.com",
+    "headquarters_country": "US",
+    "website": "https://www.bodybuilding.com",
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout",
+      "creatine",
+      "bcaa-eaa"
+    ],
+    "founded_year": 1999,
+    "flagship_product": "Signature Whey Protein",
+    "social_links": {
+      "youtube": "@Bodybuildingcom",
+      "instagram": "bodybuildingcom",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "optimum-nutrition",
+      "rule-1",
+      "gnc-pro"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 108,
+    "notes": "E-commerce platform private label. High quality at accessible price points."
   },
   {
     "brand_slug": "ascent",
@@ -757,14 +3186,1175 @@
     "parent_company": "Ascent Protein",
     "headquarters_country": "US",
     "website": "https://www.ascentprotein.com",
-    "primary_categories": ["whey-protein", "pre-workout"],
+    "primary_categories": [
+      "whey-protein",
+      "pre-workout"
+    ],
     "founded_year": 2016,
     "flagship_product": "Native Fuel Whey",
-    "social_links": { "youtube": null, "instagram": "ascentprotein", "tiktok": null },
-    "competitor_set": ["transparent-labs", "levels", "legion"],
+    "social_links": {
+      "youtube": null,
+      "instagram": "ascentprotein",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "transparent-labs",
+      "levels",
+      "legion"
+    ],
     "jd_available": false,
     "tmall_available": false,
-    "global_rank": 48,
-    "notes": "原生乳清蛋白技术，未经奶酪加工副产物，品质差异化"
+    "global_rank": 109,
+    "notes": "Native whey protein technology — not a cheese-making byproduct. Quality differentiation."
+  },
+  {
+    "brand_slug": "raw-nutrition",
+    "brand_name": "RAW Nutrition",
+    "parent_company": "RAW Nutrition",
+    "headquarters_country": "US",
+    "website": "https://www.getrawnutrition.com",
+    "primary_categories": [
+      "pre-workout",
+      "whey-protein",
+      "creatine",
+      "electrolytes"
+    ],
+    "founded_year": 2020,
+    "flagship_product": "RAW Pre",
+    "social_links": {
+      "youtube": "@RAWNutrition",
+      "instagram": "getrawnutrition",
+      "tiktok": "rawnutrition"
+    },
+    "competitor_set": [
+      "gorilla-mode",
+      "ryse",
+      "bucked-up"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 110,
+    "notes": "Athlete-founded brand with clean formulations. Growing presence in functional hydration."
+  },
+  {
+    "brand_slug": "bio-steel",
+    "brand_name": "BioSteel",
+    "parent_company": "Coachwood Group",
+    "headquarters_country": "CA",
+    "website": "https://www.biosteel.com",
+    "primary_categories": [
+      "electrolytes",
+      "rtd-shakes",
+      "hydration",
+      "bcaa-eaa"
+    ],
+    "founded_year": 2009,
+    "flagship_product": "BioSteel Ready-to-Drink",
+    "social_links": {
+      "youtube": "@BioSteel",
+      "instagram": "biosteel",
+      "tiktok": "biosteel"
+    },
+    "competitor_set": [
+      "gatorade",
+      "bodyarmor",
+      "liquid-iv"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 111,
+    "notes": "Sugar-free sports drink. NHL and major league partnerships. Clean hydration positioning."
+  },
+  {
+    "brand_slug": "fitaid",
+    "brand_name": "FITAID",
+    "parent_company": "LifeAID Beverages",
+    "headquarters_country": "US",
+    "website": "https://www.lifeaidbevco.com",
+    "primary_categories": [
+      "rtd-shakes",
+      "electrolytes",
+      "multivitamins"
+    ],
+    "founded_year": 2011,
+    "flagship_product": "FITAID Recovery",
+    "social_links": {
+      "youtube": "@LIFEAIDBev",
+      "instagram": "fitaid",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "kill-cliff",
+      "bio-steel",
+      "amino-energy"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 112,
+    "notes": "CrossFit community staple. Post-workout recovery drink with clean ingredients."
+  },
+  {
+    "brand_slug": "amino-energy",
+    "brand_name": "Amino Energy",
+    "parent_company": "Nutrabolt",
+    "headquarters_country": "US",
+    "website": "https://www.aminoenergy.com",
+    "primary_categories": [
+      "bcaa-eaa",
+      "pre-workout",
+      "energy-drinks"
+    ],
+    "founded_year": 2011,
+    "flagship_product": "Amino Energy Powder",
+    "social_links": {
+      "youtube": "@AminoEnergy",
+      "instagram": "aminoenergy",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "xtend",
+      "c4-cellucor",
+      "optimum-nutrition"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 113,
+    "notes": "Caffeinated amino acid hybrid. Bridges energy drink and sports nutrition categories."
+  },
+  {
+    "brand_slug": "natrol",
+    "brand_name": "Natrol",
+    "parent_company": "Nature's Bounty (Nestlé)",
+    "headquarters_country": "US",
+    "website": "https://www.natrol.com",
+    "primary_categories": [
+      "melatonin",
+      "sleep-supplements",
+      "magnesium",
+      "biotin"
+    ],
+    "founded_year": 1980,
+    "flagship_product": "Natrol Melatonin",
+    "social_links": {
+      "youtube": "@Natrol",
+      "instagram": "natrol",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "olly",
+      "zarbees",
+      "natures-bounty",
+      "hylands"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 114,
+    "notes": "#1 melatonin/sleep supplement brand in US. Broad-format portfolio (gummies, fast-dissolve, timed-release)."
+  },
+  {
+    "brand_slug": "zarbees",
+    "brand_name": "Zarbee's",
+    "parent_company": "Johnson & Johnson",
+    "headquarters_country": "US",
+    "website": "https://www.zarbees.com",
+    "primary_categories": [
+      "childrens-health",
+      "melatonin",
+      "immune-support",
+      "multivitamins"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "Zarbee's Children's Cough Syrup",
+    "social_links": {
+      "youtube": "@Zarbees",
+      "instagram": "zarbees",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "hylands",
+      "matys",
+      "boiron-children",
+      "natrol"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 115,
+    "notes": "Pediatrician-recommended natural remedies for children. J&J acquisition brings pharma credibility and distribution."
+  },
+  {
+    "brand_slug": "hylands",
+    "brand_name": "Hyland's",
+    "parent_company": "Hyland's (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.hylands.com",
+    "primary_categories": [
+      "homeopathic",
+      "childrens-health",
+      "sleep-supplements",
+      "immune-support"
+    ],
+    "founded_year": 1903,
+    "flagship_product": "Hyland's Baby Teething Tablets",
+    "social_links": {
+      "youtube": "@HylandsHomeopathy",
+      "instagram": "hylands",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "boiron",
+      "zarbees",
+      "matys"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 116,
+    "notes": "Legacy homeopathic brand (since 1903). Dominant in children's natural remedies. Household trust name."
+  },
+  {
+    "brand_slug": "boiron",
+    "brand_name": "Boiron",
+    "parent_company": "Boiron Group",
+    "headquarters_country": "FR",
+    "website": "https://www.boiron.com",
+    "primary_categories": [
+      "homeopathic",
+      "sleep-supplements",
+      "immune-support",
+      "childrens-health"
+    ],
+    "founded_year": 1932,
+    "flagship_product": "Oscillococcinum",
+    "social_links": {
+      "youtube": "@BoironUSA",
+      "instagram": "boironusa",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "hylands",
+      "zarbees",
+      "weleda"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 117,
+    "notes": "World leader in homeopathic medicines. Oscillococcinum is the global #1 flu remedy. French pharma manufacturing standards."
+  },
+  {
+    "brand_slug": "metagenics",
+    "brand_name": "Metagenics",
+    "parent_company": "Metagenics (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.metagenics.com",
+    "primary_categories": [
+      "probiotics",
+      "fish-oil-omega3",
+      "multivitamins",
+      "herbal-supplements",
+      "magnesium",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1983,
+    "flagship_product": "UltraFlora Probiotics",
+    "social_links": {
+      "youtube": "@Metagenics",
+      "instagram": "metagenics",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "thorne",
+      "pure-encapsulations",
+      "designs-for-health",
+      "ortho-molecular",
+      "standard-process"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 118,
+    "notes": "Practitioner-only channel leader. Functional medicine formulations with strong clinical research backing."
+  },
+  {
+    "brand_slug": "standard-process",
+    "brand_name": "Standard Process",
+    "parent_company": "Standard Process (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.standardprocess.com",
+    "primary_categories": [
+      "whole-food-supplements",
+      "multivitamins",
+      "herbal-supplements",
+      "immune-support"
+    ],
+    "founded_year": 1929,
+    "flagship_product": "Catalyn Multivitamin",
+    "social_links": {
+      "youtube": "@StandardProcess",
+      "instagram": "standardprocess",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "metagenics",
+      "designs-for-health",
+      "ortho-molecular",
+      "megafood"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 119,
+    "notes": "Whole food supplement pioneer since 1929. Owns their organic farm. Legendary among chiropractors and holistic practitioners."
+  },
+  {
+    "brand_slug": "designs-for-health",
+    "brand_name": "Designs for Health",
+    "parent_company": "Designs for Health (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.designsforhealth.com",
+    "primary_categories": [
+      "probiotics",
+      "fish-oil-omega3",
+      "multivitamins",
+      "magnesium",
+      "vitamin-d",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1989,
+    "flagship_product": "Designs for Health Magnesium",
+    "social_links": {
+      "youtube": "@DesignsForHealth",
+      "instagram": "designsforhealth",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "metagenics",
+      "thorne",
+      "pure-encapsulations",
+      "ortho-molecular",
+      "douglas-laboratories"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 120,
+    "notes": "Practitioner channel brand with science-first ethos. Extensive continuing education for healthcare professionals."
+  },
+  {
+    "brand_slug": "ortho-molecular",
+    "brand_name": "Ortho Molecular Products",
+    "parent_company": "Ortho Molecular Products (Independent)",
+    "headquarters_country": "US",
+    "website": "https://www.orthomolecularproducts.com",
+    "primary_categories": [
+      "probiotics",
+      "fish-oil-omega3",
+      "multivitamins",
+      "vitamin-d",
+      "magnesium",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1989,
+    "flagship_product": "Ortho Molecular Ortho Biotic",
+    "social_links": {
+      "youtube": "@OrthoMolecular",
+      "instagram": "orthomolecular",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "metagenics",
+      "designs-for-health",
+      "pure-encapsulations",
+      "douglas-laboratories"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 121,
+    "notes": "Clinical-grade supplements for functional medicine practitioners. Ortho Biotic is a top practitioner probiotic."
+  },
+  {
+    "brand_slug": "douglas-laboratories",
+    "brand_name": "Douglas Laboratories",
+    "parent_company": "Atrium Innovations (Nestlé)",
+    "headquarters_country": "US",
+    "website": "https://www.douglaslabs.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "vitamin-d",
+      "magnesium",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1955,
+    "flagship_product": "Douglas Laboratories Ultra Preventive X",
+    "social_links": {
+      "youtube": "@DouglasLabs",
+      "instagram": "douglaslabs",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "pure-encapsulations",
+      "metagenics",
+      "designs-for-health",
+      "ortho-molecular"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 122,
+    "notes": "Professional-grade brand since 1955. Nestlé ownership through Atrium Innovations. Strong practitioner trust."
+  },
+  {
+    "brand_slug": "viridian-nutrition",
+    "brand_name": "Viridian Nutrition",
+    "parent_company": "Viridian Nutrition (Independent)",
+    "headquarters_country": "UK",
+    "website": "https://www.viridian-nutrition.com",
+    "primary_categories": [
+      "multivitamins",
+      "herbal-supplements",
+      "magnesium",
+      "fish-oil-omega3",
+      "probiotics"
+    ],
+    "founded_year": 1999,
+    "flagship_product": "Viridian High Five Multivitamin",
+    "social_links": {
+      "youtube": "@ViridianNutrition",
+      "instagram": "viridiannutrition",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "biocare",
+      "terranova",
+      "higher-nature",
+      "solgar-uk"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 123,
+    "notes": "UK's leading ethical supplement brand. 100% active ingredients, no fillers or binders. Strong independent health store presence."
+  },
+  {
+    "brand_slug": "terranova",
+    "brand_name": "Terranova",
+    "parent_company": "Terranova Nutrition (Independent)",
+    "headquarters_country": "UK",
+    "website": "https://www.terranovahealth.com",
+    "primary_categories": [
+      "whole-food-supplements",
+      "multivitamins",
+      "greens-powder",
+      "herbal-supplements",
+      "magnesium"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "Terranova Life Drink",
+    "social_links": {
+      "youtube": "@TerranovaNutrition",
+      "instagram": "terranovahealth",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "viridian-nutrition",
+      "biocare",
+      "higher-nature",
+      "garden-of-life"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 124,
+    "notes": "Whole-food supplement specialist. Magnifood fresh freeze-dried botanicals in every formula. UK innovation leader."
+  },
+  {
+    "brand_slug": "biocare",
+    "brand_name": "BioCare",
+    "parent_company": "BioCare (Independent)",
+    "headquarters_country": "UK",
+    "website": "https://www.biocare.co.uk",
+    "primary_categories": [
+      "probiotics",
+      "fish-oil-omega3",
+      "multivitamins",
+      "magnesium",
+      "vitamin-d"
+    ],
+    "founded_year": 1990,
+    "flagship_product": "BioCare BioAcidophilus",
+    "social_links": {
+      "youtube": "@BioCare",
+      "instagram": "biocare",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "viridian-nutrition",
+      "terranova",
+      "lamberts",
+      "higher-nature"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 125,
+    "notes": "UK clinical supplement specialist. Practitioner-prescribed range with strong gastrointestinal health focus."
+  },
+  {
+    "brand_slug": "higher-nature",
+    "brand_name": "Higher Nature",
+    "parent_company": "Higher Nature (Independent)",
+    "headquarters_country": "UK",
+    "website": "https://www.highernature.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "herbal-supplements",
+      "magnesium"
+    ],
+    "founded_year": 1993,
+    "flagship_product": "Higher Nature Superfood Powder",
+    "social_links": {
+      "youtube": "@HigherNature",
+      "instagram": "highernature",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "viridian-nutrition",
+      "biocare",
+      "terranova"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 126,
+    "notes": "UK wellness brand with comprehensive supplement range. Strong mail-order and practitioner heritage."
+  },
+  {
+    "brand_slug": "lamberts",
+    "brand_name": "Lamberts",
+    "parent_company": "Lamberts Healthcare (Independent)",
+    "headquarters_country": "UK",
+    "website": "https://www.lambertshealthcare.co.uk",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "magnesium",
+      "vitamin-d",
+      "herbal-supplements",
+      "joint-health"
+    ],
+    "founded_year": 1982,
+    "flagship_product": "Lamberts Multiguard",
+    "social_links": {
+      "youtube": "@LambertsHealthcare",
+      "instagram": "lambertshealthcare",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "biocare",
+      "viridian-nutrition",
+      "higher-nature",
+      "solgar-uk"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 127,
+    "notes": "UK's #1 practitioner brand. Extensive technical monographs for each product. Pharmaceutical-grade manufacturing."
+  },
+  {
+    "brand_slug": "pukka-herbs",
+    "brand_name": "Pukka Herbs",
+    "parent_company": "Unilever",
+    "headquarters_country": "UK",
+    "website": "https://www.pukkaherbs.com",
+    "primary_categories": [
+      "herbal-supplements",
+      "organic-supplements"
+    ],
+    "founded_year": 2001,
+    "flagship_product": "Pukka Womankind Organic Herbal Supplements",
+    "social_links": {
+      "youtube": "@PukkaHerbs",
+      "instagram": "pukkaherbs",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "a-vogel",
+      "viridian-nutrition",
+      "gaia-herbs",
+      "natures-way"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 128,
+    "notes": "Organic herbal tea and supplement crossover brand. Ayurvedic wisdom positioning. Unilever global distribution."
+  },
+  {
+    "brand_slug": "a-vogel",
+    "brand_name": "A.Vogel",
+    "parent_company": "Bioforce AG",
+    "headquarters_country": "CH",
+    "website": "https://www.avogel.com",
+    "primary_categories": [
+      "herbal-supplements",
+      "immune-support",
+      "echinacea"
+    ],
+    "founded_year": 1923,
+    "flagship_product": "A.Vogel Echinaforce",
+    "social_links": {
+      "youtube": "@AVogel",
+      "instagram": "avogel",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "boiron",
+      "pukka-herbs",
+      "hylands",
+      "weleda"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 129,
+    "notes": "Swiss herbal remedy pioneer (since 1923). Echinaforce is Europe's most clinically researched echinacea. Alfred Vogel legacy brand."
+  },
+  {
+    "brand_slug": "innéov",
+    "brand_name": "Innéov",
+    "parent_company": "L'Oréal / Nestlé Joint Venture",
+    "headquarters_country": "FR",
+    "website": "https://www.innéov.com",
+    "primary_categories": [
+      "beauty-supplements",
+      "collagen",
+      "multivitamins"
+    ],
+    "founded_year": 2002,
+    "flagship_product": "Innéov Hair Mass",
+    "social_links": {
+      "youtube": "@Inneov",
+      "instagram": "inneov",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "hum-nutrition",
+      "ritual",
+      "shiseido-inner"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 130,
+    "notes": "French beauty-from-within joint venture between L'Oréal and Nestlé. Pharma-grade clinical trial backing for beauty claims."
+  },
+  {
+    "brand_slug": "nutergia",
+    "brand_name": "Nutergia",
+    "parent_company": "Nutergia Group",
+    "headquarters_country": "FR",
+    "website": "https://www.nutergia.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "magnesium",
+      "herbal-supplements"
+    ],
+    "founded_year": 1990,
+    "flagship_product": "Nutergia Ergyphilus",
+    "social_links": {
+      "youtube": "@Nutergia",
+      "instagram": "nutergia",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "pukka-herbs",
+      "granions",
+      "biocare",
+      "solgar-france"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 131,
+    "notes": "French clinical nutrition specialist. Strong pharmacy channel presence. Cellular nutrition approach."
+  },
+  {
+    "brand_slug": "granions",
+    "brand_name": "Granions",
+    "parent_company": "Laboratoire des Granions",
+    "headquarters_country": "FR",
+    "website": "https://www.granions.fr",
+    "primary_categories": [
+      "multivitamins",
+      "magnesium",
+      "fish-oil-omega3",
+      "probiotics"
+    ],
+    "founded_year": 1948,
+    "flagship_product": "Granions Magnesium Marin",
+    "social_links": {
+      "youtube": "@Granions",
+      "instagram": "granions",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nutergia",
+      "solgar-france",
+      "boiron"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 132,
+    "notes": "Legacy French supplement brand. Oligotherapy and trace element specialists. Trusted pharmacy brand since 1948."
+  },
+  {
+    "brand_slug": "aboca",
+    "brand_name": "Aboca",
+    "parent_company": "Aboca Group (Independent)",
+    "headquarters_country": "IT",
+    "website": "https://www.aboca.com",
+    "primary_categories": [
+      "herbal-supplements",
+      "digestive-enzymes",
+      "probiotics",
+      "immune-support"
+    ],
+    "founded_year": 1978,
+    "flagship_product": "Aboca Colilen IBS",
+    "social_links": {
+      "youtube": "@Aboca",
+      "instagram": "aboca",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "a-vogel",
+      "boiron",
+      "weleda",
+      "pukka-herbs"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 133,
+    "notes": "Italian herbal medicine leader. Owns organic farms in Tuscany. 100% natural and biodegradable products."
+  },
+  {
+    "brand_slug": "cenovis",
+    "brand_name": "Cenovis",
+    "parent_company": "Sanofi Consumer Healthcare",
+    "headquarters_country": "AU",
+    "website": "https://www.cenovis.com.au",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "magnesium",
+      "vitamin-c",
+      "immune-support"
+    ],
+    "founded_year": 1938,
+    "flagship_product": "Cenovis Multivitamin & Minerals",
+    "social_links": {
+      "youtube": null,
+      "instagram": "cenovis",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "swisse",
+      "blackmores",
+      "natures-way-au"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 134,
+    "notes": "Australian mass-market staple. Sanofi pharma backing. Strong supermarket and pharmacy distribution."
+  },
+  {
+    "brand_slug": "go-healthy",
+    "brand_name": "GO Healthy",
+    "parent_company": "GO Healthy (New Zealand)",
+    "headquarters_country": "NZ",
+    "website": "https://www.gohealthy.co.nz",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "multivitamins",
+      "probiotics",
+      "magnesium",
+      "immune-support"
+    ],
+    "founded_year": 2008,
+    "flagship_product": "GO Healthy GO Fish Oil",
+    "social_links": {
+      "youtube": "@GOHealthy",
+      "instagram": "gohealthy",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nutra-life",
+      "thompsons",
+      "blackmores",
+      "swisse"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 135,
+    "notes": "New Zealand's leading premium supplement brand. High-potency formulations. Strong trans-Tasman presence."
+  },
+  {
+    "brand_slug": "nutra-life",
+    "brand_name": "Nutra-Life",
+    "parent_company": "Vitaco Health",
+    "headquarters_country": "NZ",
+    "website": "https://www.nutralife.co.nz",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "magnesium",
+      "probiotics",
+      "joint-health",
+      "immune-support"
+    ],
+    "founded_year": 1967,
+    "flagship_product": "Nutra-Life Joint Formula",
+    "social_links": {
+      "youtube": "@NutraLife",
+      "instagram": "nutralife_nz",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "go-healthy",
+      "thompsons",
+      "blackmores",
+      "wagner"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 136,
+    "notes": "New Zealand supplement heritage brand. Comprehensive range covering wellness to sports nutrition via Vitaco portfolio."
+  },
+  {
+    "brand_slug": "thompsons",
+    "brand_name": "Thompson's",
+    "parent_company": "Integria Healthcare",
+    "headquarters_country": "NZ",
+    "website": "https://www.thompsons.co.nz",
+    "primary_categories": [
+      "herbal-supplements",
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "magnesium"
+    ],
+    "founded_year": 1951,
+    "flagship_product": "Thompson's One-A-Day Milk Thistle",
+    "social_links": {
+      "youtube": null,
+      "instagram": "thompsonsnz",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nutra-life",
+      "go-healthy",
+      "ethical-nutrients",
+      "blackmores"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 137,
+    "notes": "New Zealand herbal specialist (since 1951). Pharmacist-dispensed with strong practitioner recommendation heritage."
+  },
+  {
+    "brand_slug": "ethical-nutrients",
+    "brand_name": "Ethical Nutrients",
+    "parent_company": "Nestlé Health Science",
+    "headquarters_country": "AU",
+    "website": "https://www.ethicalnutrients.com.au",
+    "primary_categories": [
+      "probiotics",
+      "fish-oil-omega3",
+      "multivitamins",
+      "magnesium"
+    ],
+    "founded_year": 1985,
+    "flagship_product": "Ethical Nutrients Inner Health Plus",
+    "social_links": {
+      "youtube": "@EthicalNutrients",
+      "instagram": "ethicalnutrients",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "blackmores",
+      "swisse",
+      "go-healthy"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 138,
+    "notes": "Australian practitioner-dispensed brand. Inner Health Plus is Australia's best-selling probiotic."
+  },
+  {
+    "brand_slug": "herbs-of-gold",
+    "brand_name": "Herbs of Gold",
+    "parent_company": "PharmaCare Laboratories",
+    "headquarters_country": "AU",
+    "website": "https://www.herbsofgold.com.au",
+    "primary_categories": [
+      "herbal-supplements",
+      "multivitamins",
+      "magnesium",
+      "probiotics"
+    ],
+    "founded_year": 1989,
+    "flagship_product": "Herbs of Gold Magnesium Forte",
+    "social_links": {
+      "youtube": null,
+      "instagram": "herbsofgold",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "thompsons",
+      "blackmores",
+      "ethical-nutrients",
+      "swisse"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 139,
+    "notes": "Australian natural supplement brand. Strong herbal focus with therapeutic doses. Health food store foundation."
+  },
+  {
+    "brand_slug": "wagner",
+    "brand_name": "Wagner",
+    "parent_company": "Vitaco Health",
+    "headquarters_country": "NZ",
+    "website": "https://www.wagnerhealth.com.au",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "herbal-supplements",
+      "probiotics",
+      "magnesium",
+      "immune-support"
+    ],
+    "founded_year": 1968,
+    "flagship_product": "Wagner High Strength Fish Oil",
+    "social_links": {
+      "youtube": null,
+      "instagram": "wagnernz",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "nutra-life",
+      "go-healthy",
+      "thompsons",
+      "blackmores"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 140,
+    "notes": "New Zealand supplement mainstay. Vitaco-backed portfolio spanning general wellness and condition-specific formulas."
+  },
+  {
+    "brand_slug": "lifestream",
+    "brand_name": "Lifestream",
+    "parent_company": "Lifestream International (Independent)",
+    "headquarters_country": "NZ",
+    "website": "https://www.lifestream.co.nz",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "greens-powder",
+      "magnesium",
+      "probiotics",
+      "multivitamins"
+    ],
+    "founded_year": 1989,
+    "flagship_product": "Lifestream V-Omega 3",
+    "social_links": {
+      "youtube": null,
+      "instagram": "lifestream_nz",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "go-healthy",
+      "nutra-life",
+      "thompsons",
+      "wagner"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 141,
+    "notes": "New Zealand natural supplement brand. Sustainable, pure NZ-sourced ingredients. Strong green/superfood focus."
+  },
+  {
+    "brand_slug": "fancl",
+    "brand_name": "FANCL",
+    "parent_company": "FANCL Corporation",
+    "headquarters_country": "JP",
+    "website": "https://www.fancl.co.jp",
+    "primary_categories": [
+      "beauty-supplements",
+      "collagen",
+      "multivitamins",
+      "probiotics",
+      "greens-powder"
+    ],
+    "founded_year": 1980,
+    "flagship_product": "FANCL HTC Collagen",
+    "social_links": {
+      "youtube": "@FANCLofficial",
+      "instagram": "fancl_official",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "dhc",
+      "shiseido",
+      "suntory",
+      "orihiro"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 142,
+    "notes": "Japanese preservative-free supplement pioneer. HTC Collagen is category-defining. Strong in beauty-from-within."
+  },
+  {
+    "brand_slug": "suntory",
+    "brand_name": "Suntory Wellness",
+    "parent_company": "Suntory Holdings",
+    "headquarters_country": "JP",
+    "website": "https://www.suntory-kenko.com",
+    "primary_categories": [
+      "fish-oil-omega3",
+      "collagen",
+      "multivitamins",
+      "probiotics"
+    ],
+    "founded_year": 1993,
+    "flagship_product": "Suntory DHA & EPA Sesamin EX",
+    "social_links": {
+      "youtube": "@SuntoryWellness",
+      "instagram": "suntory_wellness",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "dhc",
+      "fancl",
+      "meiji",
+      "orihiro"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 143,
+    "notes": "Japanese beverage giant wellness arm. Sesamin + DHA/EPA patented combination. Premium pricing."
+  },
+  {
+    "brand_slug": "orihiro",
+    "brand_name": "Orihiro",
+    "parent_company": "Orihiro Co., Ltd.",
+    "headquarters_country": "JP",
+    "website": "https://www.orihiro.com",
+    "primary_categories": [
+      "collagen",
+      "multivitamins",
+      "fish-oil-omega3",
+      "herbal-supplements"
+    ],
+    "founded_year": 1974,
+    "flagship_product": "Orihiro Collagen Jelly",
+    "social_links": {
+      "youtube": "@Orihiro",
+      "instagram": "orihiro",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "dhc",
+      "fancl",
+      "suntory",
+      "meiji"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 144,
+    "notes": "Japanese wellness brand. Functional jelly format innovation. Popular through drugstore and cross-border channels."
+  },
+  {
+    "brand_slug": "shiseido",
+    "brand_name": "Shiseido (The Collagen)",
+    "parent_company": "Shiseido Company",
+    "headquarters_country": "JP",
+    "website": "https://www.shiseido.co.jp",
+    "primary_categories": [
+      "beauty-supplements",
+      "collagen",
+      "multivitamins"
+    ],
+    "founded_year": 1872,
+    "flagship_product": "The Collagen Drink",
+    "social_links": {
+      "youtube": "@SHISEIDOofficial",
+      "instagram": "shiseido",
+      "tiktok": "shiseido"
+    },
+    "competitor_set": [
+      "fancl",
+      "dhc",
+      "suntory",
+      "innéov"
+    ],
+    "jd_available": true,
+    "tmall_available": true,
+    "global_rank": 145,
+    "notes": "World-class cosmetics company. The Collagen line is Japan's most iconic beauty supplement drink."
+  },
+  {
+    "brand_slug": "meiji",
+    "brand_name": "Meiji",
+    "parent_company": "Meiji Holdings",
+    "headquarters_country": "JP",
+    "website": "https://www.meiji.co.jp",
+    "primary_categories": [
+      "probiotics",
+      "multivitamins",
+      "childrens-health"
+    ],
+    "founded_year": 1917,
+    "flagship_product": "Meiji R-1 Yogurt & Supplements",
+    "social_links": {
+      "youtube": "@MeijiCoLtd",
+      "instagram": "meiji",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "fancl",
+      "dhc",
+      "suntory",
+      "yakult"
+    ],
+    "jd_available": false,
+    "tmall_available": true,
+    "global_rank": 146,
+    "notes": "Japanese food and pharma giant. Functional food and probiotic supplements backed by dairy science."
+  },
+  {
+    "brand_slug": "thorne",
+    "brand_name": "Thorne",
+    "parent_company": "Thorne HealthTech",
+    "headquarters_country": "US",
+    "website": "https://www.thorne.com",
+    "primary_categories": [
+      "multivitamins",
+      "fish-oil-omega3",
+      "probiotics",
+      "creatine",
+      "whey-protein",
+      "medical-grade-supplements"
+    ],
+    "founded_year": 1984,
+    "flagship_product": "Thorne Creatine",
+    "social_links": {
+      "youtube": "@ThorneHealth",
+      "instagram": "thornehealth",
+      "tiktok": null
+    },
+    "competitor_set": [
+      "pure-encapsulations",
+      "metagenics",
+      "designs-for-health",
+      "life-extension"
+    ],
+    "jd_available": false,
+    "tmall_available": false,
+    "global_rank": 147,
+    "notes": "NSF Certified for Sport. Medical-grade supplements trusted by professional athletes and practitioners."
   }
 ]

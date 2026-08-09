@@ -40,7 +40,7 @@ function renderBrandRankings(data) {
     cats.map(c => `<option value="${c}">${CATEGORY_NAMES[c] || c}</option>`).join('');
 
   const regionFilter = document.getElementById('brand-region-filter');
-  const regions = { 'north_america': '北美', 'europe': '欧洲', 'anz': '澳新', 'global': '全球' };
+  const regions = { 'north_america': '北美', 'europe': '欧洲', 'anz': '澳新', 'asia': '亚洲', 'global': '全球' };
   regionFilter.innerHTML = '<option value="all">全部区域</option>' +
     Object.entries(regions).map(([k, v]) => `<option value="${k}">${v}</option>`).join('');
 
@@ -55,8 +55,9 @@ function renderBrandRankings(data) {
 
 function getRegion(country) {
   if (['US', 'CA'].includes(country)) return 'north_america';
-  if (['UK', 'DE', 'PT', 'SE'].includes(country)) return 'europe';
+  if (['UK', 'DE', 'PT', 'SE', 'FR', 'IT', 'CH', 'NL'].includes(country)) return 'europe';
   if (['AU', 'NZ'].includes(country)) return 'anz';
+  if (['JP', 'KR'].includes(country)) return 'asia';
   return 'global';
 }
 

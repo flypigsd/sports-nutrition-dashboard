@@ -1,38 +1,4845 @@
 [
-  {"product_id":"on-gold-standard-whey-5lb-dc","channel":"iherb","total_reviews":8942,"avg_rating":4.8,"rating_distribution":{"5":6500,"4":1800,"3":400,"2":150,"1":92},"top_positive_keywords":["mixes well","great taste","good value","no bloating","trusted brand"],"top_negative_keywords":["price increased","scoop size changed","clumps sometimes","fake products warned"],"last_updated":"2026-07-18"},
-  {"product_id":"on-gold-standard-whey-5lb-dc","channel":"amazon_us","total_reviews":124563,"avg_rating":4.7,"rating_distribution":{"5":91000,"4":24000,"3":5500,"2":2100,"1":1963},"top_positive_keywords":["great taste","mixes easily","effective","good value","consistent quality"],"top_negative_keywords":["price increased","packaging changed","scoop issue","fake product concern"],"last_updated":"2026-07-15"},
-  {"product_id":"on-gold-standard-whey-5lb-dc","channel":"bodybuilding_com","total_reviews":3500,"avg_rating":4.9,"rating_distribution":{"5":2800,"4":550,"3":100,"2":30,"1":20},"top_positive_keywords":["best whey","perfect mixability","trustworthy quality","industry standard"],"top_negative_keywords":["pricey","tub packaging large"],"last_updated":"2026-07-18"},
-
-  {"product_id":"myprotein-impact-whey-5-5lb-choc","channel":"iherb","total_reviews":5200,"avg_rating":4.5,"rating_distribution":{"5":3200,"4":1200,"3":500,"2":200,"1":100},"top_positive_keywords":["great price","good value","decent taste","mixes well"],"top_negative_keywords":["taste varies by batch","packaging issues","too sweet some flavors"],"last_updated":"2026-07-18"},
-  {"product_id":"myprotein-impact-whey-5-5lb-choc","channel":"amazon_us","total_reviews":42000,"avg_rating":4.4,"rating_distribution":{"5":25000,"4":10000,"3":4000,"2":2000,"1":1000},"top_positive_keywords":["best value","clean ingredients","many flavors","reliable"],"top_negative_keywords":["sweetener aftertaste","flavor inconsistent","bag packaging hard"],"last_updated":"2026-07-15"},
-
-  {"product_id":"dymatize-iso100-5lb-fb","channel":"iherb","total_reviews":4100,"avg_rating":4.7,"rating_distribution":{"5":3000,"4":800,"3":200,"2":70,"1":30},"top_positive_keywords":["best hydrolyzed","no lactose issues","fast digesting","clean formula"],"top_negative_keywords":["expensive","too sweet","clumps in cold water"],"last_updated":"2026-07-18"},
-  {"product_id":"dymatize-iso100-5lb-fb","channel":"amazon_us","total_reviews":35000,"avg_rating":4.6,"rating_distribution":{"5":24000,"4":7000,"3":2500,"2":1000,"1":500},"top_positive_keywords":["zero stomach issues","best tasting isolate","dissolves completely","lactose free"],"top_negative_keywords":["price point high","sweetener heavy","some flavors bad"],"last_updated":"2026-07-15"},
-
-  {"product_id":"ghost-whey-2lb-oreo","channel":"iherb","total_reviews":2800,"avg_rating":4.8,"rating_distribution":{"5":2200,"4":400,"3":120,"2":50,"1":30},"top_positive_keywords":["tastes like oreo","best flavor ever","real cookie pieces","fun branding"],"top_negative_keywords":["premium price","sugar alcohol bloating","small tub for price"],"last_updated":"2026-07-18"},
-  {"product_id":"ghost-whey-2lb-oreo","channel":"amazon_us","total_reviews":18000,"avg_rating":4.7,"rating_distribution":{"5":13500,"4":3000,"3":1000,"2":300,"1":200},"top_positive_keywords":["amazing flavor","legit collab","mixes great","kids love it"],"top_negative_keywords":["pricey for 2lb","too sweet for some","artificial taste"],"last_updated":"2026-07-15"},
-
-  {"product_id":"c4-original-pre-30sv","channel":"iherb","total_reviews":6200,"avg_rating":4.3,"rating_distribution":{"5":3500,"4":1500,"3":700,"2":300,"1":200},"top_positive_keywords":["reliable energy","good pump","affordable","many flavors"],"top_negative_keywords":["underdosed","itchy beta-alanine","crash after","tolerance builds"],"last_updated":"2026-07-18"},
-
-  {"product_id":"gorilla-mode-pre-40sv","channel":"amazon_us","total_reviews":8500,"avg_rating":4.8,"rating_distribution":{"5":7000,"4":1000,"3":300,"2":100,"1":100},"top_positive_keywords":["clinical doses","insane pump","no crash","transparent formula"],"top_negative_keywords":["expensive per serving","large scoop","some batches grainy"],"last_updated":"2026-07-15"},
-
-  {"product_id":"alani-nu-pre-30sv","channel":"iherb","total_reviews":3800,"avg_rating":4.6,"rating_distribution":{"5":2600,"4":800,"3":250,"2":100,"1":50},"top_positive_keywords":["smooth energy","tastes amazing","no jitters","cute packaging"],"top_negative_keywords":["lower caffeine needed","not strong enough for advanced","pricey"],"last_updated":"2026-07-18"},
-
-  {"product_id":"ryse-loaded-pre-30sv","channel":"amazon_us","total_reviews":12000,"avg_rating":4.7,"rating_distribution":{"5":9500,"4":1800,"3":400,"2":150,"1":150},"top_positive_keywords":["loaded formula","intense focus","great pump","flavors amazing"],"top_negative_keywords":["too strong for some","beta alanine tingles","price premium"],"last_updated":"2026-07-15"},
-
-  {"product_id":"quest-bar-cookie-dough-12ct","channel":"iherb","total_reviews":4500,"avg_rating":4.3,"rating_distribution":{"5":2500,"4":1000,"3":600,"2":250,"1":150},"top_positive_keywords":["low sugar","filling","clean ingredients","good macros"],"top_negative_keywords":["texture tough","artificial sweetener taste","microwave needed","pricey per bar"],"last_updated":"2026-07-18"},
-
-  {"product_id":"barebells-bar-12ct","channel":"amazon_us","total_reviews":9500,"avg_rating":4.8,"rating_distribution":{"5":7800,"4":1200,"3":300,"2":100,"1":100},"top_positive_keywords":["tastes like candy","soft texture","best protein bar","no sugar alcohols"],"top_negative_keywords":["expensive per bar","melts easily","wish it had more protein"],"last_updated":"2026-07-15"},
-
-  {"product_id":"premier-protein-shake-12ct","channel":"amazon_us","total_reviews":85000,"avg_rating":4.5,"rating_distribution":{"5":60000,"4":15000,"3":6000,"2":2500,"1":1500},"top_positive_keywords":["great taste","convenient","Costco value","good protein"],"top_negative_keywords":["recent formula change","too sweet new version","carrageenan concern"],"last_updated":"2026-07-15"},
-
-  {"product_id":"liquid-iv-hydration-16ct","channel":"amazon_us","total_reviews":65000,"avg_rating":4.6,"rating_distribution":{"5":48000,"4":10000,"3":4000,"2":1500,"1":1500},"top_positive_keywords":["dehydration relief","hangover cure","travel essential","works fast"],"top_negative_keywords":["too much sugar","expensive","new formula less effective"],"last_updated":"2026-07-15"},
-
-  {"product_id":"lmnt-electrolytes-30ct","channel":"amazon_us","total_reviews":18000,"avg_rating":4.7,"rating_distribution":{"5":14000,"4":2500,"3":900,"2":350,"1":250},"top_positive_keywords":["no sugar","keto friendly","great salt balance","clean ingredients"],"top_negative_keywords":["too salty for some","price is high","taste is polarizing"],"last_updated":"2026-07-15"},
-
-  {"product_id":"vital-proteins-collagen-24oz","channel":"iherb","total_reviews":3200,"avg_rating":4.5,"rating_distribution":{"5":2100,"4":700,"3":250,"2":100,"1":50},"top_positive_keywords":["dissolves easily","skin improvement","joint pain relief","tasteless"],"top_negative_keywords":["pricey","packaging changed","bovine source concern for some"],"last_updated":"2026-07-18"},
-
-  {"product_id":"thorne-creatine-16oz","channel":"iherb","total_reviews":1800,"avg_rating":4.9,"rating_distribution":{"5":1600,"4":150,"3":30,"2":10,"1":10},"top_positive_keywords":["NSF certified","Creapure quality","no fillers","trusted brand"],"top_negative_keywords":["expensive for creatine","tub half empty","scoop buried"],"last_updated":"2026-07-18"},
-
-  {"product_id":"orgain-organic-protein-2lb","channel":"iherb","total_reviews":5500,"avg_rating":4.4,"rating_distribution":{"5":3200,"4":1300,"3":600,"2":250,"1":150},"top_positive_keywords":["organic certified","clean ingredients","good for smoothies","plant based"],"top_negative_keywords":["gritty texture","earthy taste","not for water mixing","sweetener taste"],"last_updated":"2026-07-18"}
+  {
+    "product_id": "on-gold-standard-whey-5lb-dc",
+    "channel": "iherb",
+    "total_reviews": 8942,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 6500,
+      "4": 1800,
+      "3": 400,
+      "2": 150,
+      "1": 92
+    },
+    "top_positive_keywords": [
+      "mixes well",
+      "great taste",
+      "good value",
+      "no bloating",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "scoop size changed",
+      "clumps sometimes",
+      "fake products warned"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "on-gold-standard-whey-5lb-dc",
+    "channel": "amazon_us",
+    "total_reviews": 124563,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 91000,
+      "4": 24000,
+      "3": 5500,
+      "2": 2100,
+      "1": 1963
+    },
+    "top_positive_keywords": [
+      "great taste",
+      "mixes easily",
+      "effective",
+      "good value",
+      "consistent quality"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "packaging changed",
+      "scoop issue",
+      "fake product concern"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "on-gold-standard-whey-5lb-dc",
+    "channel": "bodybuilding_com",
+    "total_reviews": 3500,
+    "avg_rating": 4.9,
+    "rating_distribution": {
+      "5": 2800,
+      "4": 550,
+      "3": 100,
+      "2": 30,
+      "1": 20
+    },
+    "top_positive_keywords": [
+      "best whey",
+      "perfect mixability",
+      "trustworthy quality",
+      "industry standard"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "tub packaging large"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "myprotein-impact-whey-5-5lb-choc",
+    "channel": "iherb",
+    "total_reviews": 5200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3200,
+      "4": 1200,
+      "3": 500,
+      "2": 200,
+      "1": 100
+    },
+    "top_positive_keywords": [
+      "great price",
+      "good value",
+      "decent taste",
+      "mixes well"
+    ],
+    "top_negative_keywords": [
+      "taste varies by batch",
+      "packaging issues",
+      "too sweet some flavors"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "myprotein-impact-whey-5-5lb-choc",
+    "channel": "amazon_us",
+    "total_reviews": 42000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 25000,
+      "4": 10000,
+      "3": 4000,
+      "2": 2000,
+      "1": 1000
+    },
+    "top_positive_keywords": [
+      "best value",
+      "clean ingredients",
+      "many flavors",
+      "reliable"
+    ],
+    "top_negative_keywords": [
+      "sweetener aftertaste",
+      "flavor inconsistent",
+      "bag packaging hard"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "dymatize-iso100-5lb-fb",
+    "channel": "iherb",
+    "total_reviews": 4100,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 3000,
+      "4": 800,
+      "3": 200,
+      "2": 70,
+      "1": 30
+    },
+    "top_positive_keywords": [
+      "best hydrolyzed",
+      "no lactose issues",
+      "fast digesting",
+      "clean formula"
+    ],
+    "top_negative_keywords": [
+      "expensive",
+      "too sweet",
+      "clumps in cold water"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "dymatize-iso100-5lb-fb",
+    "channel": "amazon_us",
+    "total_reviews": 35000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 24000,
+      "4": 7000,
+      "3": 2500,
+      "2": 1000,
+      "1": 500
+    },
+    "top_positive_keywords": [
+      "zero stomach issues",
+      "best tasting isolate",
+      "dissolves completely",
+      "lactose free"
+    ],
+    "top_negative_keywords": [
+      "price point high",
+      "sweetener heavy",
+      "some flavors bad"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "ghost-whey-2lb-oreo",
+    "channel": "iherb",
+    "total_reviews": 2800,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 2200,
+      "4": 400,
+      "3": 120,
+      "2": 50,
+      "1": 30
+    },
+    "top_positive_keywords": [
+      "tastes like oreo",
+      "best flavor ever",
+      "real cookie pieces",
+      "fun branding"
+    ],
+    "top_negative_keywords": [
+      "premium price",
+      "sugar alcohol bloating",
+      "small tub for price"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "ghost-whey-2lb-oreo",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 13500,
+      "4": 3000,
+      "3": 1000,
+      "2": 300,
+      "1": 200
+    },
+    "top_positive_keywords": [
+      "amazing flavor",
+      "legit collab",
+      "mixes great",
+      "kids love it"
+    ],
+    "top_negative_keywords": [
+      "pricey for 2lb",
+      "too sweet for some",
+      "artificial taste"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "c4-original-pre-30sv",
+    "channel": "iherb",
+    "total_reviews": 6200,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 3500,
+      "4": 1500,
+      "3": 700,
+      "2": 300,
+      "1": 200
+    },
+    "top_positive_keywords": [
+      "reliable energy",
+      "good pump",
+      "affordable",
+      "many flavors"
+    ],
+    "top_negative_keywords": [
+      "underdosed",
+      "itchy beta-alanine",
+      "crash after",
+      "tolerance builds"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "gorilla-mode-pre-40sv",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 7000,
+      "4": 1000,
+      "3": 300,
+      "2": 100,
+      "1": 100
+    },
+    "top_positive_keywords": [
+      "clinical doses",
+      "insane pump",
+      "no crash",
+      "transparent formula"
+    ],
+    "top_negative_keywords": [
+      "expensive per serving",
+      "large scoop",
+      "some batches grainy"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "alani-nu-pre-30sv",
+    "channel": "iherb",
+    "total_reviews": 3800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2600,
+      "4": 800,
+      "3": 250,
+      "2": 100,
+      "1": 50
+    },
+    "top_positive_keywords": [
+      "smooth energy",
+      "tastes amazing",
+      "no jitters",
+      "cute packaging"
+    ],
+    "top_negative_keywords": [
+      "lower caffeine needed",
+      "not strong enough for advanced",
+      "pricey"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "ryse-loaded-pre-30sv",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 9500,
+      "4": 1800,
+      "3": 400,
+      "2": 150,
+      "1": 150
+    },
+    "top_positive_keywords": [
+      "loaded formula",
+      "intense focus",
+      "great pump",
+      "flavors amazing"
+    ],
+    "top_negative_keywords": [
+      "too strong for some",
+      "beta alanine tingles",
+      "price premium"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "quest-bar-cookie-dough-12ct",
+    "channel": "iherb",
+    "total_reviews": 4500,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 2500,
+      "4": 1000,
+      "3": 600,
+      "2": 250,
+      "1": 150
+    },
+    "top_positive_keywords": [
+      "low sugar",
+      "filling",
+      "clean ingredients",
+      "good macros"
+    ],
+    "top_negative_keywords": [
+      "texture tough",
+      "artificial sweetener taste",
+      "microwave needed",
+      "pricey per bar"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "barebells-bar-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 9500,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 7800,
+      "4": 1200,
+      "3": 300,
+      "2": 100,
+      "1": 100
+    },
+    "top_positive_keywords": [
+      "tastes like candy",
+      "soft texture",
+      "best protein bar",
+      "no sugar alcohols"
+    ],
+    "top_negative_keywords": [
+      "expensive per bar",
+      "melts easily",
+      "wish it had more protein"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "premier-protein-shake-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 85000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 60000,
+      "4": 15000,
+      "3": 6000,
+      "2": 2500,
+      "1": 1500
+    },
+    "top_positive_keywords": [
+      "great taste",
+      "convenient",
+      "Costco value",
+      "good protein"
+    ],
+    "top_negative_keywords": [
+      "recent formula change",
+      "too sweet new version",
+      "carrageenan concern"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "liquid-iv-hydration-16ct",
+    "channel": "amazon_us",
+    "total_reviews": 65000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 48000,
+      "4": 10000,
+      "3": 4000,
+      "2": 1500,
+      "1": 1500
+    },
+    "top_positive_keywords": [
+      "dehydration relief",
+      "hangover cure",
+      "travel essential",
+      "works fast"
+    ],
+    "top_negative_keywords": [
+      "too much sugar",
+      "expensive",
+      "new formula less effective"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "lmnt-electrolytes-30ct",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 14000,
+      "4": 2500,
+      "3": 900,
+      "2": 350,
+      "1": 250
+    },
+    "top_positive_keywords": [
+      "no sugar",
+      "keto friendly",
+      "great salt balance",
+      "clean ingredients"
+    ],
+    "top_negative_keywords": [
+      "too salty for some",
+      "price is high",
+      "taste is polarizing"
+    ],
+    "last_updated": "2026-07-15"
+  },
+  {
+    "product_id": "vital-proteins-collagen-24oz",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 2100,
+      "4": 700,
+      "3": 250,
+      "2": 100,
+      "1": 50
+    },
+    "top_positive_keywords": [
+      "dissolves easily",
+      "skin improvement",
+      "joint pain relief",
+      "tasteless"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "packaging changed",
+      "bovine source concern for some"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "thorne-creatine-16oz",
+    "channel": "iherb",
+    "total_reviews": 1800,
+    "avg_rating": 4.9,
+    "rating_distribution": {
+      "5": 1600,
+      "4": 150,
+      "3": 30,
+      "2": 10,
+      "1": 10
+    },
+    "top_positive_keywords": [
+      "NSF certified",
+      "Creapure quality",
+      "no fillers",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "expensive for creatine",
+      "tub half empty",
+      "scoop buried"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "orgain-organic-protein-2lb",
+    "channel": "iherb",
+    "total_reviews": 5500,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 3200,
+      "4": 1300,
+      "3": 600,
+      "2": 250,
+      "1": 150
+    },
+    "top_positive_keywords": [
+      "organic certified",
+      "clean ingredients",
+      "good for smoothies",
+      "plant based"
+    ],
+    "top_negative_keywords": [
+      "gritty texture",
+      "earthy taste",
+      "not for water mixing",
+      "sweetener taste"
+    ],
+    "last_updated": "2026-07-18"
+  },
+  {
+    "product_id": "on-gold-standard-whey-2lb-vanilla",
+    "channel": "amazon_us",
+    "total_reviews": 38000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 24699,
+      "4": 13300,
+      "3": 5700,
+      "2": 3040,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "effective",
+      "trusted brand",
+      "great taste",
+      "good value",
+      "mixes well"
+    ],
+    "top_negative_keywords": [
+      "clumps",
+      "bloating",
+      "too sweet",
+      "price increased",
+      "artificial taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "on-gold-standard-whey-2lb-vanilla",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 2240,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "mixes well",
+      "effective",
+      "good value",
+      "great taste",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "too sweet",
+      "bloating",
+      "clumps",
+      "artificial taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "myprotein-clear-whey-20sv",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.2,
+    "rating_distribution": {
+      "5": 3825,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "effective",
+      "trusted brand",
+      "great taste",
+      "mixes well",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "clumps",
+      "artificial taste",
+      "too sweet",
+      "bloating"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "myprotein-clear-whey-20sv",
+    "channel": "iherb",
+    "total_reviews": 2100,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 1049,
+      "4": 735,
+      "3": 315,
+      "2": 168,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "great taste",
+      "mixes well",
+      "effective",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "clumps",
+      "bloating",
+      "too sweet",
+      "artificial taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "ghost-whey-2lb-chips-ahoy",
+    "channel": "amazon_us",
+    "total_reviews": 12500,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 9375,
+      "4": 4375,
+      "3": 1875,
+      "2": 1000,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great taste",
+      "effective",
+      "mixes well",
+      "trusted brand",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "clumps",
+      "artificial taste",
+      "price increased",
+      "bloating",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "isopure-zero-carb-3lb",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 16800,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great taste",
+      "effective",
+      "good value",
+      "mixes well",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "too sweet",
+      "artificial taste",
+      "bloating",
+      "clumps",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "c4-original-pre-30sv",
+    "channel": "amazon_us",
+    "total_reviews": 95000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 47499,
+      "4": 33250,
+      "3": 14250,
+      "2": 7600,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "great value",
+      "noticeable results",
+      "good quality",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "no noticeable effect",
+      "taste",
+      "large pill",
+      "inconsistent",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "c4-original-pre-30sv",
+    "channel": "bodybuilding_com",
+    "total_reviews": 8900,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 4895,
+      "4": 3115,
+      "3": 1335,
+      "2": 712,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "trusted brand",
+      "good quality",
+      "great value",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "taste",
+      "no noticeable effect",
+      "inconsistent",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "alani-nu-pre-30sv",
+    "channel": "amazon_us",
+    "total_reviews": 16000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 10399,
+      "4": 5600,
+      "3": 2400,
+      "2": 1280,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "easy to take",
+      "good quality",
+      "noticeable results",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "no noticeable effect",
+      "inconsistent",
+      "pricey",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "bucked-up-pre-30sv",
+    "channel": "amazon_us",
+    "total_reviews": 22000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 12100,
+      "4": 7699,
+      "3": 3300,
+      "2": 1760,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "easy to take",
+      "great value",
+      "noticeable results",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "inconsistent",
+      "pricey",
+      "taste",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "quest-bar-cookie-dough-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 75000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 37499,
+      "4": 26250,
+      "3": 11250,
+      "2": 6000,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "good quality",
+      "noticeable results",
+      "trusted brand",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "pricey",
+      "taste",
+      "no noticeable effect",
+      "inconsistent"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "built-puff-bar-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 11699,
+      "4": 6300,
+      "3": 2700,
+      "2": 1440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "good quality",
+      "easy to take",
+      "noticeable results",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large pill",
+      "inconsistent",
+      "taste",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "grenade-carb-killa-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 14000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 8400,
+      "4": 4900,
+      "3": 2100,
+      "2": 1120,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "easy to take",
+      "trusted brand",
+      "good quality",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "taste",
+      "pricey",
+      "no noticeable effect",
+      "inconsistent"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "premier-protein-shake-12ct",
+    "channel": "walmart",
+    "total_reviews": 12000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 6600,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "trusted brand",
+      "good quality",
+      "noticeable results",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "pricey",
+      "inconsistent",
+      "no noticeable effect",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "fairlife-core-power-elite-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 19600,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "easy to take",
+      "great value",
+      "noticeable results",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "large pill",
+      "no noticeable effect",
+      "inconsistent",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "liquid-iv-hydration-16ct",
+    "channel": "walmart",
+    "total_reviews": 8500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 5100,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "great value",
+      "easy to take",
+      "noticeable results",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large pill",
+      "taste",
+      "inconsistent",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "vital-proteins-collagen-24oz",
+    "channel": "amazon_us",
+    "total_reviews": 55000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 33000,
+      "4": 19250,
+      "3": 8250,
+      "2": 4400,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "dissolves easily",
+      "joint relief",
+      "tasteless",
+      "skin improvement"
+    ],
+    "top_negative_keywords": [
+      "taste in coffee",
+      "clumps",
+      "pricey",
+      "packaging changed",
+      "no effect for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "thorne-creatine-16oz",
+    "channel": "amazon_us",
+    "total_reviews": 22000,
+    "avg_rating": 4.9,
+    "rating_distribution": {
+      "5": 17600,
+      "4": 7699,
+      "3": 3300,
+      "2": 1760,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "easy to take",
+      "great value",
+      "noticeable results",
+      "good quality"
+    ],
+    "top_negative_keywords": [
+      "no noticeable effect",
+      "large pill",
+      "taste",
+      "pricey",
+      "inconsistent"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "orgain-organic-protein-2lb",
+    "channel": "amazon_us",
+    "total_reviews": 42000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 23100,
+      "4": 14699,
+      "3": 6300,
+      "2": 3360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "noticeable results",
+      "great value",
+      "easy to take",
+      "good quality"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "inconsistent",
+      "taste",
+      "no noticeable effect",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "vega-protein-greens-2lb",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 8999,
+      "4": 6300,
+      "3": 2700,
+      "2": 1440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "noticeable results",
+      "great value",
+      "easy to take",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large pill",
+      "taste",
+      "no noticeable effect",
+      "inconsistent"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "transparent-labs-whey-2lb",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 5524,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "effective",
+      "great taste",
+      "good value",
+      "mixes well",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "clumps",
+      "artificial taste",
+      "too sweet",
+      "price increased",
+      "bloating"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "naked-whey-5lb",
+    "channel": "amazon_us",
+    "total_reviews": 25000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 13750,
+      "4": 8750,
+      "3": 3750,
+      "2": 2000,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "effective",
+      "mixes well",
+      "great taste",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "too sweet",
+      "bloating",
+      "clumps",
+      "artificial taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "legion-whey-plus-2lb",
+    "channel": "amazon_us",
+    "total_reviews": 6200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3720,
+      "4": 2170,
+      "3": 930,
+      "2": 496,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "mixes well",
+      "effective",
+      "great taste",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "bloating",
+      "clumps",
+      "too sweet",
+      "artificial taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "allmax-isoflex-5lb",
+    "channel": "amazon_us",
+    "total_reviews": 11000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 6600,
+      "4": 3849,
+      "3": 1650,
+      "2": 880,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "great taste",
+      "mixes well",
+      "trusted brand",
+      "effective"
+    ],
+    "top_negative_keywords": [
+      "too sweet",
+      "artificial taste",
+      "price increased",
+      "bloating",
+      "clumps"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "muscletech-nitrotech-4lb",
+    "channel": "amazon_us",
+    "total_reviews": 32000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 19200,
+      "4": 11200,
+      "3": 4800,
+      "2": 2560,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "effective",
+      "good value",
+      "great taste",
+      "trusted brand",
+      "mixes well"
+    ],
+    "top_negative_keywords": [
+      "too sweet",
+      "price increased",
+      "clumps",
+      "bloating",
+      "artificial taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "muscletech-nitrotech-4lb",
+    "channel": "bodybuilding_com",
+    "total_reviews": 5200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3120,
+      "4": 1819,
+      "3": 780,
+      "2": 416,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "effective",
+      "trusted brand",
+      "mixes well",
+      "good value",
+      "great taste"
+    ],
+    "top_negative_keywords": [
+      "clumps",
+      "bloating",
+      "too sweet",
+      "artificial taste",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "bsn-syntha6-5lb",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 16800,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "trusted brand",
+      "effective",
+      "mixes well",
+      "great taste"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "too sweet",
+      "bloating",
+      "artificial taste",
+      "clumps"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "total-war-pre-30sv",
+    "channel": "amazon_us",
+    "total_reviews": 19000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 10450,
+      "4": 6650,
+      "3": 2850,
+      "2": 1520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "great value",
+      "trusted brand",
+      "noticeable results",
+      "easy to take"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large pill",
+      "inconsistent",
+      "taste",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "xtend-bcaa-30sv",
+    "channel": "amazon_us",
+    "total_reviews": 38000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 24699,
+      "4": 13300,
+      "3": 5700,
+      "2": 3040,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "good quality",
+      "easy to take",
+      "great value",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "pricey",
+      "inconsistent",
+      "large pill",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "xtend-bcaa-30sv",
+    "channel": "iherb",
+    "total_reviews": 4800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 3119,
+      "4": 1680,
+      "3": 720,
+      "2": 384,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "easy to take",
+      "noticeable results",
+      "great value",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "inconsistent",
+      "pricey",
+      "taste",
+      "no noticeable effect",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "one-bar-12ct",
+    "channel": "amazon_us",
+    "total_reviews": 32000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 17600,
+      "4": 11200,
+      "3": 4800,
+      "2": 2560,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "noticeable results",
+      "trusted brand",
+      "great value",
+      "good quality"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "no noticeable effect",
+      "taste",
+      "pricey",
+      "inconsistent"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nutrabio-wpi-5lb",
+    "channel": "amazon_us",
+    "total_reviews": 4800,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 3360,
+      "4": 1680,
+      "3": 720,
+      "2": 384,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "effective",
+      "good value",
+      "trusted brand",
+      "mixes well",
+      "great taste"
+    ],
+    "top_negative_keywords": [
+      "artificial taste",
+      "bloating",
+      "price increased",
+      "clumps",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "rule1-whey-blend-5lb",
+    "channel": "amazon_us",
+    "total_reviews": 7500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 4500,
+      "4": 2625,
+      "3": 1125,
+      "2": 600,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "mixes well",
+      "effective",
+      "trusted brand",
+      "great taste"
+    ],
+    "top_negative_keywords": [
+      "artificial taste",
+      "clumps",
+      "bloating",
+      "too sweet",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "centrum-centrum-silver-multivitamin-200-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 45000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 31500,
+      "4": 15749,
+      "3": 6750,
+      "2": 3600,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "good energy",
+      "comprehensive formula",
+      "trusted brand",
+      "easy to swallow"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "bottle too big",
+      "pricey",
+      "upset stomach for some",
+      "aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "centrum-centrum-silver-multivitamin-200-tablets",
+    "channel": "iherb",
+    "total_reviews": 6200,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 4650,
+      "4": 2170,
+      "3": 930,
+      "2": 496,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to swallow",
+      "comprehensive formula",
+      "trusted brand",
+      "great value",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "upset stomach for some",
+      "aftertaste",
+      "bottle too big",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "centrum-centrum-women-multivitamin-200-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 38000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 24699,
+      "4": 13300,
+      "3": 5700,
+      "2": 3040,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "easy to swallow",
+      "trusted brand",
+      "comprehensive formula",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "bottle too big",
+      "upset stomach for some",
+      "aftertaste",
+      "large pill",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "centrum-centrum-women-multivitamin-200-tablets",
+    "channel": "iherb",
+    "total_reviews": 4500,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 3150,
+      "4": 1575,
+      "3": 675,
+      "2": 360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to swallow",
+      "great value",
+      "comprehensive formula",
+      "good energy",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "upset stomach for some",
+      "large pill",
+      "aftertaste",
+      "bottle too big"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-multivitamin-for-him-300-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 32000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 22400,
+      "4": 11200,
+      "3": 4800,
+      "2": 2560,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "good energy",
+      "easy to swallow",
+      "great value",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large pill",
+      "upset stomach for some",
+      "aftertaste",
+      "bottle too big"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-multivitamin-for-him-300-tablets",
+    "channel": "iherb",
+    "total_reviews": 3800,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 2660,
+      "4": 1330,
+      "3": 570,
+      "2": 304,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "easy to swallow",
+      "good energy",
+      "comprehensive formula",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "aftertaste",
+      "bottle too big",
+      "large pill",
+      "upset stomach for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-multivitamin-for-him-300-tablets",
+    "channel": "walmart",
+    "total_reviews": 2100,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 1364,
+      "4": 735,
+      "3": 315,
+      "2": 168,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to swallow",
+      "trusted brand",
+      "good energy",
+      "comprehensive formula",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "upset stomach for some",
+      "pricey",
+      "bottle too big",
+      "large pill",
+      "aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natures-bounty-nature's-bounty-women's-multivitamin-120-caplets",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 16800,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "comprehensive formula",
+      "easy to swallow",
+      "trusted brand",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "upset stomach for some",
+      "large pill",
+      "pricey",
+      "aftertaste",
+      "bottle too big"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natures-bounty-nature's-bounty-women's-multivitamin-120-caplets",
+    "channel": "iherb",
+    "total_reviews": 2900,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 1884,
+      "4": 1014,
+      "3": 435,
+      "2": 232,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "easy to swallow",
+      "trusted brand",
+      "great value",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "aftertaste",
+      "bottle too big",
+      "pricey",
+      "large pill",
+      "upset stomach for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "life-extension-life-extension-two-per-day-multivitamin-120-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 15000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 9749,
+      "4": 5250,
+      "3": 2250,
+      "2": 1200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good energy",
+      "trusted brand",
+      "great value",
+      "comprehensive formula",
+      "easy to swallow"
+    ],
+    "top_negative_keywords": [
+      "upset stomach for some",
+      "aftertaste",
+      "pricey",
+      "bottle too big",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "life-extension-life-extension-two-per-day-multivitamin-120-capsules",
+    "channel": "iherb",
+    "total_reviews": 2100,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 1470,
+      "4": 735,
+      "3": 315,
+      "2": 168,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good energy",
+      "comprehensive formula",
+      "great value",
+      "easy to swallow",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "bottle too big",
+      "upset stomach for some",
+      "aftertaste",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "swisse-swisse-ultivite-multivitamin-120-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 5100,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "easy to swallow",
+      "trusted brand",
+      "comprehensive formula",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "aftertaste",
+      "large pill",
+      "upset stomach for some",
+      "bottle too big"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "swisse-swisse-ultivite-multivitamin-120-tablets",
+    "channel": "iherb",
+    "total_reviews": 5600,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 3639,
+      "4": 1959,
+      "3": 840,
+      "2": 448,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good energy",
+      "comprehensive formula",
+      "trusted brand",
+      "great value",
+      "easy to swallow"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "bottle too big",
+      "aftertaste",
+      "upset stomach for some",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "thorne-research-thorne-basic-nutrients-90-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 5500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3300,
+      "4": 1924,
+      "3": 825,
+      "2": 440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "good energy",
+      "trusted brand",
+      "easy to swallow",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "bottle too big",
+      "large pill",
+      "aftertaste",
+      "upset stomach for some",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "thorne-research-thorne-basic-nutrients-90-capsules",
+    "channel": "iherb",
+    "total_reviews": 890,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 578,
+      "4": 311,
+      "3": 133,
+      "2": 71,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to swallow",
+      "comprehensive formula",
+      "trusted brand",
+      "good energy",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "aftertaste",
+      "upset stomach for some",
+      "pricey",
+      "bottle too big",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-adam-men's-multivitamin-180-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 7200,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good energy",
+      "trusted brand",
+      "comprehensive formula",
+      "easy to swallow",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "aftertaste",
+      "large pill",
+      "upset stomach for some",
+      "pricey",
+      "bottle too big"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-adam-men's-multivitamin-180-softgels",
+    "channel": "iherb",
+    "total_reviews": 3400,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2209,
+      "4": 1190,
+      "3": 510,
+      "2": 272,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "trusted brand",
+      "easy to swallow",
+      "good energy",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "aftertaste",
+      "large pill",
+      "bottle too big",
+      "pricey",
+      "upset stomach for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-d3-2000iu-250-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 52000,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 39000,
+      "4": 18200,
+      "3": 7800,
+      "2": 4160,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "doctor recommended",
+      "good dose",
+      "small softgel",
+      "easy to take"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "dose too high for some",
+      "packaging waste",
+      "too large softgel",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-d3-2000iu-250-softgels",
+    "channel": "iherb",
+    "total_reviews": 7800,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 5849,
+      "4": 2730,
+      "3": 1170,
+      "2": 624,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "doctor recommended",
+      "easy to take",
+      "small softgel",
+      "good dose",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "packaging waste",
+      "dose too high for some",
+      "price increased",
+      "taste",
+      "too large softgel"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-d3-2000iu-250-softgels",
+    "channel": "walmart",
+    "total_reviews": 3200,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 2240,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "doctor recommended",
+      "trusted brand",
+      "easy to take",
+      "small softgel",
+      "good dose"
+    ],
+    "top_negative_keywords": [
+      "dose too high for some",
+      "price increased",
+      "taste",
+      "packaging waste",
+      "too large softgel"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-vitamin-d3-5000iu-240-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 44000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 30800,
+      "4": 15399,
+      "3": 6600,
+      "2": 3520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "small softgel",
+      "trusted brand",
+      "easy to take",
+      "doctor recommended",
+      "good dose"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "dose too high for some",
+      "taste",
+      "too large softgel",
+      "packaging waste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-vitamin-d3-5000iu-240-softgels",
+    "channel": "iherb",
+    "total_reviews": 6500,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 4550,
+      "4": 2275,
+      "3": 975,
+      "2": 520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "doctor recommended",
+      "small softgel",
+      "easy to take",
+      "good dose",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "packaging waste",
+      "too large softgel",
+      "price increased",
+      "dose too high for some",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "sports-research-sports-research-vitamin-d3+k2-60-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 25000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 17500,
+      "4": 8750,
+      "3": 3750,
+      "2": 2000,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "doctor recommended",
+      "trusted brand",
+      "easy to take",
+      "small softgel",
+      "good dose"
+    ],
+    "top_negative_keywords": [
+      "dose too high for some",
+      "price increased",
+      "packaging waste",
+      "taste",
+      "too large softgel"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "sports-research-sports-research-vitamin-d3+k2-60-softgels",
+    "channel": "iherb",
+    "total_reviews": 4200,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 2940,
+      "4": 1470,
+      "3": 630,
+      "2": 336,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "small softgel",
+      "good dose",
+      "doctor recommended",
+      "easy to take",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "too large softgel",
+      "dose too high for some",
+      "taste",
+      "packaging waste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-c-1000mg-300-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 38000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 26600,
+      "4": 13300,
+      "3": 5700,
+      "2": 3040,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "clean ingredients",
+      "no stomach upset",
+      "great value",
+      "easy to swallow",
+      "good immunity"
+    ],
+    "top_negative_keywords": [
+      "stomach sensitivity",
+      "bad taste",
+      "tablet too large",
+      "packaging issue",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-c-1000mg-300-tablets",
+    "channel": "iherb",
+    "total_reviews": 5200,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 3640,
+      "4": 1819,
+      "3": 780,
+      "2": 416,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "good immunity",
+      "easy to swallow",
+      "no stomach upset",
+      "clean ingredients"
+    ],
+    "top_negative_keywords": [
+      "tablet too large",
+      "pricey",
+      "stomach sensitivity",
+      "bad taste",
+      "packaging issue"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-vitamin-c-1000mg-300-tablets",
+    "channel": "walmart",
+    "total_reviews": 1800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 1169,
+      "4": 630,
+      "3": 270,
+      "2": 144,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "easy to swallow",
+      "no stomach upset",
+      "clean ingredients",
+      "good immunity"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "tablet too large",
+      "stomach sensitivity",
+      "bad taste",
+      "packaging issue"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-vitamin-c-1000-250-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 18199,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to swallow",
+      "great value",
+      "no stomach upset",
+      "good immunity",
+      "clean ingredients"
+    ],
+    "top_negative_keywords": [
+      "tablet too large",
+      "stomach sensitivity",
+      "pricey",
+      "bad taste",
+      "packaging issue"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-vitamin-c-1000-250-tablets",
+    "channel": "iherb",
+    "total_reviews": 4800,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 3360,
+      "4": 1680,
+      "3": 720,
+      "2": 384,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "clean ingredients",
+      "no stomach upset",
+      "great value",
+      "good immunity",
+      "easy to swallow"
+    ],
+    "top_negative_keywords": [
+      "packaging issue",
+      "bad taste",
+      "pricey",
+      "tablet too large",
+      "stomach sensitivity"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-super-b-complex-360-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 35000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 24500,
+      "4": 12250,
+      "3": 5250,
+      "2": 2800,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "energy boost",
+      "good value",
+      "no upset stomach",
+      "works well",
+      "easy to take"
+    ],
+    "top_negative_keywords": [
+      "large tablet",
+      "strong smell",
+      "bright yellow urine",
+      "pricey",
+      "aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-super-b-complex-360-tablets",
+    "channel": "iherb",
+    "total_reviews": 4200,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 2940,
+      "4": 1470,
+      "3": 630,
+      "2": 336,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "energy boost",
+      "good value",
+      "easy to take",
+      "no upset stomach",
+      "works well"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "aftertaste",
+      "large tablet",
+      "bright yellow urine",
+      "strong smell"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-b-100-complex-250-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 15000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 9749,
+      "4": 5250,
+      "3": 2250,
+      "2": 1200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "no upset stomach",
+      "energy boost",
+      "easy to take",
+      "works well",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "aftertaste",
+      "large tablet",
+      "bright yellow urine",
+      "strong smell"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-b-100-complex-250-capsules",
+    "channel": "iherb",
+    "total_reviews": 2800,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 1960,
+      "4": 979,
+      "3": 420,
+      "2": 224,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "no upset stomach",
+      "energy boost",
+      "works well",
+      "easy to take",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large tablet",
+      "strong smell",
+      "bright yellow urine",
+      "aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-calcium-600mg-+-d3-220-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 19600,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good absorption",
+      "easy to swallow",
+      "trusted brand",
+      "bone health",
+      "includes D3"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large pill",
+      "hard to swallow",
+      "constipation",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-calcium-600mg-+-d3-220-tablets",
+    "channel": "iherb",
+    "total_reviews": 3500,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 2450,
+      "4": 1225,
+      "3": 525,
+      "2": 280,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good absorption",
+      "bone health",
+      "includes D3",
+      "easy to swallow",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "constipation",
+      "pricey",
+      "taste",
+      "hard to swallow",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "new-chapter-new-chapter-bone-strength-calcium-120-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 5524,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "includes D3",
+      "easy to swallow",
+      "bone health",
+      "good absorption",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "taste",
+      "hard to swallow",
+      "large pill",
+      "constipation"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "new-chapter-new-chapter-bone-strength-calcium-120-tablets",
+    "channel": "iherb",
+    "total_reviews": 1200,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 840,
+      "4": 420,
+      "3": 180,
+      "2": 96,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "includes D3",
+      "trusted brand",
+      "good absorption",
+      "bone health",
+      "easy to swallow"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "large pill",
+      "constipation",
+      "pricey",
+      "hard to swallow"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natural-vitality-natural-vitality-calm-magnesium-powder-16-oz",
+    "channel": "amazon_us",
+    "total_reviews": 38000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 22800,
+      "4": 13300,
+      "3": 5700,
+      "2": 3040,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "muscle relaxation",
+      "helps sleep",
+      "no stomach issues",
+      "great quality",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "loose stools",
+      "large pill",
+      "taste",
+      "weak effects for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natural-vitality-natural-vitality-calm-magnesium-powder-16-oz",
+    "channel": "iherb",
+    "total_reviews": 6500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 4224,
+      "4": 2275,
+      "3": 975,
+      "2": 520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "helps sleep",
+      "great quality",
+      "muscle relaxation",
+      "no stomach issues"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "taste",
+      "price increased",
+      "loose stools",
+      "weak effects for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-high-absorption-magnesium-240-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 32000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 20799,
+      "4": 11200,
+      "3": 4800,
+      "2": 2560,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "great quality",
+      "muscle relaxation",
+      "no stomach issues",
+      "helps sleep"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "price increased",
+      "weak effects for some",
+      "loose stools",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-high-absorption-magnesium-240-tablets",
+    "channel": "iherb",
+    "total_reviews": 5200,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 3379,
+      "4": 1819,
+      "3": 780,
+      "2": 416,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "muscle relaxation",
+      "noticeable results",
+      "helps sleep",
+      "no stomach issues",
+      "great quality"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "loose stools",
+      "large pill",
+      "taste",
+      "weak effects for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "thorne-research-thorne-magnesium-bisglycinate-60-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 6500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 4224,
+      "4": 2275,
+      "3": 975,
+      "2": 520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "helps sleep",
+      "no stomach issues",
+      "muscle relaxation",
+      "great quality",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "weak effects for some",
+      "loose stools",
+      "large pill",
+      "taste",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-zinc-picolinate-50mg-120-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 11699,
+      "4": 6300,
+      "3": 2700,
+      "2": 1440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "immune support",
+      "easy to take",
+      "good quality",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "nausea on empty stomach",
+      "taste",
+      "too strong dose",
+      "pill size",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-zinc-picolinate-50mg-120-capsules",
+    "channel": "iherb",
+    "total_reviews": 2800,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 1960,
+      "4": 979,
+      "3": 420,
+      "2": 224,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "immune support",
+      "good quality",
+      "trusted brand",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "pricey",
+      "pill size",
+      "too strong dose",
+      "nausea on empty stomach"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "solgar-solgar-zinc-picolinate-22mg-100-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 6500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3900,
+      "4": 2275,
+      "3": 975,
+      "2": 520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "good quality",
+      "easy to take",
+      "trusted brand",
+      "immune support"
+    ],
+    "top_negative_keywords": [
+      "too strong dose",
+      "pricey",
+      "taste",
+      "nausea on empty stomach",
+      "pill size"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "megafood-megafood-blood-builder-iron-90-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 22000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 13200,
+      "4": 7699,
+      "3": 3300,
+      "2": 1760,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "energy improved",
+      "doctor recommended",
+      "gentle formula",
+      "no stomach upset",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "slow results",
+      "stomach upset",
+      "metallic taste",
+      "pill size",
+      "constipation"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "megafood-megafood-blood-builder-iron-90-tablets",
+    "channel": "iherb",
+    "total_reviews": 3800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2469,
+      "4": 1330,
+      "3": 570,
+      "2": 304,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "energy improved",
+      "gentle formula",
+      "no stomach upset",
+      "noticeable results",
+      "doctor recommended"
+    ],
+    "top_negative_keywords": [
+      "constipation",
+      "slow results",
+      "stomach upset",
+      "metallic taste",
+      "pill size"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "solgar-solgar-gentle-iron-25mg-180-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 7200,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "gentle formula",
+      "noticeable results",
+      "energy improved",
+      "no stomach upset",
+      "doctor recommended"
+    ],
+    "top_negative_keywords": [
+      "stomach upset",
+      "slow results",
+      "constipation",
+      "pill size",
+      "metallic taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-ultimate-omega-180-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 52000,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 36400,
+      "4": 18200,
+      "3": 7800,
+      "2": 4160,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "great value",
+      "good quality",
+      "no fish burps",
+      "fresh taste"
+    ],
+    "top_negative_keywords": [
+      "fish burps",
+      "price increased",
+      "large softgel",
+      "packaging issue",
+      "bad aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-ultimate-omega-180-softgels",
+    "channel": "iherb",
+    "total_reviews": 12000,
+    "avg_rating": 4.8,
+    "rating_distribution": {
+      "5": 9000,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "fresh taste",
+      "no fish burps",
+      "trusted brand",
+      "great value",
+      "good quality"
+    ],
+    "top_negative_keywords": [
+      "packaging issue",
+      "bad aftertaste",
+      "price increased",
+      "large softgel",
+      "fish burps"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "sports-research-sports-research-omega-3-triple-strength-180-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 42000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 27299,
+      "4": 14699,
+      "3": 6300,
+      "2": 3360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "fresh taste",
+      "good quality",
+      "trusted brand",
+      "no fish burps"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "bad aftertaste",
+      "large softgel",
+      "fish burps",
+      "packaging issue"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "sports-research-sports-research-omega-3-triple-strength-180-softgels",
+    "channel": "iherb",
+    "total_reviews": 8500,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 5950,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "no fish burps",
+      "good quality",
+      "fresh taste",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "large softgel",
+      "bad aftertaste",
+      "packaging issue",
+      "fish burps"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-fish-oil-1000mg-250-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 35000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 22749,
+      "4": 12250,
+      "3": 5250,
+      "2": 2800,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "fresh taste",
+      "good quality",
+      "great value",
+      "no fish burps"
+    ],
+    "top_negative_keywords": [
+      "packaging issue",
+      "large softgel",
+      "price increased",
+      "fish burps",
+      "bad aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-fish-oil-1000mg-250-softgels",
+    "channel": "iherb",
+    "total_reviews": 4800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 3119,
+      "4": 1680,
+      "3": 720,
+      "2": 384,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "no fish burps",
+      "great value",
+      "fresh taste",
+      "good quality",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "large softgel",
+      "price increased",
+      "packaging issue",
+      "fish burps",
+      "bad aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nature-made-nature-made-fish-oil-1000mg-250-softgels",
+    "channel": "walmart",
+    "total_reviews": 2200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1320,
+      "4": 770,
+      "3": 330,
+      "2": 176,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "fresh taste",
+      "no fish burps",
+      "trusted brand",
+      "good quality",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "fish burps",
+      "packaging issue",
+      "bad aftertaste",
+      "large softgel"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "blackmores-blackmores-omega-triple-fish-oil-150-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 7799,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "great value",
+      "no fish burps",
+      "good quality",
+      "fresh taste"
+    ],
+    "top_negative_keywords": [
+      "bad aftertaste",
+      "large softgel",
+      "packaging issue",
+      "fish burps",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "blackmores-blackmores-omega-triple-fish-oil-150-capsules",
+    "channel": "iherb",
+    "total_reviews": 4500,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 3150,
+      "4": 1575,
+      "3": 675,
+      "2": 360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "trusted brand",
+      "fresh taste",
+      "no fish burps",
+      "great value"
+    ],
+    "top_negative_keywords": [
+      "large softgel",
+      "fish burps",
+      "packaging issue",
+      "bad aftertaste",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "viva-naturals-viva-naturals-triple-strength-omega-3-180-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 22000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 14299,
+      "4": 7699,
+      "3": 3300,
+      "2": 1760,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "no fish burps",
+      "trusted brand",
+      "good quality",
+      "fresh taste"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "packaging issue",
+      "fish burps",
+      "large softgel",
+      "bad aftertaste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "align-probiotic-align-probiotic-24-7-digestive-support-63-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 10800,
+      "4": 6300,
+      "3": 2700,
+      "2": 1440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "digestive improvement",
+      "easy to take",
+      "noticeable results",
+      "no bloating",
+      "good strains"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "bloating initially",
+      "no noticeable effect",
+      "needs refrigeration",
+      "capsule too large"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "align-probiotic-align-probiotic-24-7-digestive-support-63-capsules",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2079,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "digestive improvement",
+      "good strains",
+      "no bloating",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "needs refrigeration",
+      "no noticeable effect",
+      "bloating initially",
+      "capsule too large",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "culturelle-culturelle-digestive-health-probiotic-80-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 15000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 9000,
+      "4": 5250,
+      "3": 2250,
+      "2": 1200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "no bloating",
+      "easy to take",
+      "good strains",
+      "digestive improvement"
+    ],
+    "top_negative_keywords": [
+      "capsule too large",
+      "pricey",
+      "bloating initially",
+      "needs refrigeration",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "culturelle-culturelle-digestive-health-probiotic-80-capsules",
+    "channel": "iherb",
+    "total_reviews": 2800,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1680,
+      "4": 979,
+      "3": 420,
+      "2": 224,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "good strains",
+      "no bloating",
+      "digestive improvement",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "bloating initially",
+      "needs refrigeration",
+      "no noticeable effect",
+      "pricey",
+      "capsule too large"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "renew-life-renew-life-ultimate-flora-50-billion-60-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 6600,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good strains",
+      "easy to take",
+      "no bloating",
+      "digestive improvement",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "capsule too large",
+      "needs refrigeration",
+      "pricey",
+      "bloating initially",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "renew-life-renew-life-ultimate-flora-50-billion-60-capsules",
+    "channel": "iherb",
+    "total_reviews": 2100,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1260,
+      "4": 735,
+      "3": 315,
+      "2": 168,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "noticeable results",
+      "no bloating",
+      "digestive improvement",
+      "good strains"
+    ],
+    "top_negative_keywords": [
+      "no noticeable effect",
+      "bloating initially",
+      "pricey",
+      "capsule too large",
+      "needs refrigeration"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "garden-of-life-garden-of-life-dr.-formulated-probiotics-60-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 16800,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good strains",
+      "easy to take",
+      "no bloating",
+      "digestive improvement",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "no noticeable effect",
+      "pricey",
+      "needs refrigeration",
+      "bloating initially",
+      "capsule too large"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "garden-of-life-garden-of-life-dr.-formulated-probiotics-60-capsules",
+    "channel": "iherb",
+    "total_reviews": 5500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 3574,
+      "4": 1924,
+      "3": 825,
+      "2": 440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "digestive improvement",
+      "good strains",
+      "noticeable results",
+      "no bloating",
+      "easy to take"
+    ],
+    "top_negative_keywords": [
+      "bloating initially",
+      "pricey",
+      "capsule too large",
+      "needs refrigeration",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "olly-nutrition-olly-sleep-gummies-60-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 55000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 30250,
+      "4": 19250,
+      "3": 8250,
+      "2": 4400,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good taste",
+      "gentle formula",
+      "helps fall asleep",
+      "works well",
+      "no grogginess"
+    ],
+    "top_negative_keywords": [
+      "inconsistent results",
+      "too sweet",
+      "vivid dreams",
+      "tolerance builds",
+      "grogginess"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "olly-nutrition-olly-sleep-gummies-60-gummies",
+    "channel": "iherb",
+    "total_reviews": 5800,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 3190,
+      "4": 2029,
+      "3": 870,
+      "2": 464,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "helps fall asleep",
+      "good taste",
+      "works well",
+      "gentle formula",
+      "no grogginess"
+    ],
+    "top_negative_keywords": [
+      "vivid dreams",
+      "grogginess",
+      "tolerance builds",
+      "inconsistent results",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natrol-natrol-melatonin-5mg-250-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 42000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 25200,
+      "4": 14699,
+      "3": 6300,
+      "2": 3360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "gentle formula",
+      "good taste",
+      "no grogginess",
+      "works well",
+      "helps fall asleep"
+    ],
+    "top_negative_keywords": [
+      "inconsistent results",
+      "vivid dreams",
+      "tolerance builds",
+      "too sweet",
+      "grogginess"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natrol-natrol-melatonin-5mg-250-tablets",
+    "channel": "iherb",
+    "total_reviews": 4500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2924,
+      "4": 1575,
+      "3": 675,
+      "2": 360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "works well",
+      "good taste",
+      "gentle formula",
+      "no grogginess",
+      "helps fall asleep"
+    ],
+    "top_negative_keywords": [
+      "too sweet",
+      "inconsistent results",
+      "tolerance builds",
+      "grogginess",
+      "vivid dreams"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natural-vitality-natural-vitality-calm-sleep-gummies-120-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 8999,
+      "4": 6300,
+      "3": 2700,
+      "2": 1440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "helps fall asleep",
+      "works well",
+      "good taste",
+      "no grogginess",
+      "gentle formula"
+    ],
+    "top_negative_keywords": [
+      "grogginess",
+      "vivid dreams",
+      "tolerance builds",
+      "inconsistent results",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "qunol-qunol-ultra-coq10-200mg-120-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 32000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 19200,
+      "4": 11200,
+      "3": 4800,
+      "2": 2560,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "good quality",
+      "good absorption",
+      "energy boost",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "no noticeable effect",
+      "stomach upset",
+      "large capsule",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "qunol-qunol-ultra-coq10-200mg-120-softgels",
+    "channel": "iherb",
+    "total_reviews": 3500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2274,
+      "4": 1225,
+      "3": 525,
+      "2": 280,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "energy boost",
+      "easy to take",
+      "trusted brand",
+      "good quality",
+      "good absorption"
+    ],
+    "top_negative_keywords": [
+      "stomach upset",
+      "pricey",
+      "large capsule",
+      "no noticeable effect",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-high-absorption-coq10-120-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 16800,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "energy boost",
+      "trusted brand",
+      "good quality",
+      "easy to take",
+      "good absorption"
+    ],
+    "top_negative_keywords": [
+      "stomach upset",
+      "no noticeable effect",
+      "large capsule",
+      "taste",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-high-absorption-coq10-120-capsules",
+    "channel": "iherb",
+    "total_reviews": 4200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 2520,
+      "4": 1470,
+      "3": 630,
+      "2": 336,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "energy boost",
+      "good absorption",
+      "good quality",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "no noticeable effect",
+      "taste",
+      "stomach upset",
+      "large capsule",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "move-free-move-free-ultra-triple-action-75-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 35000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 21000,
+      "4": 12250,
+      "3": 5250,
+      "2": 2800,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "trusted brand",
+      "easy to swallow",
+      "joint pain relief",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "no effect for some",
+      "slow results",
+      "pricey",
+      "large pill",
+      "stomach upset"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "move-free-move-free-ultra-triple-action-75-tablets",
+    "channel": "iherb",
+    "total_reviews": 4800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 3119,
+      "4": 1680,
+      "3": 720,
+      "2": 384,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "joint pain relief",
+      "good value",
+      "noticeable results",
+      "easy to swallow",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "no effect for some",
+      "slow results",
+      "pricey",
+      "stomach upset",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "osteobi-flex-osteo-bi-flex-triple-strength-80-coated-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 16800,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "trusted brand",
+      "easy to swallow",
+      "joint pain relief",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "stomach upset",
+      "pricey",
+      "slow results",
+      "large pill",
+      "no effect for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "osteobi-flex-osteo-bi-flex-triple-strength-80-coated-tablets",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1920,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "good value",
+      "easy to swallow",
+      "trusted brand",
+      "joint pain relief"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "stomach upset",
+      "no effect for some",
+      "slow results",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "blackmores-blackmores-joint-formula-glucosamine-240-tablets",
+    "channel": "iherb",
+    "total_reviews": 2800,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 1819,
+      "4": 979,
+      "3": 420,
+      "2": 224,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "trusted brand",
+      "easy to swallow",
+      "joint pain relief",
+      "good value",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "no effect for some",
+      "stomach upset",
+      "pricey",
+      "slow results"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "jarrow-formulas-jarrow-formulas-milk-thistle-200-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 7200,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "trusted brand",
+      "liver support",
+      "noticeable results",
+      "easy to take"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "taste",
+      "large capsule",
+      "no noticeable effect",
+      "slow results"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "jarrow-formulas-jarrow-formulas-milk-thistle-200-capsules",
+    "channel": "iherb",
+    "total_reviews": 2100,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1260,
+      "4": 735,
+      "3": 315,
+      "2": 168,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "noticeable results",
+      "trusted brand",
+      "liver support",
+      "easy to take"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "large capsule",
+      "no noticeable effect",
+      "taste",
+      "slow results"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-milk-thistle-250mg-120-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 4675,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "easy to take",
+      "trusted brand",
+      "liver support",
+      "good quality"
+    ],
+    "top_negative_keywords": [
+      "slow results",
+      "pricey",
+      "no noticeable effect",
+      "large capsule",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-milk-thistle-250mg-120-capsules",
+    "channel": "iherb",
+    "total_reviews": 1800,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1080,
+      "4": 630,
+      "3": 270,
+      "2": 144,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "trusted brand",
+      "good quality",
+      "easy to take",
+      "liver support"
+    ],
+    "top_negative_keywords": [
+      "slow results",
+      "no noticeable effect",
+      "taste",
+      "large capsule",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-omega-vision-60-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 6500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3900,
+      "4": 2275,
+      "3": 975,
+      "2": 520,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "easy to take",
+      "trusted brand",
+      "eye comfort",
+      "noticeable improvement"
+    ],
+    "top_negative_keywords": [
+      "slow results",
+      "no noticeable effect",
+      "large softgel",
+      "pricey",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "goli-nutrition-goli-ashwagandha-gummies-60-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 28000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 13999,
+      "4": 9800,
+      "3": 4200,
+      "2": 2240,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "calm feeling",
+      "stress relief",
+      "good quality",
+      "noticeable results",
+      "natural"
+    ],
+    "top_negative_keywords": [
+      "no effect for some",
+      "taste",
+      "drowsiness",
+      "stomach upset",
+      "headaches"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "goli-nutrition-goli-ashwagandha-gummies-60-gummies",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 1760,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "stress relief",
+      "good quality",
+      "calm feeling",
+      "natural",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "headaches",
+      "drowsiness",
+      "no effect for some",
+      "stomach upset",
+      "taste"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-ashwagandha-450mg-180-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 15000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 8250,
+      "4": 5250,
+      "3": 2250,
+      "2": 1200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "natural",
+      "stress relief",
+      "good quality",
+      "noticeable results",
+      "calm feeling"
+    ],
+    "top_negative_keywords": [
+      "headaches",
+      "drowsiness",
+      "no effect for some",
+      "taste",
+      "stomach upset"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-ashwagandha-450mg-180-capsules",
+    "channel": "iherb",
+    "total_reviews": 2800,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1680,
+      "4": 979,
+      "3": 420,
+      "2": 224,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "stress relief",
+      "calm feeling",
+      "good quality",
+      "noticeable results",
+      "natural"
+    ],
+    "top_negative_keywords": [
+      "no effect for some",
+      "drowsiness",
+      "taste",
+      "stomach upset",
+      "headaches"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-brain-attention-90-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 5500,
+    "avg_rating": 4.2,
+    "rating_distribution": {
+      "5": 2475,
+      "4": 1924,
+      "3": 825,
+      "2": 440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "focus improved",
+      "mental clarity",
+      "good quality",
+      "no jitters"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "inconsistent results",
+      "no noticeable effect",
+      "jitters",
+      "headaches"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natures-way-nature's-way-sambucus-elderberry-gummies-120-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 38000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 22800,
+      "4": 13300,
+      "3": 5700,
+      "2": 3040,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "natural ingredients",
+      "good taste",
+      "stayed healthy",
+      "easy to take",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "packaging issue",
+      "sticky gummies",
+      "too sweet",
+      "no effect for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natures-way-nature's-way-sambucus-elderberry-gummies-120-gummies",
+    "channel": "iherb",
+    "total_reviews": 4500,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2924,
+      "4": 1575,
+      "3": 675,
+      "2": 360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "natural ingredients",
+      "easy to take",
+      "trusted brand",
+      "good taste",
+      "stayed healthy"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "no effect for some",
+      "packaging issue",
+      "sticky gummies",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "avogel-a.vogel-echinaforce-echinacea-120-tablets",
+    "channel": "iherb",
+    "total_reviews": 1800,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 990,
+      "4": 630,
+      "3": 270,
+      "2": 144,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "natural ingredients",
+      "trusted brand",
+      "easy to take",
+      "good taste",
+      "stayed healthy"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "sticky gummies",
+      "packaging issue",
+      "too sweet",
+      "no effect for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "enzymedica-enzymedica-digest-gold-180-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 22000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 14299,
+      "4": 7699,
+      "3": 3300,
+      "2": 1760,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "with meals",
+      "good quality",
+      "noticeable results",
+      "no bloating",
+      "digestion improvement"
+    ],
+    "top_negative_keywords": [
+      "no noticeable effect",
+      "stomach cramping",
+      "pricey",
+      "taste",
+      "large capsule"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-super-enzymes-180-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 15000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 8250,
+      "4": 5250,
+      "3": 2250,
+      "2": 1200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "no bloating",
+      "with meals",
+      "good quality",
+      "digestion improvement",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "large capsule",
+      "pricey",
+      "no noticeable effect",
+      "stomach cramping"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-super-enzymes-180-tablets",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1920,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "no bloating",
+      "digestion improvement",
+      "good quality",
+      "with meals"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "pricey",
+      "large capsule",
+      "no noticeable effect",
+      "stomach cramping"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natures-bounty-nature's-bounty-hair-skin-&-nails-gummies-230-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 48000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 26400,
+      "4": 16800,
+      "3": 7200,
+      "2": 3840,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good taste",
+      "hair growth",
+      "nail strength",
+      "skin improvement",
+      "noticeable results"
+    ],
+    "top_negative_keywords": [
+      "breakouts",
+      "no effect for some",
+      "pricey",
+      "slow results",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "natures-bounty-nature's-bounty-hair-skin-&-nails-gummies-230-gummies",
+    "channel": "iherb",
+    "total_reviews": 5500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3300,
+      "4": 1924,
+      "3": 825,
+      "2": 440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "nail strength",
+      "good taste",
+      "noticeable results",
+      "hair growth",
+      "skin improvement"
+    ],
+    "top_negative_keywords": [
+      "slow results",
+      "pricey",
+      "no effect for some",
+      "too sweet",
+      "breakouts"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "hum-nutrition-hum-nutrition-hair-sweet-hair-60-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 5999,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "nail strength",
+      "noticeable results",
+      "hair growth",
+      "skin improvement",
+      "good taste"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "breakouts",
+      "slow results",
+      "no effect for some",
+      "too sweet"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-curcumin-c3-complex-120-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 15000,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 9000,
+      "4": 5250,
+      "3": 2250,
+      "2": 1200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "trusted brand",
+      "joint relief",
+      "good quality",
+      "good absorption"
+    ],
+    "top_negative_keywords": [
+      "taste",
+      "no noticeable effect",
+      "stains",
+      "stomach upset",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "doctors-best-doctor's-best-curcumin-c3-complex-120-capsules",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 2079,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "trusted brand",
+      "good absorption",
+      "noticeable results",
+      "joint relief"
+    ],
+    "top_negative_keywords": [
+      "stains",
+      "taste",
+      "pricey",
+      "stomach upset",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "qunol-qunol-turmeric-2250mg-120-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 6600,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "joint relief",
+      "good absorption",
+      "noticeable results",
+      "good quality",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "no noticeable effect",
+      "taste",
+      "stomach upset",
+      "stains"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-green-tea-extract-400mg-250-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 4675,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "good value",
+      "natural",
+      "good quality",
+      "energy boost"
+    ],
+    "top_negative_keywords": [
+      "jitters",
+      "too strong",
+      "headaches",
+      "stomach upset",
+      "sleep disruption"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "now-foods-now-green-tea-extract-400mg-250-capsules",
+    "channel": "iherb",
+    "total_reviews": 1800,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1080,
+      "4": 630,
+      "3": 270,
+      "2": 144,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good value",
+      "good quality",
+      "easy to take",
+      "natural",
+      "energy boost"
+    ],
+    "top_negative_keywords": [
+      "stomach upset",
+      "sleep disruption",
+      "jitters",
+      "headaches",
+      "too strong"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "goli-nutrition-goli-apple-cider-vinegar-gummies-60-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 65000,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 32499,
+      "4": 22750,
+      "3": 9750,
+      "2": 5200,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "appetite control",
+      "good taste",
+      "easy to take",
+      "good results",
+      "natural"
+    ],
+    "top_negative_keywords": [
+      "no effect for some",
+      "too sweet",
+      "pricey",
+      "stomach upset",
+      "tooth sensitivity concern"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "goli-nutrition-goli-apple-cider-vinegar-gummies-60-gummies",
+    "channel": "iherb",
+    "total_reviews": 6200,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 3410,
+      "4": 2170,
+      "3": 930,
+      "2": 496,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good results",
+      "good taste",
+      "easy to take",
+      "appetite control",
+      "natural"
+    ],
+    "top_negative_keywords": [
+      "tooth sensitivity concern",
+      "no effect for some",
+      "pricey",
+      "too sweet",
+      "stomach upset"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "sports-research-sports-research-collagen-peptides-16-oz",
+    "channel": "amazon_us",
+    "total_reviews": 45000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 24750,
+      "4": 15749,
+      "3": 6750,
+      "2": 3600,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "good quality",
+      "tasteless",
+      "skin improvement",
+      "joint relief",
+      "dissolves easily"
+    ],
+    "top_negative_keywords": [
+      "taste in coffee",
+      "packaging changed",
+      "no effect for some",
+      "pricey",
+      "clumps"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "sports-research-sports-research-collagen-peptides-16-oz",
+    "channel": "iherb",
+    "total_reviews": 7500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 4500,
+      "4": 2625,
+      "3": 1125,
+      "2": 600,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "skin improvement",
+      "good quality",
+      "joint relief",
+      "tasteless",
+      "dissolves easily"
+    ],
+    "top_negative_keywords": [
+      "packaging changed",
+      "no effect for some",
+      "pricey",
+      "taste in coffee",
+      "clumps"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "dhc-japan-dhc-collagen-beauty-7000-60-tablets",
+    "channel": "iherb",
+    "total_reviews": 3200,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 1760,
+      "4": 1120,
+      "3": 480,
+      "2": 256,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "tasteless",
+      "joint relief",
+      "good quality",
+      "dissolves easily",
+      "skin improvement"
+    ],
+    "top_negative_keywords": [
+      "no effect for some",
+      "pricey",
+      "clumps",
+      "packaging changed",
+      "taste in coffee"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "fancl-fancl-htc-collagen-powder-30-packets",
+    "channel": "iherb",
+    "total_reviews": 1800,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 1080,
+      "4": 630,
+      "3": 270,
+      "2": 144,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "skin improvement",
+      "tasteless",
+      "good quality",
+      "joint relief",
+      "dissolves easily"
+    ],
+    "top_negative_keywords": [
+      "taste in coffee",
+      "clumps",
+      "pricey",
+      "packaging changed",
+      "no effect for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "renew-life-renew-life-daily-digestive-3-in-1-60-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 4249,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "noticeable results",
+      "gentle",
+      "regular",
+      "gut health",
+      "good quality"
+    ],
+    "top_negative_keywords": [
+      "bloating",
+      "pricey",
+      "gas",
+      "inconsistent results",
+      "slow results"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "pukka-herbs-pukka-herbs-cleanse-tea-20-tea-bags",
+    "channel": "amazon_us",
+    "total_reviews": 5500,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 3025,
+      "4": 1924,
+      "3": 825,
+      "2": 440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "clean ingredients",
+      "trusted brand",
+      "good quality",
+      "easy to take",
+      "good value"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "taste",
+      "slow results",
+      "large capsule",
+      "no noticeable effect"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "kirkland-signature-kirkland-signature-daily-multivitamin-500-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 22000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 14299,
+      "4": 7699,
+      "3": 3300,
+      "2": 1760,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "good energy",
+      "great value",
+      "trusted brand",
+      "easy to swallow"
+    ],
+    "top_negative_keywords": [
+      "pricey",
+      "upset stomach for some",
+      "bottle too big",
+      "aftertaste",
+      "large pill"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "ritual-vitamins-ritual-essential-for-women-60-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.3,
+    "rating_distribution": {
+      "5": 4249,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "great value",
+      "easy to swallow",
+      "trusted brand",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "large pill",
+      "upset stomach for some",
+      "aftertaste",
+      "pricey",
+      "bottle too big"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "smarty-pants-smartypants-kids-multivitamin-gummies-180-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 25000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 13750,
+      "4": 8750,
+      "3": 3750,
+      "2": 2000,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to swallow",
+      "great value",
+      "comprehensive formula",
+      "trusted brand",
+      "good energy"
+    ],
+    "top_negative_keywords": [
+      "aftertaste",
+      "large pill",
+      "upset stomach for some",
+      "bottle too big",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "pure-encapsulations-pure-encapsulations-magnesium-glycinate-360-capsules",
+    "channel": "amazon_us",
+    "total_reviews": 5500,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "5": 3300,
+      "4": 1924,
+      "3": 825,
+      "2": 440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "no stomach issues",
+      "noticeable results",
+      "muscle relaxation",
+      "great quality",
+      "helps sleep"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "loose stools",
+      "large pill",
+      "taste",
+      "weak effects for some"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "megafood-megafood-vitamin-d3-2000iu-90-tablets",
+    "channel": "amazon_us",
+    "total_reviews": 4500,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 2475,
+      "4": 1575,
+      "3": 675,
+      "2": 360,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "small softgel",
+      "trusted brand",
+      "good dose",
+      "doctor recommended"
+    ],
+    "top_negative_keywords": [
+      "price increased",
+      "taste",
+      "dose too high for some",
+      "packaging waste",
+      "too large softgel"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "carlson-labs-carlson-wild-caught-elite-omega-3-180-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 12000,
+    "avg_rating": 4.6,
+    "rating_distribution": {
+      "5": 7799,
+      "4": 4200,
+      "3": 1800,
+      "2": 960,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "trusted brand",
+      "good quality",
+      "no fish burps",
+      "fresh taste"
+    ],
+    "top_negative_keywords": [
+      "packaging issue",
+      "bad aftertaste",
+      "fish burps",
+      "large softgel",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "nordic-naturals-nordic-naturals-vitamin-d3-5000iu-120-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 8500,
+    "avg_rating": 4.7,
+    "rating_distribution": {
+      "5": 5950,
+      "4": 2975,
+      "3": 1275,
+      "2": 680,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "easy to take",
+      "small softgel",
+      "good dose",
+      "trusted brand",
+      "doctor recommended"
+    ],
+    "top_negative_keywords": [
+      "packaging waste",
+      "dose too high for some",
+      "taste",
+      "too large softgel",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "olly-nutrition-olly-women's-multi-gummies-90-gummies",
+    "channel": "amazon_us",
+    "total_reviews": 18000,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 9900,
+      "4": 6300,
+      "3": 2700,
+      "2": 1440,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "comprehensive formula",
+      "easy to swallow",
+      "great value",
+      "good energy",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "aftertaste",
+      "bottle too big",
+      "upset stomach for some",
+      "large pill",
+      "pricey"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  {
+    "product_id": "wileys-finest-wiley's-finest-wild-alaskan-fish-oil-peak-epa-60-softgels",
+    "channel": "amazon_us",
+    "total_reviews": 3500,
+    "avg_rating": 4.4,
+    "rating_distribution": {
+      "5": 1925,
+      "4": 1225,
+      "3": 525,
+      "2": 280,
+      "1": 0
+    },
+    "top_positive_keywords": [
+      "great value",
+      "good quality",
+      "fresh taste",
+      "no fish burps",
+      "trusted brand"
+    ],
+    "top_negative_keywords": [
+      "packaging issue",
+      "bad aftertaste",
+      "fish burps",
+      "large softgel",
+      "price increased"
+    ],
+    "last_updated": "2026-08-01"
+  }
 ]

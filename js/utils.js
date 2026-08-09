@@ -14,31 +14,60 @@ const PALETTE = {
 };
 
 const CATEGORY_COLORS = {
-  'whey-protein': '#4d9fff',
-  'plant-protein': '#3ecf8e',
-  'creatine': '#f5a623',
-  'pre-workout': '#f25c6e',
-  'bcaa-eaa': '#38bdf8',
-  'protein-bars': '#f472b6',
-  'rtd-shakes': '#a78bfa',
-  'mass-gainer': '#fbbf24',
-  'electrolytes': '#38bdf8',
-  'collagen': '#f472b6',
-  'lean-fat-burner': '#f25c6e'
+  // Sport nutrition
+  'whey-protein': '#4d9fff', 'plant-protein': '#3ecf8e',
+  'creatine': '#f5a623', 'pre-workout': '#f25c6e',
+  'bcaa-eaa': '#38bdf8', 'protein-bars': '#f472b6',
+  'rtd-shakes': '#a78bfa', 'mass-gainer': '#fbbf24',
+  'electrolytes': '#06b6d4', 'collagen': '#ec4899',
+  'lean-fat-burner': '#ef4444',
+  // Vitamins & Minerals
+  'vitamins-multivitamins': '#8b5cf6', 'vitamin-d': '#f59e0b',
+  'vitamin-c': '#f97316', 'vitamin-b': '#84cc16',
+  'calcium': '#e2e8f0', 'magnesium': '#6366f1',
+  'zinc': '#94a3b8', 'iron': '#dc2626',
+  // Specialty Supplements
+  'fish-oil-omega3': '#fbbf24', 'probiotics': '#22c55e',
+  'melatonin-sleep': '#1e293b', 'coq10': '#eab308',
+  'glucosamine-joint': '#d97706', 'milk-thistle-liver': '#65a30d',
+  'lutein-eye': '#06b6d4', 'ashwagandha': '#a855f7',
+  'brain-cognitive': '#7c3aed', 'immunity': '#10b981',
+  'digestive-enzymes': '#14b8a6', 'digestive-health': '#059669',
+  'hair-skin-nails': '#db2777', 'antioxidant': '#b45309',
+  'turmeric-curcumin': '#f59e0b', 'green-tea-extract': '#15803d',
+  'apple-cider-vinegar': '#a3e635'
 };
 
 const COUNTRY_FLAGS = {
   'US': '🇺🇸', 'UK': '🇬🇧', 'DE': '🇩🇪', 'PT': '🇵🇹',
-  'AU': '🇦🇺', 'NZ': '🇳🇿', 'CA': '🇨🇦', 'SE': '🇸🇪'
+  'AU': '🇦🇺', 'NZ': '🇳🇿', 'CA': '🇨🇦', 'SE': '🇸🇪',
+  'JP': '🇯🇵', 'FR': '🇫🇷', 'IT': '🇮🇹', 'CH': '🇨🇭',
+  'KR': '🇰🇷', 'NL': '🇳🇱'
 };
 
 const CATEGORY_NAMES = {
+  // Sport nutrition
   'whey-protein': '乳清蛋白', 'plant-protein': '植物蛋白',
   'creatine': '肌酸', 'pre-workout': '氮泵/Pre-Workout',
   'bcaa-eaa': 'BCAA/EAA', 'protein-bars': '蛋白棒',
   'rtd-shakes': '即饮蛋白', 'mass-gainer': '增肌粉',
   'electrolytes': '电解质', 'collagen': '胶原蛋白',
-  'lean-fat-burner': '减脂类'
+  'lean-fat-burner': '减脂类',
+  // Vitamins & Minerals
+  'vitamins-multivitamins': '综合维生素', 'vitamin-d': '维生素D',
+  'vitamin-c': '维生素C', 'vitamin-b': '维生素B族',
+  'calcium': '钙', 'magnesium': '镁',
+  'zinc': '锌', 'iron': '铁/补血',
+  // Specialty Supplements
+  'fish-oil-omega3': '鱼油/Omega-3', 'probiotics': '益生菌',
+  'melatonin-sleep': '褪黑素/睡眠', 'coq10': '辅酶Q10',
+  'glucosamine-joint': '氨糖/关节', 'milk-thistle-liver': '奶蓟草/护肝',
+  'lutein-eye': '叶黄素/护眼', 'ashwagandha': '南非醉茄',
+  'brain-cognitive': '脑力认知', 'immunity': '免疫力',
+  'digestive-enzymes': '消化酶', 'digestive-health': '肠胃健康',
+  'hair-skin-nails': '头发皮肤指甲', 'antioxidant': '抗氧化',
+  'turmeric-curcumin': '姜黄素', 'green-tea-extract': '绿茶提取物',
+  'apple-cider-vinegar': '苹果醋'
 };
 
 function formatPrice(usd) {
