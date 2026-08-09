@@ -1,7 +1,7 @@
 // ===== Trending Radar - 12-Platform Real-time Search =====
 // Calls friend's backend at localhost:18787
 
-var RADAR_API = 'http://localhost:18787';
+var RADAR_API = window.location.origin || 'http://127.0.0.1:18787';
 var radarState = {
   backendOnline: false,
   search: null,
@@ -60,7 +60,7 @@ async function checkBackend() {
 
   radarState.backendOnline = false;
   dot.className = 'radar-status-dot offline';
-  text.textContent = '后端未启动 · 双击启动看板.bat启动后端后刷新页面';
+  text.textContent = '后端未启动 · 请双击 启动看板.bat 后刷新页面';
   if (panel) panel.style.opacity = '1';
 }
 
