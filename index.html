@@ -36,7 +36,7 @@
 <nav class="tab-nav">
   <button class="tab-btn active" data-tab="overview">📊 概览仪表盘</button>
   <button class="tab-btn" data-tab="brands">🏷️ 品牌排行榜</button>
-  <button class="tab-btn" data-tab="opportunity">🎯 机会雷达</button>
+  <button class="tab-btn" data-tab="radar">🔍 爆款雷达</button>
   <button class="tab-btn" data-tab="compare">⚔️ 竞品对标</button>
   <button class="tab-btn" data-tab="trending">🔥 热搜趋势</button>
   <button class="tab-btn" data-tab="category">🗺️ 品类地图</button>
@@ -122,37 +122,67 @@
     </div>
   </div>
 
-  <!-- ========== TAB 3: Opportunity Radar ========== -->
-  <div class="tab-panel" id="panel-opportunity">
-    <div class="filters-bar">
-      <select class="filter-select" id="opportunity-category-filter"><option value="all">全部品类</option></select>
-      <span style="color:var(--text-muted);font-size:13px;margin-left:8px;">🔴 红色=未引入京东 · 🟢 绿色=已上架京东 · 右上角=高机会缺口</span>
-    </div>
-    <div class="chart-grid">
-      <div class="chart-card">
-        <div class="chart-card-header">
-          <div class="chart-card-title">🎯 机会缺口雷达</div>
-          <div class="chart-card-badge badge-hot">京东缺口</div>
-        </div>
-        <div class="chart-wrapper large"><canvas id="chart-opportunity-radar"></canvas></div>
-      </div>
-    </div>
-    <div class="chart-card" style="margin-top:16px;">
-      <div class="chart-card-header">
-        <div class="chart-card-title">📋 Top 15 未引入京东品牌</div>
-      </div>
-      <div class="data-table-wrap">
-        <table class="data-table">
-          <thead>
-            <tr><th>#</th><th>品牌</th><th>国家</th><th>全球排名</th><th>社媒粉丝</th><th>总评价</th><th>京东状态</th></tr>
-          </thead>
-          <tbody id="opportunity-table-body"></tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-
-  <!-- ========== TAB 4: Competitor Compare ========== -->
+  	  <!-- ========== TAB 3: Trending Radar ========== -->
+	  <div class="tab-panel" id="panel-radar">
+	    <div class="radar-status-bar" id="radar-status-bar">
+	      <span class="radar-status-dot" id="radar-status-dot"></span>
+	      <span id="radar-status-text">正在检测后端服务...</span>
+	    </div>
+	    <div class="radar-search-panel" id="radar-search-panel">
+	      <form id="radar-search-form" class="radar-search-form">
+	        <div class="radar-query-field">
+	          <label>趋势类目 / 目标人群</label>
+	          <input id="radar-query-input" name="query" placeholder="例如: whey protein, ashwagandha, collagen peptides..." autocomplete="off" />
+	        </div>
+	        <label class="radar-window-field">
+	          <span>时间窗</span>
+	          <select id="radar-window-select" name="window_days">
+	            <option value="7">7 天</option>
+	            <option value="30" selected>30 天</option>
+	            <option value="90">90 天</option>
+	          </select>
+	        </label>
+	        <button id="radar-search-btn" type="submit">🔍 生成雷达</button>
+	      </form>
+	      <div class="radar-market-toggles">
+	        <label class="radar-market-chip market-us"><input type="checkbox" value="US" checked /> 🇺🇸 US</label>
+	        <label class="radar-market-chip market-uk"><input type="checkbox" value="UK" checked /> 🇬🇧 UK</label>
+	        <label class="radar-market-chip market-ca"><input type="checkbox" value="CA" checked /> 🇨🇦 CA</label>
+	        <label class="radar-market-chip market-au"><input type="checkbox" value="AU" checked /> 🇦🇺 AU</label>
+	      </div>
+	    </div>
+	    <div class="radar-metric-strip" id="radar-metric-strip"></div>
+	    <div class="radar-insight-band" id="radar-insight-band">
+	      <div class="radar-insight-left">
+	        <h3>📋 本轮可验证机会</h3>
+	        <div class="radar-insight-list" id="radar-narrative-list"></div>
+	      </div>
+	      <div class="radar-insight-right">
+	        <h3>🏷️ 关联线索</h3>
+	        <div class="radar-tag-cloud" id="radar-tag-cloud"></div>
+	      </div>
+	    </div>
+	    <div class="chart-card" style="margin-top:16px;">
+	      <div class="radar-rankings-tabs">
+	        <button class="radar-tab active" data-radar-tab="content">📱 爆款社媒内容</button>
+	        <button class="radar-tab" data-radar-tab="creators">👤 垂类达人</button>
+	        <button class="radar-tab" data-radar-tab="opportunities">💡 机会洞察</button>
+	      </div>
+	      <div class="data-table-wrap">
+	        <table class="data-table radar-rankings-table">
+	          <thead id="radar-ranking-head"></thead>
+	          <tbody id="radar-ranking-body"></tbody>
+	        </table>
+	      </div>
+	    </div>
+	    <div class="chart-card" id="radar-detail-card" style="margin-top:16px;display:none;">
+	      <div class="chart-card-header">
+	        <div class="chart-card-title" id="radar-detail-title">📌 详情</div>
+	      </div>
+	      <div id="radar-detail-content"></div>
+	    </div>
+	  </div>
+<!-- ========== TAB 4: Competitor Compare ========== -->
   <div class="tab-panel" id="panel-compare">
     <div class="chart-card" style="margin-bottom:20px;">
       <div class="chart-card-header">
@@ -245,7 +275,7 @@
 <script src="js/data-loader.js"></script>
 <script src="js/charts/overview.js"></script>
 <script src="js/charts/brand-rankings.js"></script>
-<script src="js/charts/opportunity-radar.js"></script>
+<script src="js/charts/trending-radar.js"></script>
 <script src="js/charts/competitor-compare.js"></script>
 <script src="js/charts/trending-topics.js"></script>
 <script src="js/charts/category-map.js"></script>

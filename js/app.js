@@ -23,7 +23,7 @@ function initTabs() {
       // Lazy render on first visit
       if (target === 'overview' && !tab._rendered) { tab._rendered = true; renderOverview(window._dashboardData); }
       if (target === 'brands' && !tab._rendered) { tab._rendered = true; renderBrandRankings(window._dashboardData); }
-      if (target === 'opportunity' && !tab._rendered) { tab._rendered = true; renderOpportunityRadar(window._dashboardData); }
+      if (target === 'radar' && !tab._rendered) { tab._rendered = true; renderTrendingRadar(window._dashboardData); }
       if (target === 'compare' && !tab._rendered) { tab._rendered = true; renderCompetitorCompare(window._dashboardData); }
       if (target === 'trending' && !tab._rendered) { tab._rendered = true; renderTrendingTopics(window._dashboardData); }
       if (target === 'category' && !tab._rendered) { tab._rendered = true; renderCategoryMap(window._dashboardData); }
