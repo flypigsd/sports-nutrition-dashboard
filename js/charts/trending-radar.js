@@ -15,33 +15,39 @@ let radarState = {
 };
 
 function renderTrendingRadar(data) {
-  checkBackend();
+  document.getElementById('radar-search-btn').disabled =false;
   setupRadarUI();
+  checkBackend();
 }
 
 async function checkBackend() {
   const dot = document.getElementById('radar-status-dot');
   const text = document.getElementById('radar-status-text');
+  const panel = document.getElementById('radar-search-panel');
 
   try {
-    const resp = await fetch(`${RADAR_API}/api/bootstrap`, { signal: AbortSignal.timeout(3000) });
+    const ctrl = new AbortController();
+    setTimeout(() => ctrl.abort(), 5000);
+    const resp = await fetch(`${RADAR_API}/api/bootstrap`, { signal: ctrl.signal });
     if (resp.ok) {
       const payload = await resp.json();
       applyRadarPayload(payload);
       radarState.backendOnline = true;
       dot.className = 'radar-status-dot online';
-      text.textContent = '后端服务已连接 · 12平台实时搜索可用';
-      document.getElementById('radar-search-panel').style.opacity = '1';
+      text.textContent = '后端已连接 · 12平台实时搜索可用';
+      panel.style.opacity = '1';
       document.getElementById('radar-search-btn').disabled = false;
       renderRadarAll();
+      return;
     }
   } catch (e) {
-    radarState.backendOnline = false;
-    dot.className = 'radar-status-dot offline';
-    text.textContent = '后端服务未启动 · 请双击"启动看板.bat"后再使用爆款雷达';
-    document.getElementById('radar-search-panel').style.opacity = '0.5';
-    document.getElementById('radar-search-btn').disabled = true;
+    // backend not reachable
   }
+  radarState.backendOnline = false;
+  dot.className = 'radar-status-dot offline';
+  text.textContent = '后端未启动 · 双击"启动看板.bat"启动后端，然后刷新页面';
+  panel.style.opacity = '1';
+  document.getElementById('radar-search-btn').disabled = false;
 }
 
 function applyRadarPayload(payload) {
@@ -72,26 +78,32 @@ function setupRadarUI() {
 
 async function radarSearch(e) {
   e.preventDefault();
-  if (!radarState.backendOnline) return;
 
   const query = document.getElementById('radar-query-input').value.trim();
-  if (!query) return;
+  if (!query) { alert('请输入搜索关键词'); return; }
 
   const windowDays = parseInt(document.getElementById('radar-window-select').value);
   const markets = [...document.querySelectorAll('.radar-market-toggles input:checked')].map(cb => cb.value);
 
+  if (!markets.length) { alert('请至少选择一个市场'); return; }
+
   radarState.loading = true;
-  document.getElementById('radar-search-btn').disabled = true;
-  document.getElementById('radar-search-btn').textContent = '搜索中...';
+  const btn = document.getElementById('radar-search-btn');
+  btn.disabled = true;
+  btn.textContent = '搜索中...';
 
   try {
-    // Create search
-    const created = await fetch(`${RADAR_API}/api/trend-searches`, {
+    const createdResp = await fetch(`${RADAR_API}/api/trend-searches`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ query, window_days: windowDays, markets })
-    }).then(r => r.json());
+    });
 
+    if (!createdResp.ok) {
+      throw new Error(`服务器返回 ${createdResp.status}`);
+    }
+
+    const created = await createdResp.json();
     const searchId = created.search.id;
 
     // Fetch rankings in parallel
@@ -104,20 +116,23 @@ async function radarSearch(e) {
     applyRadarPayload({
       search: created.search,
       summary: created.summary,
-      content: content.items,
-      creators: creators.items,
-      opportunities: opportunities.items
+      content: content.items || [],
+      creators: creators.items || [],
+      opportunities: opportunities.items || []
     });
 
+    radarState.backendOnline = true;
+    checkBackend(); // refresh status dot
     renderRadarAll();
   } catch (err) {
     console.error('Radar search failed:', err);
     radarState.backendOnline = false;
     checkBackend();
+    alert('搜索失败：无法连接到后端服务 (localhost:18787)\n\n请确认已双击"启动看板.bat"启动后端。');
   } finally {
     radarState.loading = false;
-    document.getElementById('radar-search-btn').disabled = false;
-    document.getElementById('radar-search-btn').textContent = '🔍 生成雷达';
+    btn.disabled = false;
+    btn.textContent = '🔍 生成雷达';
   }
 }
 
