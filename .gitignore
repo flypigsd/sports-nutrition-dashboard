@@ -13,3 +13,4 @@ node_modules/
 Thumbs.db
 *.log
 scraper/playwright-browsers/
+.runtime/
